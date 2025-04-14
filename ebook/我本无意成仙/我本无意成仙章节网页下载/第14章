@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>第13章 有人来访_我本无意成仙_科幻小说_新笔趣阁</title>
+    <meta name="keywords" content="我本无意成仙,第13章 有人来访" />
+    <meta name="description" content="新笔趣阁提供了金色茉莉花创作的都市小说《我本无意成仙》干净清爽无错字的文字章节：第13章 有人来访在线阅读。" />
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta content="always" name="referrer">
+    <meta name="renderer" content=webkit>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="applicable-device" content="pc">
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="mobile-agent" content="format=html5; url=/book/33953/17566272.html" />
+    <meta http-equiv="mobile-agent" content="format=xhtml; url=/book/33953/17566272.html" />
+    <link rel="shortcut icon" type="image/ico" href="/images/favicon.ico" />
+    <link rel="stylesheet" href="/dist/xiaoshuo.css" />
+    <script type="text/javascript" src="/rule.json"></script>
+</head>
+
+<body>
+    <div class="ywtop">
+    <div class="ywtop_con">
+        <div class="ywtop_sethome">
+            <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.xsbiquge.la');" href="#">将新笔趣阁设为首页</a>
+        </div>
+        <div class="ywtop_addfavorite" name="top">
+            <a href="javascript:window.external.addFavorite('http://www.xsbiquge.la','新笔趣阁_无弹窗阅读小说网')">收藏新笔趣阁</a>
+        </div>
+        <div class="nri login-ok hide">
+            Hi,<a href="/user" target="_top" class="top-username"></a>
+            <a href="/bookcase" target="_top">我的书架</a> |
+            <a href="/user" target="_top">我的资料</a> |
+            <a href="/editpassword" target="_top">修改密码</a> |
+            <a href="/loginout" target="_self">退出登录</a>
+        </div>
+        <div class="nri login-fail hide">
+            <form name="mylogin" id="mylogin" method="post" action="/login">
+                <div class="cc">
+                    <div class="txt">账号：</div>
+                    <div class="inp"><input type="text" name="uname" id="uname"></div>
+                </div>
+                <div class="cc">
+                    <div class="txt">密码：</div>
+                    <div class="inp"><input type="password" name="pass" id="pass"></div>
+                </div>
+                <div class="frii">
+                    <input type="hidden" name="action" id="action" value="login">
+                    <input type="submit" title="登陆" class="int" onclick="return checkUserLogin()" value="登陆">
+                </div>
+                <div class="ccc">
+                    <div class="txtt"></div>
+                    <div class="txtt"><a href="/register">用户注册</a></div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+    <div class="header">
+	<div class="wrap">
+		<div class="logo">
+			<a href="/" title="新笔趣阁">新笔趣阁<em></em></a>
+		</div>
+        
+        <form name="mysearch" id="mysearch" method="get" action="/search">
+            <div class="search">
+                <input class="input" id="bdcsMain" name="keyword" type="text" maxlength="30" value="可搜书名或者作者，别输错字。" onblur="if (value ==''){value='可搜书名或者作者，别输错字。'}" onfocus="if (value =='可搜书名或者作者，别输错字。'){value =''}" id="bdcsMain">
+                <span class="s_btn"><input type="submit" value=" 搜 索 " class="searchBtn button" onclick="return checkSearch()"></span>
+            </div>
+        </form>
+        
+	</div>
+</div>
+    <div class="nav">
+    <ul> 
+        <li><a href="/" title="新笔趣阁">首页</a></li>
+        <li><a href="/class/1/">玄幻小说</a></li>
+        <li><a href="/class/2/">修真小说</a></li>
+        <li><a href="/class/3/">都市小说</a></li>
+        <li><a href="/class/4/">历史小说</a></li>
+        <li><a href="/class/5/">网游小说</a></li>
+        <li><a href="/class/6/">科幻小说</a></li>
+        <li><a href="/class/7/">女频小说</a></li>
+        <li><a href="/class/8/">其他小说</a></li>
+        <li><a href="/rank/">排行榜</a></li>
+        <li><a href="/over/">全本小说</a></li>
+        <li><a href="/history">阅读轨迹</a></li>
+    </ul>
+</div>
+    <div class="wrap">
+        <div class="detail-box" id="book">
+            <div class="path">
+                <div class="p"><a href="http://www.xsbiquge.la/">新笔趣阁</a> &gt; <a href="/book/33953/" title="我本无意成仙">我本无意成仙</a> &gt; 第13章 有人来访
+                <span class="oninfo"><div id="page_set">
+    <select onchange="javascript:setFont(this.options[this.selectedIndex].value);">
+        <option value="宋体">字体</option>
+        <option value="方正启体简体">默认</option>
+        <option value="黑体">黑体</option>
+        <option value="楷体_GB2312">楷体</option>
+        <option value="微软雅黑">雅黑</option>
+        <option value="方正启体简体">启体</option>
+        <option value="宋体">宋体</option>
+    </select>
+    <select onchange="javascript:setColor(this.options[this.selectedIndex].value);">
+        <option value="#000">颜色</option>
+        <option value="#000">默认</option>
+        <option value="#9370DB">暗紫</option>
+        <option value="#2E8B57">藻绿</option>
+        <option value="#2F4F4F">深灰</option>
+        <option value="#778899">青灰</option>
+        <option value="#800000">栗色</option>
+        <option value="#6A5ACD">青蓝</option>
+        <option value="#BC8F8F">玫褐</option>
+        <option value="#F4A460">黄褐</option>
+        <option value="#F5F5DC">米色</option>
+        <option value="#F5F5F5">雾白</option>
+    </select>
+    <select onchange="javascript:setSize(this.options[this.selectedIndex].value);">
+        <option value="#E9FAFF">大小</option>
+        <option value="19pt">默认</option>
+        <option value="10pt">10pt</option>
+        <option value="12pt">12pt</option>
+        <option value="14pt">14pt</option>
+        <option value="16pt">16pt</option>
+        <option value="18pt">18pt</option>
+        <option value="20pt">20pt</option>
+        <option value="22pt">22pt</option>
+        <option value="25pt">25pt</option>
+        <option value="30pt">30pt</option>
+    </select>
+    <select name="scrollspeed" id="scrollspeed" onchange="javascript:setSpeed(this.options[this.selectedIndex].value);">
+        <option value="5">滚屏</option>
+        <option value="1">最慢</option>
+        <option value="2">慢2</option>
+        <option value="3">慢3</option>
+        <option value="4">中4</option>
+        <option value="5">中5</option>
+        <option value="6">中6</option>
+        <option value="7">快7</option>
+        <option value="8">快8</option>
+        <option value="9">快9</option>
+        <option value="10">最快</option>
+    </select>
+    <select onchange="javascript:setBGColor(this.options[this.selectedIndex].value);">
+        <option value="#E9FAFF" style="background-color: #E9FAFF;">背景</option>
+        <option value="#E9FAFF" style="background-color: #E9FAFF;">默认</option>
+        <option value="#FFFFFF" style="background-color: #FFFFFF;">白雪</option>
+        <option value="#000000" style="background-color: #000000;color:#FFFFFF;">漆黑</option>
+        <option value="#FFFFED" style="background-color: #FFFFED;">明黄</option>
+        <option value="#EEFAEE" style="background-color: #EEFAEE;">淡绿</option>
+        <option value="#CCE8CF" style="background-color: #CCE8CF;">草绿</option>
+        <option value="#FCEFFF" style="background-color: #FCEFFF;">红粉</option>
+        <option value="#EFEFEF" style="background-color: #EFEFEF;">深灰</option>
+        <option value="#F5F5DC" style="background-color: #F5F5DC;">米色</option>
+        <option value="#D2B48C" style="background-color: #D2B48C;">茶色</option>
+        <option value="#C0C0C0" style="background-color: #E7F4FE;">银色</option>
+    </select>
+    <select onchange="javascript:setWidth(this.options[this.selectedIndex].value);">
+        <option value="95%">宽度</option>
+        <option value="95%">默认</option>
+        <option value="85%">85%</option>
+        <option value="76%">75%</option>
+        <option value="67%">65%</option>
+        <option value="53%">50%</option>
+        <option value="41%">40%</option>
+    </select>
+    夜间<input type="checkbox" name="night" id="night" onchange="javascript:setNight();" value="">
+</div></span>
+                </div>
+            </div>
+            <div class="content">
+                <h1>我本无意成仙</h1>
+                <div class="link">
+                    <span>金色茉莉花推荐阅读：
+                            <a href="/book/34294/">我在荒岛肝属性</a>、
+                        
+                            <a href="/book/33953/">我本无意成仙</a>、
+                        
+                            <a href="/book/6429/">轮盘世界</a>、
+                        
+                            <a href="/book/25325/">光明壁垒</a>、
+                        
+                            <a href="/book/35667/">牧者密续</a>、
+                        
+                    </span>
+                </div>
+                <div id="content"  class="showtxt">
+                    
+                    
+                    
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        罗捕头今日又回来得晚。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        王氏依然端来热水为他洗脚，见自家官人满面疲惫，不由得问道：
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “人还是没抓到吗？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “怎么可能抓得到？”罗捕头长长叹气，“那人多疑又狡猾，我们设了几处陷阱，要么是方法无效，要么就是他提前识破，根本不踩进去。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “什么方法无效？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “就是泰安寺高人的法子。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “知县那边……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “还有几日期限。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “要我说，这么硬抓还是不行的，人家虽不会飞天，却会遁地，让你们去抓，这不是在难为人吗？难不成还能把他架起来让他摸不到地？”王氏说道，为夫君细心洗脚，“还是得找高人帮忙才行。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “还找什么高人？那埋一圈粪的法子不就是泰安寺高人出的么？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “换个别的高人请教呢。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “在哪还能找到别的高人？”罗捕头烦躁而惆怅，“除妖驱鬼的人我倒是认识一些，可他们你也知道，只是一群知道些土方法的胆大之徒而已，最多能出些馊主意，怕是帮不了我。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “我看对面那小先生是个有本事的，不如去问问他有何办法。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “那小先生？高人？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        罗捕头不由皱起了眉头。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “那小先生搬到隔壁好几日了，一点惧怕的意思都不见有，每天正常进出。今日晚上我和他聊了几句，问他难道不怕那院中女鬼，你猜他怎么说？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “怎么说？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        王氏便将今日晚间的谈话告知了他。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        罗捕头听说完后，倒不见得听出了宋游有多少分本事，但也立马觉得这是个妙人。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “不畏阴魂，可能只是胆大，就算有本事，也不见得能帮得上忙。”罗捕头将腿从木盆里拿了起来，也没有立马将所有希望都寄托于此，“再过几日没有法子的话，我便带礼过去拜访一下吧。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        王氏又蹲了下去，为他擦脚。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        ……
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        日上三竿我独眠，不是神仙胜神仙。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游又睡到了中午。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这几日起得是越来越晚了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        有时候在床上躺到中午才起床，有时候早早就起来了，也在房间里打坐修行，一直到中午才出去。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这样能省一顿早饭。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        下午便看看书，天气好的话也出去逛一逛，买点菜回来，亲手做顿晚饭。到了晚上则出去歇歇凉，跟四周的街坊邻居凑在一起，听他们聊家长里短，感受一下逸都城的生活。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        每天晚上院中阴魂还是照例会高歌一两曲，不然就是在院中跳舞，有时也能看清身形和样貌。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        是个已不再年轻的女子。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游习惯之后，便毫不在意了，真真只把她当成了枯燥生活的调剂。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        甚至被她渐渐养成了听曲的习惯。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        有时晚上遇见她突然出现他也不觉惊骇，倒是三花娘娘容易受惊，常常走过一个转角碰见她，或者自己在做什么的时候碰上她突然出现，会被吓得跳起来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        不过昨晚……
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这女子有时会在不同房间乱窜，昨晚竟打开了宋游的房间门，在门口看了他许久，无疑影响到了他睡眠。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        要不是良心过不去，他肯定将自己睡到这么晚才醒的原因推到这女鬼身上。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        不过这个问题还是得解决才行。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游想了想，决定出去买几张黄麻纸，再买上笔砚朱砂，画几张符贴在卧室门口，让那女鬼不得靠近。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        同时这几日来越来越多人听说了他的事，觉得他是有本事的，于是开始有人来向他请教中邪遇鬼之事，还有人想向他求购驱邪或保平安的符箓，宋游觉得此事可行，多少也能挣点菜肉钱。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        以前在道观时这也是一大收入来源。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        勾栏附近似乎卖杂七杂八的东西的很多，吃过饭可以去看看。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游如是想着，也爬了起来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        昨晚剩的酸菜粥还没吃完，进锅热了热，便是中午的午饭了，也有滋有味的。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        吃完洗了碗，宋游直接往外走，只对院子里的三花猫说：“三花娘娘，我出门一趟，拜托你看家。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “知道了。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        三花猫专心玩耍，头都没回。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游出门沿小巷而下。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        没走多远，便是一片勾栏瓦舍。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        前面说了，这里是一个综合性的吃喝玩乐的娱乐场所，依托于逸都的繁华，现在虽是白天，却也很热闹。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        一路过去，除了唱戏曲的，还有讲评书的，有角力比武的，有投壶射箭的，各有各的看法和玩法。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游明明是来买黄纸的，却一时忍不住被那讲评书的老先生吸引，在此坐了下来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        甚至还要了壶茶。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “那阿延齐带着一众亲兵从水上追到陆上，那叫个穷追不舍，非将马元帅杀死在这里不可！关键时刻，马元帅逃上一条小路，阿延齐连忙追上，却只见前方路面上出现了一员大将！
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “好威风一员大将！！
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “黑盔黑甲黑战袍，脚下黑色虎头战靴，手提一柄红缨枪，胯下一头花斑兽，是面如冠玉，眼似寒星！
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “大将身后五百持刀校尉，都长得一般高，各自手提大刀，那刀长五尺，刀头二尺半，刀杆二尺半，大刀是刀寛背厚刃飞薄，背厚有一指，刃厚一丝，光闪闪明亮亮白湛湛冷森森，隔着几丈仍有逼人之寒，每人背后还都背着铁胎弓雕翎箭，一个个好似猛虎生双翅，蛟龙海中游……
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “正是陈信陈子毅将军！
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “阿延齐当即大惊，陈子毅怎会出现在这里？
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “更要紧的是，当前自己手下谁能敌得过陈子毅？又有谁能敌得过这支陈子毅的亲兵？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这是这个世界一段真实历史。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        就发生在几年之前。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        当时大晏北方发生战争，三军大元帅马宏不慎遭到伏击，军队大败。即将被敌军主帅俘虏时，眼下在说书人口中热度极高的陈信将军赶到，传闻他几乎是单枪匹马喝住了阿延齐的追兵，救下元帅，留下一件传奇。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这位说书的老先生以很激昂的语气讲了这个故事，当然，是有些艺术加工的。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游对这种故事很感兴趣。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        大抵是觉得此般传奇的故事必定青史留名，那么很多年后，后人在读历史时多半也会读到这个故事吧？读到他在千年前就已经听说过的一样的故事。这对他这个滞留古代的人来说，也算一种安慰了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        于是他一直听完，才起身离开。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        没有忘记出来的目的。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        随后在勾栏瓦舍里里外外转了一圈，成功找到一家卖黄麻纸的店铺。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        画符并不是非得用黄纸，只是长久以来佛道二门和民间奇人已形成了习惯，多数符箓都用黄纸来画。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        也不是非得用麻纸。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        一般用藤纸麻纸都是可以的，少有用竹纸的，更没有用宣纸的。通常来说各个地方有各个地方的习惯，例如产麻纸的地方便多用黄麻纸来画符，产藤纸的地方便多用藤纸画符，而逸州盛产竹纸和麻纸。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游也用惯了黄麻纸。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这家店的纸做得不错，纸张厚实坚韧，这样的纸只要不受潮，经久不易变色。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        黄麻纸比白麻纸还要厚一些，也更粗糙一些，呈现淡黄色，背面有些草棍和纸屑，也都不影响使用。只是宋游拿起一张黄麻纸对着天左看右看，总感觉颜色有些不对。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “客官，怎了？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “不知是我眼花了还是怎的，总觉得有些偏红呢？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “哎哟！客官真是好眼力！一眼就看出来了！”店家立马堆笑，“这一批纸是昨日才新造的，造纸时小人家中顽童不甚弄了些染红纸的颜料进去，不过寻常人可没客官这眼力！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “原来如此……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “这……影响客官使用吗？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “影响不大。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        店家闻言顿时松了口气，又吹嘘道：“客官您来到小店可算是来对了，可不是自我吹嘘，小人自认自己造的麻纸在整个逸都也少有人能及，即使是那些大店，也轻易比不上小人家的纸，也就是小店名声不显，可但凡在小店买过纸的人，保管会再回来！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “便宜点吧。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “最便宜了……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游一番讨价还价，买了一沓黄麻纸，又买了一支笔、一块砚台和一条墨，居然也花了三百多文钱。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        其中笔墨砚都是最普通的货色，若是要买好的，那就上不封顶了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这个年代，读书写字是真贵。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        朱砂则是换了家店买的。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        回去的路上，看见肉铺，想着反正都花了不少钱，便又割了一斤多猪肉，再买了点蒜苗，这才满意而归。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “吱呀~”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        刚一推开院门，便见一道杂色影子飞快从里屋跑出来，一见他就说：
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “道士，刚刚有人敲门找你。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “谁呀？三花娘娘给他们开门了吗？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “好像是那天在城门口遇见的那些人，还有住在对面的人。”三花猫仰头盯着他，“三花娘娘没有开门，你说不让三花娘娘在普通人面前说话。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “记得就好，不用畏之如虎。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “什么？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “敲门的有两拨人吗？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “对的，他们还在门口遇上了，还聊了一会儿天。”三花猫说道，“他们说明天再来。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “知道了，多谢三花娘娘。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “不必多礼。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “我买了猪肉，三花娘娘想吃生的还是熟的？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “跟你一样。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “那好。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游也不再管今天来敲门的人，提着肉菜便到了灶屋，开始收拾起来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        大米煮后沥水，上蒸笼。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        上好的二刀肉加花椒生姜煮至八成熟，切成薄片，蒜苗洗净切段，在三花娘娘的注视下重新起锅烧油，将肉片以小火煸出灯盏窝，往灶里再添一把火，便嗤一声下入蒜苗。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        整个过程宋游都可以独自完成。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        而他也一点不手忙脚乱，反而忙中有序，在这人间烟火气里，寻找着属于自己内心的宁静。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        无需多的作料，只需以豆豉酱油调味，一道美味的回锅肉便出炉了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这个年代炒菜兴起也就几十年，也许还没有这道菜，可这座小院已升起了本该属于若干年后的菜香。
+                        
+                    </p>
+                    <br/>
+                    
+                    
+                </div>
+            </div>
+            <div class="page_chapter">
+                    <ul>
+                    
+                    <li><a href="/book/33953/17566271.html" target="_top" class="pre">上一章</a></li>
+                    
+                    <li><a href="/book/33953/" target="_top" title="" class="back">章节列表</a></li>
+                    
+                    <li><a href="/book/33953/17566273.html" target="_top" class="next">下一章</a></li>
+                    
+                    <li><a href="javascript:;" onclick="addBookmark('17566272','第13章 有人来访','33953');">加入书签</a></li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer" name="footer">
+    
+        <div id="firendlink">
+	友情连接： <a href="/sitemap.xml" target="_blank">网站地图</a> 
+</div> 
+    
+    <hr>
+   <p>本站所有小说为转载作品，所有章节均由网友上传，转载至本站只是为了宣传本书让更多读者欣赏。</p> 
+   <p>Copyright &copy; 2019 新笔趣阁 All Rights Reserved.</p> 
+  </div>
+    <div class="link">
+        <span>小说相关推荐：
+            
+                <a href="/book/37034/">诡异收容所，你收容我一个人类？</a>、
+            
+                <a href="/book/37025/">末世：让你屯物资，没让你屯女神</a>、
+            
+                <a href="/book/36746/">猩红领主：开局成为血族始祖</a>、
+            
+                <a href="/book/36739/">转职牧师，技能却伤害爆炸</a>、
+            
+                <a href="/book/36730/">人在斗罗写日记，霍挂竟是我自己</a>、
+            
+                <a href="/book/36445/">福缘太高怎么办</a>、
+            
+                <a href="/book/36390/">斗罗：人在绝世，悟性逆天</a>、
+            
+        </span>
+    </div>
+    <hr/>
+    <p>《<a href="/book/33953/">我本无意成仙</a>》是作者：金色茉莉花倾才力献的一部情节荡气回肠，扣人心弦的佳作</p>
+    <div id="tbox">
+        <a id="gotop" href="#top" style="display: inline;"></a>
+        <a id="gobottom" href="#footer"></a>
+    </div>
+</body>
+<script src="/dist/jquery.min.js"></script>
+<script src="/dist/md5.min.js"></script>
+<script src="/dist/common.js"></script>
+<script language="javascript">
+    $(document).ready(function() {
+        if (typeof addBookMarkByJs != 'undefined' && addBookMarkByJs instanceof Function)
+            addBookMarkByJs(17566272, 33953, '第13章 有人来访');
+        setCookie("visitedId", 33953, 365);
+        
+            window.prevpage = "/book/33953/17566271.html";
+        
+        
+            window.nextpage = "/book/33953/17566273.html";
+        
+        window.index_page = "/book/33953/";
+        
+        
+        var doc = $(".content_detail");
+        for (var i = 0;  i < doc.length; i++) {
+            var pdoc = $(doc[i]);
+            var oldstr = pdoc.text();
+            var newstr = pdoc.text();
+            for (var j = 0; j < ruleList.length; j++) {
+                var rule = new RegExp(ruleList[j],"gi");
+                if ( rule.test( newstr ) ) {
+                    newstr = newstr.replace( rule , "" );
+                }
+            }
+            if ( oldstr != newstr ) {
+                pdoc.text(newstr);
+            }
+        }
+    });
+</script>
+<script>
+    (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        } else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<script></script>
+<script>goTo('http://m.xsbiquge.la/book/33953/17566272.html');</script>
+</html>

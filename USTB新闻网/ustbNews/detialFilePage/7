@@ -1,0 +1,643 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="北京科技大学新闻网" />
+    
+    <title>赴莱奥本大学国际专项研究生顺利完成第一期课程学习-北京科技大学新闻网</title><META Name="keywords" Content="北京科技大学新闻网,新闻导读,研究生,顺利,国际,大学,完成,课程,莱奥本,赴,学习" />
+<META Name="description" Content="近日，我校参加研究生创新人才国际交流专项的11名学生已完成第一阶段课程学习，新年假期后将要进入下一阶段的科学研究。11月27日，莱奥本大学国际事务中心为他们举行了欢迎仪式。国际事务中心运营主管JohannesCaliskan，事务专员KarinaMichelini-Rodríguez及中国顾问周洁出席了欢迎会。欢迎仪式合影Johannes详细了解了学生们的学习计划，表示愿意随时提供支持和帮助，也鼓励他们利用莱奥本大学的平台与国际同行沟通学术观点、分..." />
+
+    <link rel="shortcut icon" href="../../images/favicon.ico" />
+  <link rel="stylesheet" href="../../css/style.css?v=1.1" />
+    <link rel="stylesheet" href="../../css/style2.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/index.css?v=2" />
+    <script src="../../js/jquery.min.js"></script>
+    <script src="../../js/share/babel.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="../../js/share/buttonLite.js"></script>
+    <script type="text/javascript" charset="utf-8" src="../../js/share/bshareC0.js"></script>
+ 
+ <script>
+            window.addEventListener("onorientationchange" in window ? "orientationchange" : "resize", hengshuping, false);
+            function hengshuping() {
+            
+                if (window.orientation == 90 || window.orientation == -90) {
+        
+                    $('.view').css("display", "flex")
+                } else {
+                    $('.view').css("display", "none")
+                }
+            }
+                jQuery(function () {
+            view();
+            jQuery(window).resize(function () { view(); });
+            
+            function view() { 
+                w = jQuery(window).width(); h = jQuery(window).height(); 
+                console.log(w,h)
+                if(w<768){
+                    if (w > h) { 
+                        jQuery('.view').show() 
+                    } else { 
+                        jQuery('.view').hide() 
+                    } }
+                }
+        });
+    </script><style>
+    .view {
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, .98);
+            color: #fff;
+            text-align: center;
+            position: fixed;
+            z-index: 60;
+            font-size: 20px;
+            display: none;
+            justify-content: center;
+            align-items: center;
+            padding: 0 50px;}
+    </style>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e784654535a5742000100054250 -->
+<link rel="stylesheet" type="text/css" href="../../bkzx_content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1087,'/bkzx_content.jsp',61015,1791272759)</script>
+</head>
+
+<body>
+   <div class="loader"></div>
+<div class="header ">
+ <div class="wps flex">
+   <div class="logo">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../../index.htm" title="新闻网"><img src="../../images/logo20231018.png" alt="" /></a></div>
+   <div class="hd-r flex-v-center">
+      <div class="flex">
+        
+         <script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><div class="hd-ico ">
+
+
+           <a href="https://www.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70368)">北科主页</a>
+         
+
+
+
+           <a href="https://newsold.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70292)">旧版新闻网</a>
+         
+
+
+
+           <a href="http://ustb.id.ustb.edu.cn/login" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 66646)">新闻投稿</a>
+         
+
+</div>
+          <div class="hd-serp"><script type="text/javascript">
+    function _nl_ys_check2(){
+        
+        var keyword = document.getElementById('showkeycode1020986').value;
+        if(keyword==null||keyword==""){
+            alert("Please enter the content you want to search!");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey1020986").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey1020986").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey1020986").value = base64.encode(document.getElementById("lucenenewssearchkey1020986").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode1020986"));
+        return true;
+    } 
+</script>
+<form class="hd-ser pore" action="../../ssjgy.jsp?wbtreeid=1087" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check2()">
+ <input type="hidden" id="lucenenewssearchkey1020986" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype1020986" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope1020986" name="searchScope" value="1">
+
+ 
+ <input type="text" placeholder="输入关键词搜索" class="inp" name="showkeycode" id="showkeycode1020986">
+             <input type="submit" value="" class="sub">
+ 
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+</div>
+         <div class="hd-nav-btn pore">
+          <button class="menu-btn1 navbtn">
+            <span class="line-1"></span><span class="line-2"></span><span class="line-3"></span>MENU
+          </button>
+         </div>
+      </div>
+   </div>
+ </div>
+
+ <div class="hd-nav">
+             <span class="hd-nav-close swiper-icons swi-close"></span>
+             <ul><li><a href="https://www.ustb.edu.cn/">北科主页</a></li>
+<li><a href="../../ttxw.htm">头条新闻</a></li>
+<li><a href="../../bkzx/xwdd.htm">北科资讯</a></li>
+<li><a href="../../stkj/tsbk/bksj.htm">视听空间</a></li>
+<li><a href="../../mtbk.htm">媒体北科</a></li>
+<li><a href="../../zhuantixinwen.htm">专题推荐</a></li>
+<li><a href="../../bkrw.htm">北科人物</a></li>
+<li><a href="../../szjy/szzx.htm">思政教育</a></li>
+<li><a href="../../bkrm1.htm">北科融媒</a></li>
+<li><a href="../../llxx.htm">理论学习</a></li>
+<li><a href="../../lianxiwomen.htm">联系我们</a></li>
+</ul>
+  </div>
+
+
+ 
+</div>
+
+<!-- 移动端头部s -->
+   <div class="headerm flex">
+      <div class="logo flex-v-center">    
+<a href="../../index.htm">
+        <img src="../../images/logo20231018.png" alt="">
+      </a>
+
+</div>
+      <div class="mobNavbtn flex">
+        <a href="javascript:;" class="trans searchbtn toSearch2 flex-v-center"><img src="../../images/serbtn.svg" height="20" /></a>
+        <div class="flex-v-center">
+          <button class="menu-btn navbtnm">
+            <span class="line-1"></span><span class="line-2"></span><span class="line-3"></span>MENU
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="sermob"><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode1020989').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey1020989").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey1020989").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey1020989").value = base64.encode(document.getElementById("lucenenewssearchkey1020989").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode1020989"));
+        return true;
+    } 
+</script>
+<form class="flex pore" action="../../ssjgy.jsp?wbtreeid=1087" method="post" id="au5a" name="au5a" onsubmit="return _nl_ys_check()">
+ <input type="hidden" id="lucenenewssearchkey1020989" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype1020989" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope1020989" name="searchScope" value="1">
+ 
+ 
+ <input type="text" placeholder="搜索..." class="inp" name="showkeycode" id="showkeycode1020989" />
+        <input type="submit" class="sub" value="" />
+ 
+
+</form>
+  <span class="swiper-icons swi-close close"></span>
+</div>
+
+    <div class="mobNav">
+      <div class="flex toplink">
+
+
+         <a href="https://www.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70293)">北科主页</a>
+      
+
+</div>
+      <ul class="flex"><li><div class="navp flex"><a href="https://www.ustb.edu.cn/">北科主页</a></div></li>
+<li><div class="navp flex"><a href="../../ttxw.htm">头条新闻</a></div></li>
+<li><div class="navp flex"><a href="../../bkzx/xwdd.htm">北科资讯</a></div></li>
+<li><div class="navp flex"><a href="../../stkj/tsbk/bksj.htm">视听空间</a></div></li>
+<li><div class="navp flex"><a href="../../mtbk.htm">媒体北科</a></div></li>
+<li><div class="navp flex"><a href="../../zhuantixinwen.htm">专题推荐</a></div></li>
+<li><div class="navp flex"><a href="../../bkrw.htm">北科人物</a></div></li>
+<li><div class="navp flex"><a href="../../szjy/szzx.htm">思政教育</a></div></li>
+<li><div class="navp flex"><a href="../../bkrm1.htm">北科融媒</a></div></li>
+<li><div class="navp flex"><a href="../../llxx.htm">理论学习</a></div></li>
+</ul>
+    </div>
+    <!-- 移动端头部e -->
+   
+    <div class="ban" style="background-image: url(../../images/bkzx.jpg);">
+        <!-- <div id="snow"></div> -->
+        <div id="parallax">
+            <div class="layer" data-depth="0">
+                <div id="particles-js"></div>
+            </div>
+        </div>
+        <div class="txt">
+            <div class="wp">
+                <div class="box">
+                   <h3 class="tit">
+
+
+
+北科资讯</h3>
+                    <div class="en">INFORMATION</div>
+                    <div class="cur">       <a href="https://www.ustb.edu.cn/">北科主页</a>   &gt; 
+        
+                <a href="../../index.htm">北科新闻</a>
+  
+               &gt; 
+
+                <a href="../../bkzx/xwdd.htm">北科资讯</a>
+  
+               &gt; 
+
+                <a href="../../bkzx/xwdd.htm">新闻导读</a>
+  
+               &gt; 
+
+                <a href="">正文</a>
+  
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 内容区域 -->
+    <div class="main ls" style="background-image: url(../../images/bgq1.jpg);">
+        <div class="wp fix">
+          <div class="cur cur-m">       <a href="https://www.ustb.edu.cn/">北科主页</a>   &gt; 
+        
+                <a href="../../index.htm">北科新闻</a>
+       
+               &gt; 
+
+                <a href="../../bkzx/xwdd.htm">北科资讯</a>
+       
+               &gt; 
+
+                <a href="../../bkzx/xwdd.htm">新闻导读</a>
+       
+               &gt; 
+
+                <a href="">正文</a>
+       
+</div>
+        </div>
+<div class="m-blackm l1"></div>
+        <div class="m-boxls1">
+            <div class="wp fix">
+
+                <div class="col-l wow fadeInUp">
+                    <div class="m-textq1">
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+
+<h1 class="nry_bt">赴莱奥本大学国际专项研究生顺利完成第一期课程学习</h1>
+
+
+                        <div class="info">
+                            <div class="item">
+                                <span class="date">2023-12-26</span>
+                            </div>
+                            <div class="item">
+                                <span>单位(作者)：研究生院 杨棉之</span>
+                               
+                               </div>
+                        </div>
+                        <div class="txt">
+                       
+
+    <div id="vsb_content"><div class="v_news_content">
+<p class="vsbcontent_start">近日，我校参加研究生创新人才国际交流专项的11名学生已完成第一阶段课程学习，新年假期后将要进入下一阶段的科学研究。11月27日，莱奥本大学国际事务中心为他们举行了欢迎仪式。国际事务中心运营主管Johannes Caliskan，事务专员Karina Michelini-Rodríguez及中国顾问周洁出席了欢迎会。</p> 
+<p class="vsbcontent_img"><img src="/__local/C/C9/1B/F1D63633E395529CDE49566F5F3_EEA09A80_12040E.jpg" width="954" title="orientation.jpg" alt="orientation.jpg" word_img="" old_src="/storage/FD99AC9864DCBD62C3A9424601A7B63D/water/pic/3D4334EFE178AC237B7288504091AC1B" vsbhref="vurl" vurl="/_vsl/CC91BF1D63633E395529CDE49566F5F3/EEA09A80/12040E" vheight="" vwidth="954" orisrc="/__local/C/C9/1B/F1D63633E395529CDE49566F5F3_EEA09A80_12040E.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">欢迎仪式合影</p> 
+<p>Johannes详细了解了学生们的学习计划，表示愿意随时提供支持和帮助，也鼓励他们利用莱奥本大学的平台与国际同行沟通学术观点、分享研究成果、增进学术友谊。Karina介绍了莱奥本大学的学术资源、学习场所、体育场馆和高效、便捷的Studienzentrum Montanuniversität（学习中心）。周洁分享了莱奥本市和大学的历史沿革和发展现状帮助学生们快速适应新环境。</p> 
+<p class="vsbcontent_img"><img src="/__local/9/9E/FD/1825006A7BAAFF0B9A882712DE7_10859910_2B2ADF.jpg" width="954" title="修辞学课堂.jpg" alt="修辞学课堂.jpg" word_img="" old_src="/storage/86D952A8EDCBA021E7FAF15E765FE067/water/pic/B2D1236C286A3C0704224FE4105ECA49" vsbhref="vurl" vurl="/_vsl/99EFD1825006A7BAAFF0B9A882712DE7/10859910/2B2ADF" vheight="" vwidth="954" orisrc="/__local/9/9E/FD/1825006A7BAAFF0B9A882712DE7_10859910_2B2ADF.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">合影留念</p> 
+<p class="vsbcontent_img"><img src="/__local/2/EF/91/FF4D227F92DC54DF59232AD8642_96D64D9E_30A2D.jpg" width="954" title="课程列表.jpg" alt="课程列表.jpg" vsbhref="vurl" vurl="/_vsl/2EF91FF4D227F92DC54DF59232AD8642/96D64D9E/30A2D" vheight="" vwidth="954" orisrc="/__local/2/EF/91/FF4D227F92DC54DF59232AD8642_96D64D9E_30A2D.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">课程表</p> 
+<p><span style="text-indent: 32px; text-wrap: wrap;">学生们根据各自的学科专业选修了矿业、冶金、材料、机械、能源等课程。修辞学基础是每位留学生的必修课程，与来自世界各国的留学生交流、辩论，他们不但提升了英语口语能力还体验了不同文化和思想的碰撞。</span></p> 
+<p class="vsbcontent_img"><img src="/__local/9/6C/7F/7C80884AD7F62683CDBE545428F_F126C93B_90BE6.jpg" width="954" title="f2c5dedcdb08c4974c8178f3c8d2f39.jpg" alt="f2c5dedcdb08c4974c8178f3c8d2f39.jpg" word_img="" old_src="/storage/36F192E9C6C8DE8976D7AF693CE45176/water/pic/21021811610CC926A1CC0F204826C78F" vsbhref="vurl" vurl="/_vsl/96C7F7C80884AD7F62683CDBE545428F/F126C93B/90BE6" vheight="" vwidth="954" orisrc="/__local/9/6C/7F/7C80884AD7F62683CDBE545428F_F126C93B_90BE6.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">生活环境</p> 
+<p class="vsbcontent_img"><span style="text-indent: 32px; text-wrap: wrap;">从学校步行10分钟就到达了Greenbox青年公寓。公寓配备二居和三居室的套房，在这里，学生们既可以私享卧室窗前奥地利冬日童话般的雪景，也可以在客厅里和室友交流当地见闻。附近超市采购食材、自己下厨也成了留学期间学生们难忘的彩蛋时刻，充满了惊喜与期待。</span></p> 
+<p class="vsbcontent_img"><span style="text-indent: 32px; text-wrap: wrap;"></span></p> 
+<p style="text-align: center"><img src="/__local/4/B8/0F/6174B7F60858E0FCFBC0F199A52_5B2A7C5F_3A9D4.jpg" old_src="/storage/2500406D9FCA854D8F60DEA92DA57131/water/pic/31FDB44AB7624598DFC63A8F59B3194A?water=true" width="954" title="294.jpg" vsbhref="vurl" vurl="/_vsl/4B80F6174B7F60858E0FCFBC0F199A52/5B2A7C5F/3A9D4" vheight="" vwidth="954" orisrc="/__local/4/B8/0F/6174B7F60858E0FCFBC0F199A52_5B2A7C5F_3A9D4.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">我校交流生与当地导师</p> 
+<p class="vsbcontent_end"><span style="text-indent: 32px; text-wrap: wrap;">在奥研修期间，学生们定期参加校内导师课题组的组会并报告学习和科研进展。冶金学院王宇航已于12月初完成了学位论文的开题报告。土资学院陈铮在导师的帮助下顺利进入热工所安全与灾害管理研究团队，实验室先进的设备和模拟程序将为其完成毕业论文提供帮助。机械学院宋玉玮在物理所Gamsjäger教授的帮助下借助计算平台和仿真环境，在材料热力学和动力学领域达获得了新的研究进展。</span></p> 
+<p class="vsbcontent_end"><img src="/__local/F/A2/11/D9E445C7EAFD693A0C7B684D0A6_AE6365BC_12D1E4.jpg" width="954" title="4a5502f77bd844fb392a3d0a618fd18.jpg" alt="4a5502f77bd844fb392a3d0a618fd18.jpg" word_img="" old_src="/storage/01AD8A132882096D2ED86AF3593C3A0C/water/pic/C7FE14DA2C1F445F5E500000C4D40CEA" vsbhref="vurl" vurl="/_vsl/FA211D9E445C7EAFD693A0C7B684D0A6/AE6365BC/12D1E4" vheight="" vwidth="954" orisrc="/__local/F/A2/11/D9E445C7EAFD693A0C7B684D0A6_AE6365BC_12D1E4.jpg" class="img_vsb_content" style="text-indent: 32px; text-wrap: wrap;"><span style="text-indent: 32px; text-wrap: wrap;"></span></p> 
+<p label="图片说明" style="text-indent: 32px; font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important;">当地环境</p> 
+<p class="vsbcontent_end">新年将至，莱奥本大学国际事务中心特别为我校学生筹备了中国习俗专题的文化交流活动，届时学生们将向来自世界各国的留学生展示中华民族的传统文化。</p> 
+<p class="vsbcontent_end" style="text-align: right;"><span style="font-size: 14px;">（供图：研究生院）</span></p> 
+<p class="vsbcontent_end" style="text-align: right;"><span style="font-size: 14px;">（责编：付云笛、薛浪）</span></p>
+</div></div><div id="div_vote_id"></div>
+        
+    
+    </div>
+                        <div class="bshare-custom">
+                            <span>分享到：</span>
+                            <a title="分享到新浪微博" onclick="shareTo('sina')" class="bshare-sinaminiblog" href="javascript:void(0);"></a>
+                            <a title="分享到微信" onclick="shareTo('wechat')" class="bshare-weixin" href="javascript:void(0);"></a>
+                            <a title="分享到QQ空间" onclick="shareTo('qzone')" class="bshare-qzone" href="javascript:void(0);"></a>
+                            <a title="分享到Facebook" class="bshare-facebook" href="javascript:void(0);"></a>
+                            <a title="分享到LinkedIn" class="bshare-linkedin" href="javascript:void(0);"></a>
+                            <a title="分享到Twitter" class="bshare-twitter" href="javascript:void(0);"></a>
+                        </div>
+                        
+                        <div class="m-pn">
+                            <a href="javascript:history.go(-1);" class="a-return">返回上一级</a>
+                            <div class="aa">
+                                <a href="61130.htm">上一条：我校获批海淀区2023年节能奖励资金</a>
+                                <a href="61011.htm">下一条：学校团委与北汽集团团委签订校企联合第二课堂教育实践基地建设协议</a>
+                            </div>
+                        </div>
+    
+    
+    
+ 
+
+</form>
+</div>
+                </div>
+                <div class="col-r wow fadeInRight">
+                   <div class="m-newestls"><script language="javascript" src="/system/resource/js/centerCutImg.js"></script><div class="g-titls1">
+                            <h3 class="tit"><i style="background-image: url(../../images/iconls8.png);"></i>最新阅读</h3>
+                            <a href="../../bkzx/xwdd.htm" class="more">更多&gt;</a>
+                        </div>
+                        <ul class="ul-listl3">
+
+<li class="on">
+                                <a href="61129.htm" class="con">
+                                    <div class="date sptime">2023.12.27</div>
+                                    <h3 class="tit">我校在2023年全国机器人大赛中取得佳绩</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="61127.htm" class="con">
+                                    <div class="date sptime">2023.12.27</div>
+                                    <h3 class="tit">学校与北京大学第三医院签署战略合作协议</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="61126.htm" class="con">
+                                    <div class="date sptime">2023.12.26</div>
+                                    <h3 class="tit">能动203班荣获北京高校“我的班级我的家”十佳示范班集体荣誉...</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="61130.htm" class="con">
+                                    <div class="date sptime">2023.12.26</div>
+                                    <h3 class="tit">我校获批海淀区2023年节能奖励资金</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="61015.htm" class="con">
+                                    <div class="date sptime">2023.12.26</div>
+                                    <h3 class="tit">赴莱奥本大学国际专项研究生顺利完成第一期课程学习</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="61011.htm" class="con">
+                                    <div class="date sptime">2023.12.26</div>
+                                    <h3 class="tit">学校团委与北汽集团团委签订校企联合第二课堂教育实践基地建...</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="61010.htm" class="con">
+                                    <div class="date sptime">2023.12.26</div>
+                                    <h3 class="tit">“柯俊院士科学家精神”调研交流会在校举行</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60988.htm" class="con">
+                                    <div class="date sptime">2023.12.25</div>
+                                    <h3 class="tit">新材料技术研究院召开成立15周年庆祝大会及发展研讨会</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="61002.htm" class="con">
+                                    <div class="date sptime">2023.12.25</div>
+                                    <h3 class="tit">教育部、国家发展改革委等组团来我校雄安校区调研指导</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="61008.htm" class="con">
+                                    <div class="date sptime">2023.12.25</div>
+                                    <h3 class="tit">2024年“把我的大学带回母校”寒假招生宣传实践活动动员大会...</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="61004.htm" class="con">
+                                    <div class="date sptime">2023.12.25</div>
+                                    <h3 class="tit">马克思主义学院组织思政课教师赴雄安新区开展“大思政课”高...</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60986.htm" class="con">
+                                    <div class="date sptime">2023.12.25</div>
+                                    <h3 class="tit">学校召开学科建设大讨论总结大会</h3>
+                                </a>
+                            </li>
+
+</ul><script>_showDynClickBatch(['dynclicks_u13_61129','dynclicks_u13_61127','dynclicks_u13_61126','dynclicks_u13_61130','dynclicks_u13_61015','dynclicks_u13_61011','dynclicks_u13_61010','dynclicks_u13_60988','dynclicks_u13_61002','dynclicks_u13_61008','dynclicks_u13_61004','dynclicks_u13_60986'],[61129,61127,61126,61130,61015,61011,61010,60988,61002,61008,61004,60986],"wbnews", 1791272759)</script>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+ <div class="wp1 fta flex">
+  
+   <dl class="ft1 flex-v-center"><dt>快速链接</dt>
+    <dd class="flex-center">
+       <ul class="flex">
+         
+<li><a href="http://yx.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70298)"><span class="titline_w">迎新网</span></a></li>
+         
+<li><a href="http://gs.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70299)"><span class="titline_w">公派研究生</span></a></li>
+         
+<li><a href="http://xinli.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70300)"><span class="titline_w">心理咨询在线</span></a></li>
+         
+<li><a href="http://rsc.ustb.edu.cn/bsh/zzgd/index.htm" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70301)"><span class="titline_w">博士后流动站</span></a></li>
+         
+<li><a href="http://alumni.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70302)"><span class="titline_w">校友会</span></a></li>
+         
+<li><a href="http://www.kdtg.com.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70303)"><span class="titline_w">天工大厦</span></a></li>
+         
+<li><a href="http://pingan.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70304)"><span class="titline_w">平安校园</span></a></li>
+         
+<li><a href="https://www.ustb.edu.cn/kxyj/xzqk/index.htm" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70305)"><span class="titline_w">学术期刊</span></a></li>
+         
+</ul>
+    </dd></dl>
+    <div class="ftlogo">    
+<a href="../../index.htm"><img alt="" src="../../images/logoft20231018.png"></a>
+
+</div>
+    <dl class="ft1 ft2 flex-v-center"><dt>媒体链接</dt>
+    <dd class="flex-center">
+       <ul class="flex">
+         
+<li><a href="http://www.cyol.net/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70332)"><span class="titline_w">中国青年报</span></a></li>
+         
+<li><a href="https://www.gmw.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70333)"><span class="titline_w">光明网</span></a></li>
+         
+<li><a href="http://www.cctv.com/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70334)"><span class="titline_w">央视网</span></a></li>
+         
+<li><a href="http://paper.people.com.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70335)"><span class="titline_w">人民日报</span></a></li>
+         
+<li><a href="http://www.centv.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70336)"><span class="titline_w">中国教育电视台</span></a></li>
+         
+<li><a href="http://www.xinhuanet.com/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70337)"><span class="titline_w">新华网</span></a></li>
+         
+<li><a href="https://bjksb.bjeea.cn/html/ksb/index.html" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70338)"><span class="titline_w">北京考试报</span></a></li>
+         
+<li><a href="https://www.sciencenet.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70339)"><span class="titline_w">科学网</span></a></li>
+         
+</ul>
+    </dd></dl>
+  
+ </div>
+ <div class="wp ftb flex">
+    <div class="codes flex">    
+        <a href="https://weibo.com/USTB" onclick="_addDynClicks(&#34;wbimage&#34;, 1791272759, 60576)"><i class="swiper-icons swi-sina"></i>
+
+</a>
+
+
+        <a href="javascript:;"><i class="swiper-icons swi-weixin"></i>
+        <span><img alt="" src="../../images/2e23326e6fcd31c1c85b441d0cf5aa41.jpg"></span>
+      </a>
+     
+
+</div>
+    <div class="copyright"><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>版权所有©北京科技大学 京公网安备：110402430062京ICP备：1303011</p></div>
+    <div class="viewer">
+      <i class="swiper-icons swi-more1"></i><span><script language="javascript" src="../../_dwr/util.js"></script><script language="javascript" src="../../_dwr/interface/PageCounterDWR.js"></script><span id="a1020972" name="a1020972"></span>   
+
+<script>
+function getvisittimea1020972()
+{       
+    PageCounterDWR.getVisittime('1791272759','1087','TOTAL_COUNTER','0','10',callbackdataa1020972)
+}
+function callbackdataa1020972(data)
+{
+    document.getElementById("a1020972").innerHTML = data; 
+}
+getvisittimea1020972();
+</script></span>
+    </div>
+ </div>
+</div>
+   <script type="text/javascript" src="../../js/jquery.js"></script>
+    <script type="text/javascript" src="../../js/set.js"></script>
+    <script src="../../js/f.js"></script>
+    <script type="text/javascript" src="../../js/lib5.js"></script>
+    <script type="text/javascript" src="../../js/wow.min.js"></script>
+    <script type="text/javascript" src="../../js/public.js"></script>
+    <script src="../../js/lib.js"></script>
+    <link rel="stylesheet" href="../../css/animate.min.css">
+    <script type="text/javascript" src="../../js/wow.min.js"></script>
+    <script>
+
+        // 初始化wow.js
+        var wow = new WOW({
+            boxClass: 'wow',
+            animateClass: 'animated',
+            offset: 0,
+            mobile: true,
+            live: true
+        });
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            wow.init();
+        };
+ $('.bshare-weixin').click(function(){
+            $('.m-blackm').fadeIn(500);
+        })
+        $('body').on('click','.bsClose',function(){
+            $('.m-blackm').fadeOut(500);
+        })
+    </script>
+    <script>
+
+        console.log(document.location.href);//本页面地址，如localhost/html/index.html
+        function shareTo(stype) {
+            var ftit = '';
+            var flink = '';
+            var lk = '';
+            //获取文章标题
+            ftit = $('.nry_bt').text();//此处的class名应该根据自己本身页面的class来取
+            //获取网页中内容的第一张图片
+            flink = 'https://'+window.location.host+$('.content img').eq(0).attr('src');
+            if (typeof flink == 'undefined') {
+                flink = '';
+            }
+            //当内容中没有图片时，设置分享图片为网站logo
+            if (flink == '') {
+                /**
+                 * 此处根据自己页面的样式以及布局进行改变处理
+                 *
+                 */
+                lk = 'https://' + window.location.host + '../../new/image/logo308.png';
+            }
+            //如果是上传的图片则进行绝对路径拼接
+            if (flink.indexOf('/uploads/') != -1) {
+                lk = 'https://' + window.location.host + flink;
+            }
+            //百度编辑器自带图片获取
+            if (flink.indexOf('ueditor') != -1) {
+                lk = flink;
+            }
+            /**
+             * 进行QQ分享测试时，本地的页面会分享报错，需要用部署地址，可用'http://www.baidu.com'来代替document.location.href，进行测试查看效果
+             */
+            //qq空间接口的传参
+            if (stype == 'qzone') {
+                window.open('https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=' + document.location.href + '?sharesource=qzone&title=' + ftit + '&pics=' + lk + '&summary=' + document.querySelector('meta[name="description"]').getAttribute('content'));
+            }
+            //新浪微博接口的传参
+            if (stype == 'sina') {
+                window.open('https://service.weibo.com/share/share.php?url=' + document.location.href + '?sharesource=weibo&title=' + ftit + '&pic=' + lk + '&appkey=2706825840');
+            }
+            //生成二维码给微信扫描分享
+            if (stype == 'wechat') {
+
+                //https://zixuephp.net/inc/qrcode_img.php是生成微信二维码的网址，后面的url跟我们自己的网址，然后他会以二维码的形式输出
+                var qrstr=document.location.href;
+                if($('#qrid')[0].innerHTML==""){
+                    $('#qrid').qrcode(qrstr);
+                }
+                $('.qrid_zz')[0].style.display="flex";
+
+            }
+        }  
+
+    </script>
+</body>
+
+</html>

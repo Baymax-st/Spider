@@ -1,0 +1,1184 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>第251章 雪原斗法_我本无意成仙_科幻小说_新笔趣阁</title>
+    <meta name="keywords" content="我本无意成仙,第251章 雪原斗法" />
+    <meta name="description" content="新笔趣阁提供了金色茉莉花创作的都市小说《我本无意成仙》干净清爽无错字的文字章节：第251章 雪原斗法在线阅读。" />
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta content="always" name="referrer">
+    <meta name="renderer" content=webkit>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="applicable-device" content="pc">
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="mobile-agent" content="format=html5; url=/book/33953/19111872.html" />
+    <meta http-equiv="mobile-agent" content="format=xhtml; url=/book/33953/19111872.html" />
+    <link rel="shortcut icon" type="image/ico" href="/images/favicon.ico" />
+    <link rel="stylesheet" href="/dist/xiaoshuo.css" />
+    <script type="text/javascript" src="/rule.json"></script>
+</head>
+
+<body>
+    <div class="ywtop">
+    <div class="ywtop_con">
+        <div class="ywtop_sethome">
+            <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.xsbiquge.la');" href="#">将新笔趣阁设为首页</a>
+        </div>
+        <div class="ywtop_addfavorite" name="top">
+            <a href="javascript:window.external.addFavorite('http://www.xsbiquge.la','新笔趣阁_无弹窗阅读小说网')">收藏新笔趣阁</a>
+        </div>
+        <div class="nri login-ok hide">
+            Hi,<a href="/user" target="_top" class="top-username"></a>
+            <a href="/bookcase" target="_top">我的书架</a> |
+            <a href="/user" target="_top">我的资料</a> |
+            <a href="/editpassword" target="_top">修改密码</a> |
+            <a href="/loginout" target="_self">退出登录</a>
+        </div>
+        <div class="nri login-fail hide">
+            <form name="mylogin" id="mylogin" method="post" action="/login">
+                <div class="cc">
+                    <div class="txt">账号：</div>
+                    <div class="inp"><input type="text" name="uname" id="uname"></div>
+                </div>
+                <div class="cc">
+                    <div class="txt">密码：</div>
+                    <div class="inp"><input type="password" name="pass" id="pass"></div>
+                </div>
+                <div class="frii">
+                    <input type="hidden" name="action" id="action" value="login">
+                    <input type="submit" title="登陆" class="int" onclick="return checkUserLogin()" value="登陆">
+                </div>
+                <div class="ccc">
+                    <div class="txtt"></div>
+                    <div class="txtt"><a href="/register">用户注册</a></div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+    <div class="header">
+	<div class="wrap">
+		<div class="logo">
+			<a href="/" title="新笔趣阁">新笔趣阁<em></em></a>
+		</div>
+        
+        <form name="mysearch" id="mysearch" method="get" action="/search">
+            <div class="search">
+                <input class="input" id="bdcsMain" name="keyword" type="text" maxlength="30" value="可搜书名或者作者，别输错字。" onblur="if (value ==''){value='可搜书名或者作者，别输错字。'}" onfocus="if (value =='可搜书名或者作者，别输错字。'){value =''}" id="bdcsMain">
+                <span class="s_btn"><input type="submit" value=" 搜 索 " class="searchBtn button" onclick="return checkSearch()"></span>
+            </div>
+        </form>
+        
+	</div>
+</div>
+    <div class="nav">
+    <ul> 
+        <li><a href="/" title="新笔趣阁">首页</a></li>
+        <li><a href="/class/1/">玄幻小说</a></li>
+        <li><a href="/class/2/">修真小说</a></li>
+        <li><a href="/class/3/">都市小说</a></li>
+        <li><a href="/class/4/">历史小说</a></li>
+        <li><a href="/class/5/">网游小说</a></li>
+        <li><a href="/class/6/">科幻小说</a></li>
+        <li><a href="/class/7/">女频小说</a></li>
+        <li><a href="/class/8/">其他小说</a></li>
+        <li><a href="/rank/">排行榜</a></li>
+        <li><a href="/over/">全本小说</a></li>
+        <li><a href="/history">阅读轨迹</a></li>
+    </ul>
+</div>
+    <div class="wrap">
+        <div class="detail-box" id="book">
+            <div class="path">
+                <div class="p"><a href="http://www.xsbiquge.la/">新笔趣阁</a> &gt; <a href="/book/33953/" title="我本无意成仙">我本无意成仙</a> &gt; 第251章 雪原斗法
+                <span class="oninfo"><div id="page_set">
+    <select onchange="javascript:setFont(this.options[this.selectedIndex].value);">
+        <option value="宋体">字体</option>
+        <option value="方正启体简体">默认</option>
+        <option value="黑体">黑体</option>
+        <option value="楷体_GB2312">楷体</option>
+        <option value="微软雅黑">雅黑</option>
+        <option value="方正启体简体">启体</option>
+        <option value="宋体">宋体</option>
+    </select>
+    <select onchange="javascript:setColor(this.options[this.selectedIndex].value);">
+        <option value="#000">颜色</option>
+        <option value="#000">默认</option>
+        <option value="#9370DB">暗紫</option>
+        <option value="#2E8B57">藻绿</option>
+        <option value="#2F4F4F">深灰</option>
+        <option value="#778899">青灰</option>
+        <option value="#800000">栗色</option>
+        <option value="#6A5ACD">青蓝</option>
+        <option value="#BC8F8F">玫褐</option>
+        <option value="#F4A460">黄褐</option>
+        <option value="#F5F5DC">米色</option>
+        <option value="#F5F5F5">雾白</option>
+    </select>
+    <select onchange="javascript:setSize(this.options[this.selectedIndex].value);">
+        <option value="#E9FAFF">大小</option>
+        <option value="19pt">默认</option>
+        <option value="10pt">10pt</option>
+        <option value="12pt">12pt</option>
+        <option value="14pt">14pt</option>
+        <option value="16pt">16pt</option>
+        <option value="18pt">18pt</option>
+        <option value="20pt">20pt</option>
+        <option value="22pt">22pt</option>
+        <option value="25pt">25pt</option>
+        <option value="30pt">30pt</option>
+    </select>
+    <select name="scrollspeed" id="scrollspeed" onchange="javascript:setSpeed(this.options[this.selectedIndex].value);">
+        <option value="5">滚屏</option>
+        <option value="1">最慢</option>
+        <option value="2">慢2</option>
+        <option value="3">慢3</option>
+        <option value="4">中4</option>
+        <option value="5">中5</option>
+        <option value="6">中6</option>
+        <option value="7">快7</option>
+        <option value="8">快8</option>
+        <option value="9">快9</option>
+        <option value="10">最快</option>
+    </select>
+    <select onchange="javascript:setBGColor(this.options[this.selectedIndex].value);">
+        <option value="#E9FAFF" style="background-color: #E9FAFF;">背景</option>
+        <option value="#E9FAFF" style="background-color: #E9FAFF;">默认</option>
+        <option value="#FFFFFF" style="background-color: #FFFFFF;">白雪</option>
+        <option value="#000000" style="background-color: #000000;color:#FFFFFF;">漆黑</option>
+        <option value="#FFFFED" style="background-color: #FFFFED;">明黄</option>
+        <option value="#EEFAEE" style="background-color: #EEFAEE;">淡绿</option>
+        <option value="#CCE8CF" style="background-color: #CCE8CF;">草绿</option>
+        <option value="#FCEFFF" style="background-color: #FCEFFF;">红粉</option>
+        <option value="#EFEFEF" style="background-color: #EFEFEF;">深灰</option>
+        <option value="#F5F5DC" style="background-color: #F5F5DC;">米色</option>
+        <option value="#D2B48C" style="background-color: #D2B48C;">茶色</option>
+        <option value="#C0C0C0" style="background-color: #E7F4FE;">银色</option>
+    </select>
+    <select onchange="javascript:setWidth(this.options[this.selectedIndex].value);">
+        <option value="95%">宽度</option>
+        <option value="95%">默认</option>
+        <option value="85%">85%</option>
+        <option value="76%">75%</option>
+        <option value="67%">65%</option>
+        <option value="53%">50%</option>
+        <option value="41%">40%</option>
+    </select>
+    夜间<input type="checkbox" name="night" id="night" onchange="javascript:setNight();" value="">
+</div></span>
+                </div>
+            </div>
+            <div class="content">
+                <h1>我本无意成仙</h1>
+                <div class="link">
+                    <span>金色茉莉花推荐阅读：
+                            <a href="/book/34294/">我在荒岛肝属性</a>、
+                        
+                            <a href="/book/33953/">我本无意成仙</a>、
+                        
+                            <a href="/book/6429/">轮盘世界</a>、
+                        
+                            <a href="/book/25325/">光明壁垒</a>、
+                        
+                            <a href="/book/35667/">牧者密续</a>、
+                        
+                    </span>
+                </div>
+                <div id="content"  class="showtxt">
+                    
+                    
+                    
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “这一条可是真的哟……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        一只雪鼠站在地上，两只小短爪子自然垂下，看起来乖巧可爱，抬头盯着宋游。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        声音尖细，不仔细听都听不见。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        面前则是一条比刚才那条更浅、更窄的地缝，却也足以将人摔死了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游只看它一眼，便迈步往前。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        依然如履平地，过了沟壑。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        对岸的雪地里趴着一只狐狸。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        是一只赤狐，嘴巴尖尖，身上的毛发好似冬天挂在枝头的柿子，趴在雪地上懒洋洋的打着呵欠，如同雪地里的一团火焰，身上又落了雪。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        等到宋游走近，它才转头看向宋游，眼睛灵动，好奇的问道：
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “你也擅长幻术？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        声音像是小孩在说话。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “略懂一点。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “可你就算看出破绽，难道心里就没有一点动摇？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “阁下为何不以真身来见我呢？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “真身还远着呢。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “又在何处呢？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        赤狐自然没有回答他的话，见他步伐丝毫不停，已从自己身边走过，便也只得打个呵欠，起身跟上去：
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “我乃水泽灵韵化身，水泽遍布方圆百里，我即是水泽，水泽即是我，天宫雷部与斗部正神合力都无法将我灭杀，你又打算如何降我？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “阁下似乎在害怕？”宋游低头看它，“不知是曾与家师斗过法，还是因雷部正神的清剿受了伤？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “伱倒是聪明！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “在人里只算有些聪明的，但比起阁下，可能要好许多。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “前头又有条缝了。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游步子逐渐慢了下来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        面前果然又有条沟壑。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        仍旧从左到右看不到头，不知多长，宽度和深度则在之前两条沟壑之间。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游眼中闪过一道光泽。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        气清景明，万物尽显。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        清明灵力，最破幻景。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        扭头一看，那只赤狐就在自己边上仰头与自己对视，那双眼睛好似琥珀。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游摇了摇头，半真半假罢了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        闭目凝思，手掐法决。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        指尖有灵光乍现。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        随即眼睛陡然睁开。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “移星换斗！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “轰隆隆……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        大地陡然震颤起来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这也是一项了不得的法术。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        传说修到高深，可将星辰移换。这定然是夸大的说法，不过也可将世间万物移转。将逸州的河移到长京，西北的沙丘换到内地，乃至将人神妖鬼兽禽草木轮转其位，大抵是可行的。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游只是略懂，与高深一点不沾边，却也可移转近处大地山水。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “轰！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        一声闷响，大地移位。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        沟壑之间多了一条宽约丈许的路，底下直连着沟壑底部，所以也称不上是桥，而该说是一条路。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        狐狸转头盯着，眼光闪烁，不知想什么。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        道人则已迈步走了上去。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        狐狸便坐了下来，用后腿挠痒，面带思索的把他盯着。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “呼……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        天地之间忽然起了狂风。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这风之大，怕是能将房顶都给掀飞、将屋舍都给推倒、将巨石也吹得移位，也将天上漫天雪花吹得好似变成了刀片，胡乱且极速的纷飞。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        道人也不免被吹得斜了身子，往旁边跨出一步，这才稳住身形。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “风息！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        一道声音响起，骤风顿时停歇。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “嘭嘭！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “吼！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        前方忽然传来闷响与大吼声。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        却是在跨渊石路的对面，地上十几年的冰雪聚集起来，化作两三丈高的冰雪巨猿，拍打着胸脯，张口怒吼，往这边冲来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “火起！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        道人高举手臂，张开手掌。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        火焰如柱，皆自掌心出。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这火炽热无比，又连绵不绝，直冲向前边的冰雪巨猿。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “轰！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        火柱与巨猿碰撞。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        狐狸的眼睛真当像是琥珀一样清透，倒映着前方的那场碰撞，能清晰见到火焰沿着巨猿的身体蔓延开来，勾勒出巨猿的身形轮廓。随即火焰打在巨猿身后的雪地上，冰雪几乎瞬间便被融化，腾起阵阵白烟。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        巨猿也在被迅速消融。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        一个眨眼，就看不出原先的形状了，再一个眨眼，已经站不稳了，轰然摔落在地。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        然而与此同时，已有数道同样的甚至更高大的冰雪巨猿自对岸出现，都怒吼着狂奔而来，气势无与伦比，像是面前是城墙也能撞开一样。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        只见道人掐了个法诀，伸手一挥。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “倏倏……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        几道明黄炽热的流光飞出。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        流光刚到空中，就化作火柱，如龙一般，在空中飞舞着，逐一扑向对岸奔来的一个个冰雪巨猿。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “轰轰轰……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        火焰溅射炸裂时，空气也被挤开。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        几只冰雪巨猿逐一倒在石路前，化作冰水雪水，也化作白烟。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        道人不急不忙，走过了深渊。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        来到对岸，感受已然不同。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        回头一看，深渊仍旧在，只是比先前窄了许多，方才看见的深渊，边缘是假的，中间则是真的。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        石路仍然连接着深渊。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        那只火狐也已经迈步踏上了石路，蹑手蹑脚的跟了过来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        道人没有走，站着等它。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        一边等一边若有所思。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这雪原妖魔乃是地泽之灵，并非山岳之灵，于他而言，裂开大地形成深渊应当也没有那么容易。尤其是他已经有了其它了不得的神通。那么这道深渊很可能是原先禾原的灵泽。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        过了深渊之后，大地生机明显褪去，妖气阴气明显重了许多，看来这方才是他的核心地界。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        此时赤狐已来到面前，抬头看他：
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “你和你师父一样，也修的五行灵法，主修五行法术？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “阁下又打算如何拦我呢？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “便看你的本事吧！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游微笑着看着它，挥了挥手：“足下还请回去吧。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        赤狐打了一个激灵，眼神陡然更清明了几分。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        左看右看，似乎好奇而又慌乱，接着抬头看一眼宋游，表情灵动，见宋游对它挥手，它便立马转身朝着来时的那条石路走去了，几步一回头。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        等到它过了深渊，宋游才又回头，移换大地，将这条石路还给旁边大地。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        而那狐狸被这大地移换的动静惊得跑了一阵，却依旧没有跑远，很快又停下来，站在对岸雪地里，时而低头，时而仰首，好奇的盯着这方看。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        真是雪地里的精灵。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        又何须化成人呢？它本身就漂亮极了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游收回目光，继续往前。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “轰轰……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        远方大地传来震颤声。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        远远看去，前边天空一片黑暗，似乎酝酿着极强的天威，而地平线上有不少黑点，正朝着这方凶猛的奔踏而来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游表情平静。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        此时已是雪原妖国的核心地界，想来距离地下灵泽的灵眼也不远了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这雪原妖魔虽是先天神灵，法力高强，神通广大，亦与地下灵泽共生，难以灭杀，但他也被困在此处，若非地界扩张，难以离去。既然宋游已经过来找到了他，他又阻拦不了，便只能硬碰一场。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        如他所说，手底下见真章。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游停顿片刻，换了个方向。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        开始往西边走。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        左手拄杖而行，右手掐着法印，一边走着，一边挥手洒出数道流光。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        皆是蕴藏生机的四时灵力。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “请山神助我！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        话音落地，大地震颤，声响连绵。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “嘭嘭嘭……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        冰层被撞破，雪地被掀开。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        一道道高达两三丈的石巨人从各处出现。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        道人继续行走，流光亦不断洒出。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        指地成钢！
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        石巨人身上又生出金属光泽。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        雪原妖王有妖兵妖将。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        道人亦能点石成将。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        一只肩高至少两丈的巨大麋鹿从雪地中奔踏而来，低头将鹿角对准这方。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        一具金石巨人亦是狂奔迎去，踩得大地轰隆作响，直接一手摁在这奔踏而来的麋鹿头顶，将这巨大的麋鹿生生摁进了雪地中，撞出一声巨响。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        麋鹿余势不减，撞得金石巨人也往后划去，刹那间铲出数丈高的雪。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        是力与力的碰撞。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        是重量体型的角力。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        远处又有化作人形、一丈多高的虎妖卷风而来，被狂奔的金石巨人撞破狂风，掀翻在雪地。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        又有成群的狼妖袭来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        金石巨人虽体型巨大，看起来也笨拙，其实速度一点不慢，纯是体型过大的错觉。在这雪地之上，小妖几乎是一拳一个，身板硬的呢，或许就只是被捶进冰雪里边受了重伤出不来，道行没有那么高的，便是雪地中的一朵朵红花了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        数百上千的妖魔疯狂涌来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        或大或小的碰撞在雪原之中接连炸响。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        然而妖魔亦是血肉之躯，这些都是雪原妖王催生出的妖怪，天宫雷部年年清剿之下，道行即使不低，也绝称不上高了，若是没有雪原妖王，其中大部分就算放出去也顶不住人间王朝的精兵强将，又如何能与金石巨人对抗？
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        最多凭着数量，少数到了宋游近前。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        只见道人行走不停，竹杖挥舞，到了近前的妖兵也唯有化作灰飞，妖将稍稍有些反抗之力，能消耗一些法力。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “呼……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        大地忽然又起了狂风。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        空中寒风如刀，毫无阻碍的掠过雪地，打得金石巨人身上叮当作响，竟被砍出无数密密麻麻的伤口，金石也崩裂下来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        寒风从金石巨人身边穿过，掠向宋游。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        道人神情凝重，竹杖顿地。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “篷……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        一道光泽荡开。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        寒风左右也看不见，不知是被击碎了，还是停下了，总之离宋游最近的金石巨人身上的叮当声也没再响起过。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        道人继续行走。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        远处暴风雪如一堵墙，朝着这方推过来，自然之威能让人为之窒息。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        中间又起了龙卷，如擎天巨柱。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        ……
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        金色茉莉花向您发起了拯救过期月票计划——
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        又是月底了，手中的月票马上就要过期了，不投也是浪费，不如投给茉莉吧！每个月票宝宝都希望有个归宿，大家快来拯救它们！
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        (本章完)
+                        
+                    </p>
+                    <br/>
+                    
+                    
+                </div>
+            </div>
+            <div class="page_chapter">
+                    <ul>
+                    
+                    <li><a href="/book/33953/19110866.html" target="_top" class="pre">上一章</a></li>
+                    
+                    <li><a href="/book/33953/" target="_top" title="" class="back">章节列表</a></li>
+                    
+                    <li><a href="/book/33953/19123100.html" target="_top" class="next">下一章</a></li>
+                    
+                    <li><a href="javascript:;" onclick="addBookmark('19111872','第251章 雪原斗法','33953');">加入书签</a></li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer" name="footer">
+    
+        <div id="firendlink">
+	友情连接： <a href="/sitemap.xml" target="_blank">网站地图</a> 
+</div> 
+    
+    <hr>
+   <p>本站所有小说为转载作品，所有章节均由网友上传，转载至本站只是为了宣传本书让更多读者欣赏。</p> 
+   <p>Copyright &copy; 2019 新笔趣阁 All Rights Reserved.</p> 
+  </div>
+    <div class="link">
+        <span>小说相关推荐：
+            
+                <a href="/book/37034/">诡异收容所，你收容我一个人类？</a>、
+            
+                <a href="/book/37025/">末世：让你屯物资，没让你屯女神</a>、
+            
+                <a href="/book/36746/">猩红领主：开局成为血族始祖</a>、
+            
+                <a href="/book/36739/">转职牧师，技能却伤害爆炸</a>、
+            
+                <a href="/book/36730/">人在斗罗写日记，霍挂竟是我自己</a>、
+            
+                <a href="/book/36445/">福缘太高怎么办</a>、
+            
+                <a href="/book/36390/">斗罗：人在绝世，悟性逆天</a>、
+            
+        </span>
+    </div>
+    <hr/>
+    <p>《<a href="/book/33953/">我本无意成仙</a>》是作者：金色茉莉花倾才力献的一部情节荡气回肠，扣人心弦的佳作</p>
+    <div id="tbox">
+        <a id="gotop" href="#top" style="display: inline;"></a>
+        <a id="gobottom" href="#footer"></a>
+    </div>
+</body>
+<script src="/dist/jquery.min.js"></script>
+<script src="/dist/md5.min.js"></script>
+<script src="/dist/common.js"></script>
+<script language="javascript">
+    $(document).ready(function() {
+        if (typeof addBookMarkByJs != 'undefined' && addBookMarkByJs instanceof Function)
+            addBookMarkByJs(19111872, 33953, '第251章 雪原斗法');
+        setCookie("visitedId", 33953, 365);
+        
+            window.prevpage = "/book/33953/19110866.html";
+        
+        
+            window.nextpage = "/book/33953/19123100.html";
+        
+        window.index_page = "/book/33953/";
+        
+        
+        var doc = $(".content_detail");
+        for (var i = 0;  i < doc.length; i++) {
+            var pdoc = $(doc[i]);
+            var oldstr = pdoc.text();
+            var newstr = pdoc.text();
+            for (var j = 0; j < ruleList.length; j++) {
+                var rule = new RegExp(ruleList[j],"gi");
+                if ( rule.test( newstr ) ) {
+                    newstr = newstr.replace( rule , "" );
+                }
+            }
+            if ( oldstr != newstr ) {
+                pdoc.text(newstr);
+            }
+        }
+    });
+</script>
+<script>
+    (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        } else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<script></script>
+<script>goTo('http://m.xsbiquge.la/book/33953/19111872.html');</script>
+</html>

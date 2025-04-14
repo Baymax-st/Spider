@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>第195章 风雪访蛇仙（求月票）_我本无意成仙_科幻小说_新笔趣阁</title>
+    <meta name="keywords" content="我本无意成仙,第195章 风雪访蛇仙（求月票）" />
+    <meta name="description" content="新笔趣阁提供了金色茉莉花创作的都市小说《我本无意成仙》干净清爽无错字的文字章节：第195章 风雪访蛇仙（求月票）在线阅读。" />
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta content="always" name="referrer">
+    <meta name="renderer" content=webkit>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="applicable-device" content="pc">
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="mobile-agent" content="format=html5; url=/book/33953/18805177.html" />
+    <meta http-equiv="mobile-agent" content="format=xhtml; url=/book/33953/18805177.html" />
+    <link rel="shortcut icon" type="image/ico" href="/images/favicon.ico" />
+    <link rel="stylesheet" href="/dist/xiaoshuo.css" />
+    <script type="text/javascript" src="/rule.json"></script>
+</head>
+
+<body>
+    <div class="ywtop">
+    <div class="ywtop_con">
+        <div class="ywtop_sethome">
+            <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.xsbiquge.la');" href="#">将新笔趣阁设为首页</a>
+        </div>
+        <div class="ywtop_addfavorite" name="top">
+            <a href="javascript:window.external.addFavorite('http://www.xsbiquge.la','新笔趣阁_无弹窗阅读小说网')">收藏新笔趣阁</a>
+        </div>
+        <div class="nri login-ok hide">
+            Hi,<a href="/user" target="_top" class="top-username"></a>
+            <a href="/bookcase" target="_top">我的书架</a> |
+            <a href="/user" target="_top">我的资料</a> |
+            <a href="/editpassword" target="_top">修改密码</a> |
+            <a href="/loginout" target="_self">退出登录</a>
+        </div>
+        <div class="nri login-fail hide">
+            <form name="mylogin" id="mylogin" method="post" action="/login">
+                <div class="cc">
+                    <div class="txt">账号：</div>
+                    <div class="inp"><input type="text" name="uname" id="uname"></div>
+                </div>
+                <div class="cc">
+                    <div class="txt">密码：</div>
+                    <div class="inp"><input type="password" name="pass" id="pass"></div>
+                </div>
+                <div class="frii">
+                    <input type="hidden" name="action" id="action" value="login">
+                    <input type="submit" title="登陆" class="int" onclick="return checkUserLogin()" value="登陆">
+                </div>
+                <div class="ccc">
+                    <div class="txtt"></div>
+                    <div class="txtt"><a href="/register">用户注册</a></div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+    <div class="header">
+	<div class="wrap">
+		<div class="logo">
+			<a href="/" title="新笔趣阁">新笔趣阁<em></em></a>
+		</div>
+        
+        <form name="mysearch" id="mysearch" method="get" action="/search">
+            <div class="search">
+                <input class="input" id="bdcsMain" name="keyword" type="text" maxlength="30" value="可搜书名或者作者，别输错字。" onblur="if (value ==''){value='可搜书名或者作者，别输错字。'}" onfocus="if (value =='可搜书名或者作者，别输错字。'){value =''}" id="bdcsMain">
+                <span class="s_btn"><input type="submit" value=" 搜 索 " class="searchBtn button" onclick="return checkSearch()"></span>
+            </div>
+        </form>
+        
+	</div>
+</div>
+    <div class="nav">
+    <ul> 
+        <li><a href="/" title="新笔趣阁">首页</a></li>
+        <li><a href="/class/1/">玄幻小说</a></li>
+        <li><a href="/class/2/">修真小说</a></li>
+        <li><a href="/class/3/">都市小说</a></li>
+        <li><a href="/class/4/">历史小说</a></li>
+        <li><a href="/class/5/">网游小说</a></li>
+        <li><a href="/class/6/">科幻小说</a></li>
+        <li><a href="/class/7/">女频小说</a></li>
+        <li><a href="/class/8/">其他小说</a></li>
+        <li><a href="/rank/">排行榜</a></li>
+        <li><a href="/over/">全本小说</a></li>
+        <li><a href="/history">阅读轨迹</a></li>
+    </ul>
+</div>
+    <div class="wrap">
+        <div class="detail-box" id="book">
+            <div class="path">
+                <div class="p"><a href="http://www.xsbiquge.la/">新笔趣阁</a> &gt; <a href="/book/33953/" title="我本无意成仙">我本无意成仙</a> &gt; 第195章 风雪访蛇仙（求月票）
+                <span class="oninfo"><div id="page_set">
+    <select onchange="javascript:setFont(this.options[this.selectedIndex].value);">
+        <option value="宋体">字体</option>
+        <option value="方正启体简体">默认</option>
+        <option value="黑体">黑体</option>
+        <option value="楷体_GB2312">楷体</option>
+        <option value="微软雅黑">雅黑</option>
+        <option value="方正启体简体">启体</option>
+        <option value="宋体">宋体</option>
+    </select>
+    <select onchange="javascript:setColor(this.options[this.selectedIndex].value);">
+        <option value="#000">颜色</option>
+        <option value="#000">默认</option>
+        <option value="#9370DB">暗紫</option>
+        <option value="#2E8B57">藻绿</option>
+        <option value="#2F4F4F">深灰</option>
+        <option value="#778899">青灰</option>
+        <option value="#800000">栗色</option>
+        <option value="#6A5ACD">青蓝</option>
+        <option value="#BC8F8F">玫褐</option>
+        <option value="#F4A460">黄褐</option>
+        <option value="#F5F5DC">米色</option>
+        <option value="#F5F5F5">雾白</option>
+    </select>
+    <select onchange="javascript:setSize(this.options[this.selectedIndex].value);">
+        <option value="#E9FAFF">大小</option>
+        <option value="19pt">默认</option>
+        <option value="10pt">10pt</option>
+        <option value="12pt">12pt</option>
+        <option value="14pt">14pt</option>
+        <option value="16pt">16pt</option>
+        <option value="18pt">18pt</option>
+        <option value="20pt">20pt</option>
+        <option value="22pt">22pt</option>
+        <option value="25pt">25pt</option>
+        <option value="30pt">30pt</option>
+    </select>
+    <select name="scrollspeed" id="scrollspeed" onchange="javascript:setSpeed(this.options[this.selectedIndex].value);">
+        <option value="5">滚屏</option>
+        <option value="1">最慢</option>
+        <option value="2">慢2</option>
+        <option value="3">慢3</option>
+        <option value="4">中4</option>
+        <option value="5">中5</option>
+        <option value="6">中6</option>
+        <option value="7">快7</option>
+        <option value="8">快8</option>
+        <option value="9">快9</option>
+        <option value="10">最快</option>
+    </select>
+    <select onchange="javascript:setBGColor(this.options[this.selectedIndex].value);">
+        <option value="#E9FAFF" style="background-color: #E9FAFF;">背景</option>
+        <option value="#E9FAFF" style="background-color: #E9FAFF;">默认</option>
+        <option value="#FFFFFF" style="background-color: #FFFFFF;">白雪</option>
+        <option value="#000000" style="background-color: #000000;color:#FFFFFF;">漆黑</option>
+        <option value="#FFFFED" style="background-color: #FFFFED;">明黄</option>
+        <option value="#EEFAEE" style="background-color: #EEFAEE;">淡绿</option>
+        <option value="#CCE8CF" style="background-color: #CCE8CF;">草绿</option>
+        <option value="#FCEFFF" style="background-color: #FCEFFF;">红粉</option>
+        <option value="#EFEFEF" style="background-color: #EFEFEF;">深灰</option>
+        <option value="#F5F5DC" style="background-color: #F5F5DC;">米色</option>
+        <option value="#D2B48C" style="background-color: #D2B48C;">茶色</option>
+        <option value="#C0C0C0" style="background-color: #E7F4FE;">银色</option>
+    </select>
+    <select onchange="javascript:setWidth(this.options[this.selectedIndex].value);">
+        <option value="95%">宽度</option>
+        <option value="95%">默认</option>
+        <option value="85%">85%</option>
+        <option value="76%">75%</option>
+        <option value="67%">65%</option>
+        <option value="53%">50%</option>
+        <option value="41%">40%</option>
+    </select>
+    夜间<input type="checkbox" name="night" id="night" onchange="javascript:setNight();" value="">
+</div></span>
+                </div>
+            </div>
+            <div class="content">
+                <h1>我本无意成仙</h1>
+                <div class="link">
+                    <span>金色茉莉花推荐阅读：
+                            <a href="/book/34294/">我在荒岛肝属性</a>、
+                        
+                            <a href="/book/33953/">我本无意成仙</a>、
+                        
+                            <a href="/book/6429/">轮盘世界</a>、
+                        
+                            <a href="/book/25325/">光明壁垒</a>、
+                        
+                            <a href="/book/35667/">牧者密续</a>、
+                        
+                    </span>
+                </div>
+                <div id="content"  class="showtxt">
+                    
+                    
+                    
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        山坳没有风，湖面如镜子一样平静，寒烟升腾，小舟亦在湖中不动。舟上坐着的是一名老者，手持竹竿，鱼线沉入水里，也一点涟漪都不起。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        忽然水面起了一些动静。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游停在湖边，抬手刚想行礼，便见一阵风吹过，水烟随风而动，随即湖面咔咔一阵响声，竟凝结出了一道冰路，直通到小舟之上。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游便又放下了手，迈步踏了上去。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        浮冰不稳，常有摇晃，但也不裂不沉，行走之间，只在水中荡开一圈圈涟漪。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        冰镜子也被破坏掉了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游一边走一边回头看三花猫，见三花猫虽然心中忐忑，怀疑这冰的坚固，但也蹑手蹑脚，跟着他走来，这才放下了心。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        走到小舟前，他才再次施礼。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “逸州灵泉县，阴阳山伏龙观，传人宋游，见过蛇仙。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “请足下上舟来吧。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “恭敬不如从命。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游这才带着猫儿踏上小舟。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        小舟顿时摇晃，荡开涟漪不断，伴随着船只的吱呀声和细微的水花声，这方仿佛静止的世界里，总算有了些动静。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “噗……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        水花声起。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        老者也提起了手中钓竿，线上已勾着了一条小银鱼，也就两指来宽。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        小银鱼入桶，拍打出声响。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “坐吧。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        老者转过身来，只是一张很普通的老人的面貌，对他笑着说：“我还以为你会秋天的时候来。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “在下上一次来，便觉得此山茫茫，大雪纷飞时一定很美，于是等到了冬天。”宋游只从蛇仙的语气中便能听出，这位蛇仙想来早已知晓了自己是伏龙观的传人，那么上一次帮助自己，便也是因为伏龙观了，国师说的蛇仙与伏龙观先祖有旧的事，定然也是真的了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        既然如此，便算是长辈。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        对长辈自然要尊敬。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        于是宋游恭恭敬敬行礼，继续说道：“听说北钦山上下了雪，这就来了，昨晚到的北钦山上，本想先拜会蔡神医，再来拜会蛇仙前辈，不过蔡神医似乎很长时间没在家中了，在门口露宿一晚，便直接来拜访蛇仙了，应当先谢过上回蛇仙前辈的相助之情。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “蔡神医啊……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “听说蛇仙与蔡神医认识？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “认识。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        蛇仙又把鱼钩抛进了水里：“那人不错，医术通神，品德高尚，常常进山采药，有时被毒虫猛兽所袭，我便庇护于他。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “在下也是听说蔡神医医术高明，甚至常有令世人惊叹恐惧的手法，并且品德十分高尚，心生仰慕与好奇，于是想见识一下他的风采。”宋游在小舟的后边坐了下来，垂下手摸了摸三花猫的背，“奈何来了两次都没遇见，许是无缘。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “他去北边了，几年恐怕都回不来。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “去北边了？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “是啊，北方战乱刚熄，妖魔横生，疫病害人，正需济世之人。”蛇仙头也没回的说，“走的时候他来给我说了一声，感谢我多年照顾，还说自己也不知道自己此去还能不能回得来。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “原来如此。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游微微眯起眼睛，露出思索。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        舟上的蛇仙则继续问道：
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “你师父可好？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “走时还挺健旺。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “五行灵法不好延寿啊。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “是啊。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “伏龙观门口，那株松树可还在？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “已是古松了。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “还在就好。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “师父以前也来拜访过蛇仙吗？”宋游问道。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “自我定居于此开始，每一代伏龙观的传人，只要到了长京，还没有不来找我的。”蛇仙又收杆了，将一条新的小鱼放入桶中，转身瞄了一眼端端正正蹲坐在年轻道人身边的猫儿，眼中有些闪烁，“这么些年来，也见过好几代了。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “听人说，蛇仙与我观师祖有旧？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “我是扶阳道人的好友，遇见他时已有一些道行，不过不知修行方法，得他指点，这才真正开启了大智，于是便追随他，助他诛神除妖，奠定大晏江山之后又随他回伏龙观，那株松树便是我亲手所种。”蛇仙说着摇了摇头，语气颇为感慨，想来对于他来说，那已是年轻时的事了，“后来扶阳道人身死道消，我便也没有再留在伏龙观的必要了，于是回了这里，天天过着清闲的日子，偶尔现身，被山下村民见了，便尊我为蛇仙。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “这里是蛇仙化形的地方？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “自然。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游记得那位扶阳道人。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        便是前朝末年、大晏初年，于乱世之中帮助大晏太祖重开太平的那位。奠定江山之后，他便回了伏龙观，在众多师祖之中也算比较特殊。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        多数师祖行走天下的时候，世间总体太平，于是行走人间，看山看水降妖除魔，哪像他，下山之初天地便是一片乱象，干脆诛神除妖十几年，等天下太平之时已经结束了自己的游历之旅。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “差不多了。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        蛇仙看了看桶里的鱼。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “我们回去吧。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        话音落地，小舟便动了起来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        水上划过一连串的波纹。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        两人一猫下了船，宋游与三花娘娘跟随在蛇仙身后，往茅屋走去。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “山中清净却也枯燥，我平日里便在山中四处走动，看看风景和云，这里也只是我垂钓时才会住的地方，没有别的东西可以招待你们。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “蛇仙前辈过得悠然。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “蛇仙不过是世人的尊称。”蛇仙淡淡说道，“我听说过伱的事迹，本事很高，倒也不必这么叫我。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “住山不记年，看云即是仙。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “好一个看云即是仙。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        两人一猫进了茅屋，煮茶谈话。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        两人聊及藏在长京的妖怪们，聊及国师帝王与长生，聊及蔡神医与北方乱世，也聊伏龙观的祖师，只以火炉上的干果、烤鱼和柚子果腹。不知不觉便已是大半天过去，他们倒是谈兴极高，猫儿早已听得很无聊了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        蛇仙晚上请他在这里住，宋游便拿出行囊，在茅屋中睡去。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        山中很冷，晚上又飘起了雪，好在有猫儿取暖。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        夜深知雪重，时闻折竹声。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        次日清早，宋游醒来，推开木头编成的门，却没有立马出去，而是等头顶的雪漱漱落下，落完之后，这才踏出。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        蛇仙又已经在湖上钓鱼了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游见他手拿一根钓竿，小舟旁边还放着一根，于是又以昨天一样的方式，走上小舟。看了眼旁边的木桶，里头只有三条小鱼，与蛇仙行礼后宋游便拿起了另一根钓竿，与他同坐，泛舟湖上，垂钓闲谈。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “小道友何时离开长京呢？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “开春就走。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “在长京可有收获？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “收获很大。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “这次又往哪里走呢？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “心中犹疑，尚未决断。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “哦？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “既想往北，又想往南。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        两人的声音都很小，好似是怕惊扰到了水底的游鱼。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        蛇仙手中钓竿巍然不动，表情也是波澜不惊：“往南是想去丰州业山么？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “蛇仙也知晓丰州之事？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “年纪大了，修行也修不动了，成日清闲，自然知晓得多。”蛇仙笑着说，随即与他说，“业山本是国师与帝王的算计，想必你早已知晓，可如此却仍急着想去看看的话，难道心中有所怀疑？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “耳听为虚，眼见为实。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “小道友倒是警觉。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “请前辈赐教。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “个中如何，我也不知，只知国师所图恐怕并不简单。”蛇仙已经起竿了，又上了一条小鱼，说道，“往北是人间事，百姓疾苦，生灵涂炭，往南是阴间事，天道转变，鬼魂安生，先去哪方，确实不好选。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “蛇仙以为，国师所图是什么呢？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “总之不是人间事，也不是一年两年能见到成果的。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “并非人间事……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这也与宋游所知的大致等同。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        蛇仙再一次将钩子抛入了湖里，两人便继续垂钓，小声谈话，到了中午时候，蛇仙钓了七八条鱼，其中还有条大鱼，宋游技艺不佳，甚至他也不知晓自己是哪里做得不如蛇仙，总之只钓到了一条。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        到了下午，他便告辞离开了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        山中风雪甚大，雪花似乎横着走，宋游沿着来时那条蛇仙走出的路往回走，一脚深一脚浅，三花猫更是几乎在雪里穿行。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        然而刚爬上山，便听见前面有人声，混杂着呼啸的风雪声传入耳中。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “相公，风大雪大，山林也深，我们还是回去吧，改日再来。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “都快走到了，哪有返还的道理？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “那也只是山中猎户说的话，也许不过只是为了讨相公的赏钱罢了，如何能当真？此处已进了北钦山，再往里走，万一大雪封山，山林里还有些不冬眠的野兽，饥肠辘辘，也许小人也难以带着相公走出去啊。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “既有蛇路，怎会轻易迷路，跟着往前，定能寻到蛇仙。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “唉……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “前边好像有人。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “谁？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        两人也在树林风雪中看见了道人。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        只是三花猫大半个身子都已陷入了雪中，几乎只露出半颗脑袋盯着他们，他们便看不见了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “是个道人。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “要叫先生。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “相公，山中常有妖鬼惑人，尤其这大风雪天，相公莫要轻信啊。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “蛇仙的北钦山哪来妖鬼，莫急，容我去看看。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        穿着厚长袍的中年人冒着风雪走上前来，露出笑容，对着宋游行礼问道：“在下喻蓦，家住长京，来山中寻访蛇仙，与先生相遇，甚觉巧妙，不知先生又从何处来，要往何处去啊？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        ……
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        经验告诉茉莉，月底月票比月初多，月初投了三万出头，感觉大家投不到六万票了，总之不管投不投得到，先加给大家！
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        希望大家能把保底月票都给茉莉！
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        助茉莉完成六万票！
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        其实平均每人一票就够了……
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        (本章完)
+                        
+                    </p>
+                    <br/>
+                    
+                    
+                </div>
+            </div>
+            <div class="page_chapter">
+                    <ul>
+                    
+                    <li><a href="/book/33953/18805176.html" target="_top" class="pre">上一章</a></li>
+                    
+                    <li><a href="/book/33953/" target="_top" title="" class="back">章节列表</a></li>
+                    
+                    <li><a href="/book/33953/18807566.html" target="_top" class="next">下一章</a></li>
+                    
+                    <li><a href="javascript:;" onclick="addBookmark('18805177','第195章 风雪访蛇仙（求月票）','33953');">加入书签</a></li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer" name="footer">
+    
+        <div id="firendlink">
+	友情连接： <a href="/sitemap.xml" target="_blank">网站地图</a> 
+</div> 
+    
+    <hr>
+   <p>本站所有小说为转载作品，所有章节均由网友上传，转载至本站只是为了宣传本书让更多读者欣赏。</p> 
+   <p>Copyright &copy; 2019 新笔趣阁 All Rights Reserved.</p> 
+  </div>
+    <div class="link">
+        <span>小说相关推荐：
+            
+                <a href="/book/37034/">诡异收容所，你收容我一个人类？</a>、
+            
+                <a href="/book/37025/">末世：让你屯物资，没让你屯女神</a>、
+            
+                <a href="/book/36746/">猩红领主：开局成为血族始祖</a>、
+            
+                <a href="/book/36739/">转职牧师，技能却伤害爆炸</a>、
+            
+                <a href="/book/36730/">人在斗罗写日记，霍挂竟是我自己</a>、
+            
+                <a href="/book/36445/">福缘太高怎么办</a>、
+            
+                <a href="/book/36390/">斗罗：人在绝世，悟性逆天</a>、
+            
+        </span>
+    </div>
+    <hr/>
+    <p>《<a href="/book/33953/">我本无意成仙</a>》是作者：金色茉莉花倾才力献的一部情节荡气回肠，扣人心弦的佳作</p>
+    <div id="tbox">
+        <a id="gotop" href="#top" style="display: inline;"></a>
+        <a id="gobottom" href="#footer"></a>
+    </div>
+</body>
+<script src="/dist/jquery.min.js"></script>
+<script src="/dist/md5.min.js"></script>
+<script src="/dist/common.js"></script>
+<script language="javascript">
+    $(document).ready(function() {
+        if (typeof addBookMarkByJs != 'undefined' && addBookMarkByJs instanceof Function)
+            addBookMarkByJs(18805177, 33953, '第195章 风雪访蛇仙（求月票）');
+        setCookie("visitedId", 33953, 365);
+        
+            window.prevpage = "/book/33953/18805176.html";
+        
+        
+            window.nextpage = "/book/33953/18807566.html";
+        
+        window.index_page = "/book/33953/";
+        
+        
+        var doc = $(".content_detail");
+        for (var i = 0;  i < doc.length; i++) {
+            var pdoc = $(doc[i]);
+            var oldstr = pdoc.text();
+            var newstr = pdoc.text();
+            for (var j = 0; j < ruleList.length; j++) {
+                var rule = new RegExp(ruleList[j],"gi");
+                if ( rule.test( newstr ) ) {
+                    newstr = newstr.replace( rule , "" );
+                }
+            }
+            if ( oldstr != newstr ) {
+                pdoc.text(newstr);
+            }
+        }
+    });
+</script>
+<script>
+    (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        } else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<script></script>
+<script>goTo('http://m.xsbiquge.la/book/33953/18805177.html');</script>
+</html>

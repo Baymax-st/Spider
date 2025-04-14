@@ -1,0 +1,992 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>第67章 听惯了的江湖恩怨（+1）_我本无意成仙_科幻小说_新笔趣阁</title>
+    <meta name="keywords" content="我本无意成仙,第67章 听惯了的江湖恩怨（+1）" />
+    <meta name="description" content="新笔趣阁提供了金色茉莉花创作的都市小说《我本无意成仙》干净清爽无错字的文字章节：第67章 听惯了的江湖恩怨（+1）在线阅读。" />
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta content="always" name="referrer">
+    <meta name="renderer" content=webkit>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="applicable-device" content="pc">
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="mobile-agent" content="format=html5; url=/book/33953/17749480.html" />
+    <meta http-equiv="mobile-agent" content="format=xhtml; url=/book/33953/17749480.html" />
+    <link rel="shortcut icon" type="image/ico" href="/images/favicon.ico" />
+    <link rel="stylesheet" href="/dist/xiaoshuo.css" />
+    <script type="text/javascript" src="/rule.json"></script>
+</head>
+
+<body>
+    <div class="ywtop">
+    <div class="ywtop_con">
+        <div class="ywtop_sethome">
+            <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.xsbiquge.la');" href="#">将新笔趣阁设为首页</a>
+        </div>
+        <div class="ywtop_addfavorite" name="top">
+            <a href="javascript:window.external.addFavorite('http://www.xsbiquge.la','新笔趣阁_无弹窗阅读小说网')">收藏新笔趣阁</a>
+        </div>
+        <div class="nri login-ok hide">
+            Hi,<a href="/user" target="_top" class="top-username"></a>
+            <a href="/bookcase" target="_top">我的书架</a> |
+            <a href="/user" target="_top">我的资料</a> |
+            <a href="/editpassword" target="_top">修改密码</a> |
+            <a href="/loginout" target="_self">退出登录</a>
+        </div>
+        <div class="nri login-fail hide">
+            <form name="mylogin" id="mylogin" method="post" action="/login">
+                <div class="cc">
+                    <div class="txt">账号：</div>
+                    <div class="inp"><input type="text" name="uname" id="uname"></div>
+                </div>
+                <div class="cc">
+                    <div class="txt">密码：</div>
+                    <div class="inp"><input type="password" name="pass" id="pass"></div>
+                </div>
+                <div class="frii">
+                    <input type="hidden" name="action" id="action" value="login">
+                    <input type="submit" title="登陆" class="int" onclick="return checkUserLogin()" value="登陆">
+                </div>
+                <div class="ccc">
+                    <div class="txtt"></div>
+                    <div class="txtt"><a href="/register">用户注册</a></div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+    <div class="header">
+	<div class="wrap">
+		<div class="logo">
+			<a href="/" title="新笔趣阁">新笔趣阁<em></em></a>
+		</div>
+        
+        <form name="mysearch" id="mysearch" method="get" action="/search">
+            <div class="search">
+                <input class="input" id="bdcsMain" name="keyword" type="text" maxlength="30" value="可搜书名或者作者，别输错字。" onblur="if (value ==''){value='可搜书名或者作者，别输错字。'}" onfocus="if (value =='可搜书名或者作者，别输错字。'){value =''}" id="bdcsMain">
+                <span class="s_btn"><input type="submit" value=" 搜 索 " class="searchBtn button" onclick="return checkSearch()"></span>
+            </div>
+        </form>
+        
+	</div>
+</div>
+    <div class="nav">
+    <ul> 
+        <li><a href="/" title="新笔趣阁">首页</a></li>
+        <li><a href="/class/1/">玄幻小说</a></li>
+        <li><a href="/class/2/">修真小说</a></li>
+        <li><a href="/class/3/">都市小说</a></li>
+        <li><a href="/class/4/">历史小说</a></li>
+        <li><a href="/class/5/">网游小说</a></li>
+        <li><a href="/class/6/">科幻小说</a></li>
+        <li><a href="/class/7/">女频小说</a></li>
+        <li><a href="/class/8/">其他小说</a></li>
+        <li><a href="/rank/">排行榜</a></li>
+        <li><a href="/over/">全本小说</a></li>
+        <li><a href="/history">阅读轨迹</a></li>
+    </ul>
+</div>
+    <div class="wrap">
+        <div class="detail-box" id="book">
+            <div class="path">
+                <div class="p"><a href="http://www.xsbiquge.la/">新笔趣阁</a> &gt; <a href="/book/33953/" title="我本无意成仙">我本无意成仙</a> &gt; 第67章 听惯了的江湖恩怨（+1）
+                <span class="oninfo"><div id="page_set">
+    <select onchange="javascript:setFont(this.options[this.selectedIndex].value);">
+        <option value="宋体">字体</option>
+        <option value="方正启体简体">默认</option>
+        <option value="黑体">黑体</option>
+        <option value="楷体_GB2312">楷体</option>
+        <option value="微软雅黑">雅黑</option>
+        <option value="方正启体简体">启体</option>
+        <option value="宋体">宋体</option>
+    </select>
+    <select onchange="javascript:setColor(this.options[this.selectedIndex].value);">
+        <option value="#000">颜色</option>
+        <option value="#000">默认</option>
+        <option value="#9370DB">暗紫</option>
+        <option value="#2E8B57">藻绿</option>
+        <option value="#2F4F4F">深灰</option>
+        <option value="#778899">青灰</option>
+        <option value="#800000">栗色</option>
+        <option value="#6A5ACD">青蓝</option>
+        <option value="#BC8F8F">玫褐</option>
+        <option value="#F4A460">黄褐</option>
+        <option value="#F5F5DC">米色</option>
+        <option value="#F5F5F5">雾白</option>
+    </select>
+    <select onchange="javascript:setSize(this.options[this.selectedIndex].value);">
+        <option value="#E9FAFF">大小</option>
+        <option value="19pt">默认</option>
+        <option value="10pt">10pt</option>
+        <option value="12pt">12pt</option>
+        <option value="14pt">14pt</option>
+        <option value="16pt">16pt</option>
+        <option value="18pt">18pt</option>
+        <option value="20pt">20pt</option>
+        <option value="22pt">22pt</option>
+        <option value="25pt">25pt</option>
+        <option value="30pt">30pt</option>
+    </select>
+    <select name="scrollspeed" id="scrollspeed" onchange="javascript:setSpeed(this.options[this.selectedIndex].value);">
+        <option value="5">滚屏</option>
+        <option value="1">最慢</option>
+        <option value="2">慢2</option>
+        <option value="3">慢3</option>
+        <option value="4">中4</option>
+        <option value="5">中5</option>
+        <option value="6">中6</option>
+        <option value="7">快7</option>
+        <option value="8">快8</option>
+        <option value="9">快9</option>
+        <option value="10">最快</option>
+    </select>
+    <select onchange="javascript:setBGColor(this.options[this.selectedIndex].value);">
+        <option value="#E9FAFF" style="background-color: #E9FAFF;">背景</option>
+        <option value="#E9FAFF" style="background-color: #E9FAFF;">默认</option>
+        <option value="#FFFFFF" style="background-color: #FFFFFF;">白雪</option>
+        <option value="#000000" style="background-color: #000000;color:#FFFFFF;">漆黑</option>
+        <option value="#FFFFED" style="background-color: #FFFFED;">明黄</option>
+        <option value="#EEFAEE" style="background-color: #EEFAEE;">淡绿</option>
+        <option value="#CCE8CF" style="background-color: #CCE8CF;">草绿</option>
+        <option value="#FCEFFF" style="background-color: #FCEFFF;">红粉</option>
+        <option value="#EFEFEF" style="background-color: #EFEFEF;">深灰</option>
+        <option value="#F5F5DC" style="background-color: #F5F5DC;">米色</option>
+        <option value="#D2B48C" style="background-color: #D2B48C;">茶色</option>
+        <option value="#C0C0C0" style="background-color: #E7F4FE;">银色</option>
+    </select>
+    <select onchange="javascript:setWidth(this.options[this.selectedIndex].value);">
+        <option value="95%">宽度</option>
+        <option value="95%">默认</option>
+        <option value="85%">85%</option>
+        <option value="76%">75%</option>
+        <option value="67%">65%</option>
+        <option value="53%">50%</option>
+        <option value="41%">40%</option>
+    </select>
+    夜间<input type="checkbox" name="night" id="night" onchange="javascript:setNight();" value="">
+</div></span>
+                </div>
+            </div>
+            <div class="content">
+                <h1>我本无意成仙</h1>
+                <div class="link">
+                    <span>金色茉莉花推荐阅读：
+                            <a href="/book/34294/">我在荒岛肝属性</a>、
+                        
+                            <a href="/book/33953/">我本无意成仙</a>、
+                        
+                            <a href="/book/6429/">轮盘世界</a>、
+                        
+                            <a href="/book/25325/">光明壁垒</a>、
+                        
+                            <a href="/book/35667/">牧者密续</a>、
+                        
+                    </span>
+                </div>
+                <div id="content"  class="showtxt">
+                    
+                    
+                    
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        清晨的世界好静。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        毛毛雨沿着瓦顶斜度往下蓄积，又沿着房檐滴落下来，好似能听到它破碎的声音，门口的青石板则早已被洗得干净，被滴出一排浅坑，露出青石板最纯净的本色来，不仔细看，还以为雨已停了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游终于睁开了眼。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        屋中的剑客依旧靠墙坐着，两腿都伸直了，长剑很随意的斜放在腿上，看起来是个很舒服的姿势。而他依旧睁着眼睛，看着自己这方，眼睛里可以看到细密的血丝，似乎一夜没睡，而精神却又很足。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        见他醒来，剑客目光一低，瞄了眼他的双腿，问道：
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “先生盘坐一夜，腿不酸么？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “酸。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游很直接的答道。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        反倒是剑客有些意外。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        本以为得到的就算不是一个否定的回答，也会是一个类似“习惯了”的模糊答案，却没想到这么直接。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “先生常常盘坐，怎么还未习惯？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “只是偶尔盘坐。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “偶尔？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “是。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “不知何时盘坐？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “该盘坐时盘坐。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        剑客不多问了，只站起身来，抱剑行礼，态度与昨夜有些变化：“先生是高人，能与先生在此相遇实乃舒某之幸，本来天亮就该离去，舒某思来想去，觉得还是该与先生道一声别。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “足下言重了。”宋游淡淡说道，“相逢本是缘分，昨夜相遇，足下的风采亦惊艳了在下，何尝又不是在下之幸呢？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “先生为何不自称贫道？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “习惯了……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游如实答道，又多看了两眼这年轻剑客，觉得有趣：“足下既不是个沉默寡言之人，为何昨日又刻意冷漠？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “如有怠慢，请先生恕罪。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “足下有心事。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “不值一提。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “心事纠结，自生桎梏，少年早熟，不见得是好事。”宋游说，“除了棺中那位，还有谁能比一名山间偶遇的道士更适合寄托心事呢？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        剑客沉默犹疑片刻，才又抱拳：
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “敢问先生上下。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “姓宋名游字梦来，逸州灵泉县一山人，暂无道号。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “先生下山何为？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “游历天下。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “行走江湖，又是去哪？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “先去平州，再去京城。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “在下舒一凡，有礼了。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “有礼。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        年轻剑客重新坐了下来，长剑依旧横于膝上，腰板笔直。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        两人对视。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “舒某有一事憋了二十年，如今就快到了结它的时候了，却不料越是临近，就越是如鲠在喉，心中纠结，惧怕失利，宛如病魔缠身。”剑客露出难受的表情，这与他昨日洒脱的风采截然相反，“如此下去，怕当真会失利。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        随即他看着宋游：
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “可二十年间，此事我从未与任何人说过。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “在下不过一山间隐士，游历天下，目观世界，修行修心。”宋游明白他的意思，便也说道，“便借足下一篇故事，算作我今日见闻。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “先生可知晓召州有位江湖名人，名叫林德海，江湖人称断山刀，乃是召州江湖第一大派寒江门的门主，也是召州江湖第一人，曾经一把寒铁鬼头刀纵横整个大晏江湖，只三次打平，从无败绩，回到召州后号称天下第一刀，只听反对之声，却从无人敢找上门去。”剑客好像在讲一个极其熟悉的人，每讲一句，眉间郁结都要消散一分，“此人刀法凌厉，大开大合，一打起来，如狂风骤雨，绝不认输，而他人如其刀，虽然自大但也豪迈骄傲，为人大方，绝世刀客也，不知被多少江湖人奉为英雄豪杰，心中偶像。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “召州太远，何况在下也不了解江湖之事。”宋游答道。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “先生不了解江湖事，那想来也曾听过江湖上的恩怨吧？”剑客摇了摇头，“无非是谁杀了谁，谁与谁结了怨，这类故事不知凡几，真真假假，可江湖上的人还是最爱听也最爱传这类故事。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “倒听说书人说过类似的。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “二十年前，林德海与我父亲结了仇，事情几次都没说通，有一天晚上他喝醉了酒，提着一把寒铁刀杀了我全家，而我就在旁边看着。”剑客的目光反倒越发平静，甚至讲到这里，嘴边还带上了一抹笑，“这种事情故事里经常听到，可在真正的江湖上，却很少有人能真正心狠手辣到这个地步。当时也算是震惊了整个江湖了。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “足下如何躲过一劫的呢？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “躲过一劫？呵……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “不是么？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “不是。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        年轻剑客眼睛不由略微眯起，好像陷入了回忆之中：“林德海乃绝世刀客，自诩天下无敌，一身骄傲，酒后更是睥睨天下，怎么会杀一个小孩？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “他放过了你？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “我就站在旁边……”年轻剑客笑着摇头，“他不仅放过了我，他杀完人后，还告诉我，说他叫林德海，来自召州寒江门，叫我好好习武，长大后最好是去找他报仇，以先生所见，他是不是很蠢？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “也可能是别的东西。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “后来二十年间，我常常听闻他的事迹，也常常做梦梦见他。”年轻剑客仰头笑道，“哈哈！依我看，他那把刀恐怕真是天下第一，这天下难有人比他更称得上江湖豪杰了！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “所以足下是去报仇的。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “正是。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “足下觉得胜负几何？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “舒某虽然年轻，但日日苦练，一日苦功更胜他人两日，练剑的时长不比多数江湖前辈少。”年轻剑客平静理性，“此次柳江大会，除最西北和最东北的江湖门派没来，几乎各地的江湖门派都来了，江湖好手聚了大半，燕仙台上，我厚颜挑了不少，也见了不少，以我看，这江湖上已没有几人能敌得过我手中这把剑了。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “足下实乃绝世剑客也。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “然而寒江门门徒众多，不乏江湖好手，若单是林德海一人……”剑客摇头笑了笑，“我说我有七成胜算，别人定然不信。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游点了点头，愿意去相信。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        面前这位剑客并非半吊子，恰恰相反，他在柳江大会上击败了高手无数，既有正青年的俊杰，也有经验丰富的老前辈，无论如何他都已经站到了武艺的巅峰，是一行的大师人物。加上报仇一事不可儿戏，必须格外重视，多方调查，小心推算，不仅不能狂妄，谨慎者甚至还要多留一点余地，他真切知道林德海的本事，推崇他为天下第一刀客，还敢说出七成胜算，应当是足够理性的。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这时剑客又摇了摇头：“可要以牙还牙，以眼还眼，却是难之又难。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        以牙还牙，以眼还眼。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游心里重复一句，从这句看似平淡的话里感到了浓郁的血腥气。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “我只一成胜算。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        剑客如此说道，已持剑站了起来，似乎准备离开了，只最后问宋游：“先生既是高人，不知这世间是否有轮回报应一说？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “何为轮回报应？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “善有善报，恶有恶报。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “足下想问什么？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “想……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        剑客转头看向外头天空，一时疑惑：
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “我也不知……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “在下未曾见过轮回，倒是见过几次报应，却也觉得更像巧合。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “那就是没有了。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “非也。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “怎么说？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “行善积德虽不敢说有来世福报，就算是有，又与今世的你有多少相干？持身正大也不敢说有浩然正气，就算是有，怕也难以让你一眼超然众人。但行善可让伱内心愉悦，那是一种十分纯粹的愉悦，让你无亏无欠，内心坦然念头自然通达，于是夜半不怕鬼敲门。就算偶尔沾染了郁闷气息，也会自然消退。”宋游盯着他说，“足下须知，为恶易而为善难，作恶者的内心往往不如为善者强大。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        剑客站着不动，慢慢思索。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “多谢先生指教。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “此话人人会说。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “讲完心事，内心舒坦了不少。”年轻剑客与他拱手道，“只是这故事在江湖上实在普通，怕是先生听来也只觉得无趣。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “并非如此。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “总之谢过先生，舒某便要走了，就此告辞，先生若觉得与我有缘，便祝我活着回来吧。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “足下慢走。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游只这么说了一句。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        虽说他与那林德海素不相识，可与这年轻剑客也是刚刚认识，双方都不了解，只是做一名听客，那也只做一名听客好了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        想来届时又是一桩江湖大事吧？
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        能亲眼见证，也挺值得唏嘘。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        剑客也不在意，提着行囊，便跨出了门槛。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        不过刚刚跨出一步，他又停下回头，看了眼屋中那堆火，又看了眼屋角的柴：“先生昨夜点火用的柴，可是取自屋中？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “既是我取的柴，自该由我来补，足下尽管去吧。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “也好！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        剑客便去了屋檐下牵马，并未回头：“那林德海一生痴迷武道，并未娶妻，膝下只有一子，也是从外边带回来的，此事与先生无关。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游愣了一下，随即摇头。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        这倒也没有太大必要。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        剑客很快离去了，只留下一桩心结，以及夜里斩鬼的绝世风采。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “江湖事……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游摇头呢喃，也并不慌着走，只从被袋里不急不慢的拿出黄纸朱砂，画了一张新符，换到了这义庄的门上，待得外头的雨停了，又看了看屋中墙脚剩余的那一堆木柴，这才起身准备出门。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “道士你去哪？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “捡些木柴来阴干。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “你别去！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “为什么？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        三花猫连忙钻出来，仰着头对他说：“既是我取的柴，自该由我来补！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        和他刚刚的语气像极了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “那你去吧。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游笑了笑，便又坐了下来，重新将火升起，准备烧点热水。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        待得小女童跑出去又跑回来好几趟，补齐了昨晚与今早生火烧的柴，宋游也就着热水吃完了饭，最后还收拾了一番行李，等燕儿去探了路回来告诉他前面的村落城池与风景，这才带马离去。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        和那年轻剑客倒是方向相同。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        只是一前一后，一人脚步匆匆，细雨仗剑身入梦，一人不急不忙，芒鞋徐行看苍生。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        只听屋后一阵山鸟啼鸣，声音空幽清脆，不带一点杂音，马蹄踏在青石板上得得作响，回音若有若无，只衬得这片雨后的天地更寂静了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        算算时间，已近二月中旬。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        一半春休。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        感谢“我是网络乞丐”大佬的盟主，鞠躬露胸！
+                        
+                    </p>
+                    <br/>
+                    
+                    
+                </div>
+            </div>
+            <div class="page_chapter">
+                    <ul>
+                    
+                    <li><a href="/book/33953/17749479.html" target="_top" class="pre">上一章</a></li>
+                    
+                    <li><a href="/book/33953/" target="_top" title="" class="back">章节列表</a></li>
+                    
+                    <li><a href="/book/33953/17751288.html" target="_top" class="next">下一章</a></li>
+                    
+                    <li><a href="javascript:;" onclick="addBookmark('17749480','第67章 听惯了的江湖恩怨（+1）','33953');">加入书签</a></li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer" name="footer">
+    
+        <div id="firendlink">
+	友情连接： <a href="/sitemap.xml" target="_blank">网站地图</a> 
+</div> 
+    
+    <hr>
+   <p>本站所有小说为转载作品，所有章节均由网友上传，转载至本站只是为了宣传本书让更多读者欣赏。</p> 
+   <p>Copyright &copy; 2019 新笔趣阁 All Rights Reserved.</p> 
+  </div>
+    <div class="link">
+        <span>小说相关推荐：
+            
+                <a href="/book/37034/">诡异收容所，你收容我一个人类？</a>、
+            
+                <a href="/book/37025/">末世：让你屯物资，没让你屯女神</a>、
+            
+                <a href="/book/36746/">猩红领主：开局成为血族始祖</a>、
+            
+                <a href="/book/36739/">转职牧师，技能却伤害爆炸</a>、
+            
+                <a href="/book/36730/">人在斗罗写日记，霍挂竟是我自己</a>、
+            
+                <a href="/book/36445/">福缘太高怎么办</a>、
+            
+                <a href="/book/36390/">斗罗：人在绝世，悟性逆天</a>、
+            
+        </span>
+    </div>
+    <hr/>
+    <p>《<a href="/book/33953/">我本无意成仙</a>》是作者：金色茉莉花倾才力献的一部情节荡气回肠，扣人心弦的佳作</p>
+    <div id="tbox">
+        <a id="gotop" href="#top" style="display: inline;"></a>
+        <a id="gobottom" href="#footer"></a>
+    </div>
+</body>
+<script src="/dist/jquery.min.js"></script>
+<script src="/dist/md5.min.js"></script>
+<script src="/dist/common.js"></script>
+<script language="javascript">
+    $(document).ready(function() {
+        if (typeof addBookMarkByJs != 'undefined' && addBookMarkByJs instanceof Function)
+            addBookMarkByJs(17749480, 33953, '第67章 听惯了的江湖恩怨（+1）');
+        setCookie("visitedId", 33953, 365);
+        
+            window.prevpage = "/book/33953/17749479.html";
+        
+        
+            window.nextpage = "/book/33953/17751288.html";
+        
+        window.index_page = "/book/33953/";
+        
+        
+        var doc = $(".content_detail");
+        for (var i = 0;  i < doc.length; i++) {
+            var pdoc = $(doc[i]);
+            var oldstr = pdoc.text();
+            var newstr = pdoc.text();
+            for (var j = 0; j < ruleList.length; j++) {
+                var rule = new RegExp(ruleList[j],"gi");
+                if ( rule.test( newstr ) ) {
+                    newstr = newstr.replace( rule , "" );
+                }
+            }
+            if ( oldstr != newstr ) {
+                pdoc.text(newstr);
+            }
+        }
+    });
+</script>
+<script>
+    (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        } else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<script></script>
+<script>goTo('http://m.xsbiquge.la/book/33953/17749480.html');</script>
+</html>

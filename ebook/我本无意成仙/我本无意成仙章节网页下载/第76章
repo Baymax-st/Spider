@@ -1,0 +1,860 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>第74章 万类不齐_我本无意成仙_科幻小说_新笔趣阁</title>
+    <meta name="keywords" content="我本无意成仙,第74章 万类不齐" />
+    <meta name="description" content="新笔趣阁提供了金色茉莉花创作的都市小说《我本无意成仙》干净清爽无错字的文字章节：第74章 万类不齐在线阅读。" />
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta content="always" name="referrer">
+    <meta name="renderer" content=webkit>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="applicable-device" content="pc">
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="mobile-agent" content="format=html5; url=/book/33953/17776855.html" />
+    <meta http-equiv="mobile-agent" content="format=xhtml; url=/book/33953/17776855.html" />
+    <link rel="shortcut icon" type="image/ico" href="/images/favicon.ico" />
+    <link rel="stylesheet" href="/dist/xiaoshuo.css" />
+    <script type="text/javascript" src="/rule.json"></script>
+</head>
+
+<body>
+    <div class="ywtop">
+    <div class="ywtop_con">
+        <div class="ywtop_sethome">
+            <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.xsbiquge.la');" href="#">将新笔趣阁设为首页</a>
+        </div>
+        <div class="ywtop_addfavorite" name="top">
+            <a href="javascript:window.external.addFavorite('http://www.xsbiquge.la','新笔趣阁_无弹窗阅读小说网')">收藏新笔趣阁</a>
+        </div>
+        <div class="nri login-ok hide">
+            Hi,<a href="/user" target="_top" class="top-username"></a>
+            <a href="/bookcase" target="_top">我的书架</a> |
+            <a href="/user" target="_top">我的资料</a> |
+            <a href="/editpassword" target="_top">修改密码</a> |
+            <a href="/loginout" target="_self">退出登录</a>
+        </div>
+        <div class="nri login-fail hide">
+            <form name="mylogin" id="mylogin" method="post" action="/login">
+                <div class="cc">
+                    <div class="txt">账号：</div>
+                    <div class="inp"><input type="text" name="uname" id="uname"></div>
+                </div>
+                <div class="cc">
+                    <div class="txt">密码：</div>
+                    <div class="inp"><input type="password" name="pass" id="pass"></div>
+                </div>
+                <div class="frii">
+                    <input type="hidden" name="action" id="action" value="login">
+                    <input type="submit" title="登陆" class="int" onclick="return checkUserLogin()" value="登陆">
+                </div>
+                <div class="ccc">
+                    <div class="txtt"></div>
+                    <div class="txtt"><a href="/register">用户注册</a></div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+    <div class="header">
+	<div class="wrap">
+		<div class="logo">
+			<a href="/" title="新笔趣阁">新笔趣阁<em></em></a>
+		</div>
+        
+        <form name="mysearch" id="mysearch" method="get" action="/search">
+            <div class="search">
+                <input class="input" id="bdcsMain" name="keyword" type="text" maxlength="30" value="可搜书名或者作者，别输错字。" onblur="if (value ==''){value='可搜书名或者作者，别输错字。'}" onfocus="if (value =='可搜书名或者作者，别输错字。'){value =''}" id="bdcsMain">
+                <span class="s_btn"><input type="submit" value=" 搜 索 " class="searchBtn button" onclick="return checkSearch()"></span>
+            </div>
+        </form>
+        
+	</div>
+</div>
+    <div class="nav">
+    <ul> 
+        <li><a href="/" title="新笔趣阁">首页</a></li>
+        <li><a href="/class/1/">玄幻小说</a></li>
+        <li><a href="/class/2/">修真小说</a></li>
+        <li><a href="/class/3/">都市小说</a></li>
+        <li><a href="/class/4/">历史小说</a></li>
+        <li><a href="/class/5/">网游小说</a></li>
+        <li><a href="/class/6/">科幻小说</a></li>
+        <li><a href="/class/7/">女频小说</a></li>
+        <li><a href="/class/8/">其他小说</a></li>
+        <li><a href="/rank/">排行榜</a></li>
+        <li><a href="/over/">全本小说</a></li>
+        <li><a href="/history">阅读轨迹</a></li>
+    </ul>
+</div>
+    <div class="wrap">
+        <div class="detail-box" id="book">
+            <div class="path">
+                <div class="p"><a href="http://www.xsbiquge.la/">新笔趣阁</a> &gt; <a href="/book/33953/" title="我本无意成仙">我本无意成仙</a> &gt; 第74章 万类不齐
+                <span class="oninfo"><div id="page_set">
+    <select onchange="javascript:setFont(this.options[this.selectedIndex].value);">
+        <option value="宋体">字体</option>
+        <option value="方正启体简体">默认</option>
+        <option value="黑体">黑体</option>
+        <option value="楷体_GB2312">楷体</option>
+        <option value="微软雅黑">雅黑</option>
+        <option value="方正启体简体">启体</option>
+        <option value="宋体">宋体</option>
+    </select>
+    <select onchange="javascript:setColor(this.options[this.selectedIndex].value);">
+        <option value="#000">颜色</option>
+        <option value="#000">默认</option>
+        <option value="#9370DB">暗紫</option>
+        <option value="#2E8B57">藻绿</option>
+        <option value="#2F4F4F">深灰</option>
+        <option value="#778899">青灰</option>
+        <option value="#800000">栗色</option>
+        <option value="#6A5ACD">青蓝</option>
+        <option value="#BC8F8F">玫褐</option>
+        <option value="#F4A460">黄褐</option>
+        <option value="#F5F5DC">米色</option>
+        <option value="#F5F5F5">雾白</option>
+    </select>
+    <select onchange="javascript:setSize(this.options[this.selectedIndex].value);">
+        <option value="#E9FAFF">大小</option>
+        <option value="19pt">默认</option>
+        <option value="10pt">10pt</option>
+        <option value="12pt">12pt</option>
+        <option value="14pt">14pt</option>
+        <option value="16pt">16pt</option>
+        <option value="18pt">18pt</option>
+        <option value="20pt">20pt</option>
+        <option value="22pt">22pt</option>
+        <option value="25pt">25pt</option>
+        <option value="30pt">30pt</option>
+    </select>
+    <select name="scrollspeed" id="scrollspeed" onchange="javascript:setSpeed(this.options[this.selectedIndex].value);">
+        <option value="5">滚屏</option>
+        <option value="1">最慢</option>
+        <option value="2">慢2</option>
+        <option value="3">慢3</option>
+        <option value="4">中4</option>
+        <option value="5">中5</option>
+        <option value="6">中6</option>
+        <option value="7">快7</option>
+        <option value="8">快8</option>
+        <option value="9">快9</option>
+        <option value="10">最快</option>
+    </select>
+    <select onchange="javascript:setBGColor(this.options[this.selectedIndex].value);">
+        <option value="#E9FAFF" style="background-color: #E9FAFF;">背景</option>
+        <option value="#E9FAFF" style="background-color: #E9FAFF;">默认</option>
+        <option value="#FFFFFF" style="background-color: #FFFFFF;">白雪</option>
+        <option value="#000000" style="background-color: #000000;color:#FFFFFF;">漆黑</option>
+        <option value="#FFFFED" style="background-color: #FFFFED;">明黄</option>
+        <option value="#EEFAEE" style="background-color: #EEFAEE;">淡绿</option>
+        <option value="#CCE8CF" style="background-color: #CCE8CF;">草绿</option>
+        <option value="#FCEFFF" style="background-color: #FCEFFF;">红粉</option>
+        <option value="#EFEFEF" style="background-color: #EFEFEF;">深灰</option>
+        <option value="#F5F5DC" style="background-color: #F5F5DC;">米色</option>
+        <option value="#D2B48C" style="background-color: #D2B48C;">茶色</option>
+        <option value="#C0C0C0" style="background-color: #E7F4FE;">银色</option>
+    </select>
+    <select onchange="javascript:setWidth(this.options[this.selectedIndex].value);">
+        <option value="95%">宽度</option>
+        <option value="95%">默认</option>
+        <option value="85%">85%</option>
+        <option value="76%">75%</option>
+        <option value="67%">65%</option>
+        <option value="53%">50%</option>
+        <option value="41%">40%</option>
+    </select>
+    夜间<input type="checkbox" name="night" id="night" onchange="javascript:setNight();" value="">
+</div></span>
+                </div>
+            </div>
+            <div class="content">
+                <h1>我本无意成仙</h1>
+                <div class="link">
+                    <span>金色茉莉花推荐阅读：
+                            <a href="/book/34294/">我在荒岛肝属性</a>、
+                        
+                            <a href="/book/33953/">我本无意成仙</a>、
+                        
+                            <a href="/book/6429/">轮盘世界</a>、
+                        
+                            <a href="/book/25325/">光明壁垒</a>、
+                        
+                            <a href="/book/35667/">牧者密续</a>、
+                        
+                    </span>
+                </div>
+                <div id="content"  class="showtxt">
+                    
+                    
+                    
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游慢慢的走，细致的看。能感觉到这些妖精鬼怪对他这个莫名闯入的人感情不一，有生疏的，有警惕的，有好奇的，有抵触的，甚至还有害怕的。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        所以他也不说话，先看为主。这些妖精鬼怪用的是人类的铜钱，只是不限朝代，哪个朝代的都在用。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        没见到用银子的。商品价格与山下城镇很不一样。锅碗瓢盆、各类铁器卖得很贵，也卖得好，衣裳布料价格也明显比山下集镇更高，肉类价格则要略微低于山下集镇，反倒是山下人尤其是城里人觉得稀奇的一些山珍，在他们看来似乎很普通，在这里又多又贱。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        还有一些外面少见的东西，价格不等。居然还有卖书的。除了名人着作、道经佛书，竟还有人写的志怪集。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游心里升起了一种想法——要是有个商人来这里，往来倒卖，肯定很赚钱，怕是一条小丝绸之路了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “……”宋游心里暗笑，走向了第一个摊位。这是一个卖火腿的摊位。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        整条整条的猪火腿，片开之后，本身颜色就很漂亮，烛光一照，更是红得诱人。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        不是手艺极佳，就是肉质很好。摊主是个高大的男子，却长了一颗豹子头。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “摊主有礼。”宋游走到摊位面前，低头看了看，保持着礼貌，向摊主问：“请问火腿怎么卖？大晏朝的钱也收吗？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “哆！”片肉的刀插进案板里。摊主的豹子头盯着宋游，眼睛圆溜溜的，里头的瞳孔只剩一个小圆点，吸耸几下鼻子，又看了他一会儿，才说：“你是人？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “正是。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “你怎么进来的？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “在下游历天下，途经此山，睡前见这边山有灯火，顺着火光和小路，就走进来了。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “你该出去。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “自是要出去的。”宋游笑着又行了一礼：“只是来都来了，不妨看看、逛逛再走。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “快走！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “我看摊主卖的火腿乃是上品，今晚正好摘了山间菌子来煮汤，喝的时候还在想呢，要是有只老母鸡或几片上好的火腿加进去……”宋游说着摇头笑了笑，
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “正好就遇见了足下，可见有缘。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “不卖给人。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “为何？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “这不是人来的地方。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “山下城中，妖鬼可也不少。”宋游顿了一下，
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “不是人来的地方，所以能在此处与摊主相遇，才是尤为不易。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “伱真要买？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “问问。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “一百文一两！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “……”不知不觉间，周围已围了一圈山中的妖精鬼怪，像是看稀奇一样，盯着他们对话。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游只低头细细查看：“这是野猪肉？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “哪来那么多野猪肉给你吃？爷爷自己养的。”摊主冷冷瞪着他。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “倒也养得不错。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “你要几两？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “只是我有些不解……”宋游摇了摇头，抬头与这长了一颗花豹头的摊主对视：“为何足下卖与别人一百文一斤，卖与我就要一百文一两呢？”摊主直直盯着他看，甚至凑近了他一点，却在他脸上没有看出丝毫惧意，如此一来，他好似也没了招，这才说：“不买就去别地买！那些死鬼摆的摊也许会卖给你！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “为何？就因为我是人？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “是又如何？”宋游反倒有些疑惑了。此地妖鬼精怪什么都有，各门各类，不乏成精前是天敌的，都能和谐相处，为什么偏偏排挤自己呢？
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “我不曾因足下是妖而轻慢于足下，足下为何因我是人而轻慢于我呢？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “你不知道？这里不欢迎人。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “为何？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “哪有那么多为何为何！？”摊主有些恼了，
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “人不也不欢迎妖鬼吗？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “足下看我像是不欢迎妖的样子么？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “……”被他这么一问，摊主还真愣了一下。随即再次从上到下打量了一遍这道人，见他身处妖鬼世界，不仅镇定自若，而且十分自然，既无丝毫惧意，也无半点嫌恶，随即目光扫到这道人的脚边，见一只三花猫像人一样站起来，贴着那道人的腿，高仰起头悄悄瞄着自己，一只爪子还扒拉着道人的裤脚。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        摊主想了一会儿，才冷哼一声：“人奸诈狡猾，心狠手辣，你看身后这么多山妖山鬼，自然精怪，除了少数野鬼，有几个喜欢人的？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “足下此言差矣。”宋游并不赞同他的说法：“在我们人的传闻里，妖精鬼怪也大多不是好人，常有伤人害命之事。可大部分人并不等于所有人，那些伤人害命的妖精鬼怪也不代表所有妖精鬼怪，正如我来到这里，也不曾因此歧视足下，为何足下要因此歧视于我呢？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “你……”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “足下快歇歇气。”宋游连忙劝慰，
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “都成妖了，还是要多些耐心才是，太过暴躁易怒，于修行可是无益。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “你非要买我的火腿不成？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “倒不是非要，只是觉得好，有买的想法，于是过来问问。”宋游和和气气，
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “买与不买，本来关系不大，可足下如此待我，却是让我有些不解，所以不免与足下多说两句，若有冒犯之处，嗯，若有冒犯之处，足下要有耐心。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “你要……”摊主的话还没说完，旁边围观的人群突然让开一条路，有两道身影挤了过来。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游和摊主都看过去。两道身影都是人形。一个完全是人形，却生得膀大腰圆，可怜这身衣服，能把他装进去恐怕都要松口气。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        一个同样壮硕，却长得更高，脖子上是一颗水牛的头，两角弯弯。值得一提的是这两位都穿着一样的衣服，看起来像是差服，只是和大晏官差颜色制式略有不同。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        或许是前边某个朝代的差服。这集镇居然还有
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “官差”？宋游倒是有些意外。因为山下人类的大多集镇是没有官差的，是老百姓自发聚集起来的，城内庙会虽然有官差巡逻，但也主要是因为在城内。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        不过想到这里全是些妖精鬼怪，种类各有不同，也是有与人类不同的特殊情况的，宋游便也理解了。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        只见这两位没几步就从人群中走了出来。公人办事，自然不能唯唯诺诺，两只妖怪到来之时气势汹汹，只是看见宋游穿着一身道袍，再看他身边的三花猫，迟疑一下，便知道这闯入的人和平常的不太一样，不是普通人，表情稍稍收敛，但也依旧很有气势。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “足下从哪来？要去何地？因何来此？速速道来！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “在下姓宋名游，逸州灵泉县一山人，游历天下，经过此山，偶遇贵地开市，循着山后灯光走了进来，若有不礼之处还请见谅。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “你是修道人？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “是。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “哪个道观？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “阴阳山，伏龙观。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “……”此话一出，围观者不觉有什么，那生了牛角的
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “差人”也不觉得有什么，那膀大腰圆的却是表情一凝。只听牛角差人问道：“在此地闹闹哄哄又做何事？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “并非在下有意为之。”宋游行礼说道，
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “在下只是想买些火腿，许是大家少有在这里见过活人，这才前来围观。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “原来如此。”牛角差人点点头，
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “此乃我大山之间山妖精怪开的集镇，每季一次，人类能平安走进来已是不易，既是无意闯入，我等通常也不追究你们的责任，你既是修道之人，便自行离去吧。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “既然进来，也是有缘，在下觉得此地多有稀奇，想多看看，不知足下可否行个方便。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “嗯？”牛头差人眼睛一瞪，有铃铛那么大。只是这时他却感觉身旁同僚拍了拍他的肩膀，随即同僚独自上前，他虽疑惑不解，却也闭上了嘴。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “尊师既是修道之人，应当知晓万类有异的道理，此地对于人类来说，不是个好去处，尊师不如跟我来，我带尊师出去。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “如何不是个好去处了？”宋游疑惑，
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “愿闻其详。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “此地虽是凡间，可却是妖鬼聚集之地，除了我们，还有许多凶悍少智的邪物徘徊在外，凡人难以找到这里，也难以走到这里来。而且在这里待久了容易迷失神智，走不出去。”这体壮如熊的差人顿了一下，
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “自然，尊师法力高强，不怕这些，可我等都是些粗俗野蛮的山野妖精鬼怪，尊师又何必与我们在此游戏？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “足下此言差矣，都是天地间的生灵，人与妖又有何不同？”宋游顿了下，
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “并且以我看来，大家在此互市，都友好相处，公买公卖，两位也是心地纯善，以理服人，哪来粗俗野蛮一说？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “……”这差人沉默片刻，倒是不再劝了，只对宋游拱手行礼：“那便请尊师自便。只是此地集市只在晚上开，尊师须得在天亮之前离开，否则可能找不到回去的路，尊师道行再高，也少不了添些麻烦。”刚说完，又环顾一圈四周，想了想才说：“相遇便是难得，仙师不曾失了礼节，大伙还是该以礼相待才对，莫要过于粗俗了。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “多谢。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “尊师莫谢……诶！大家伙都散了！散了散了，堵在这像什么话，快点快点，抓紧时间，都要子时了！”说着说着还吼一声，是熊的吼叫。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        围观者皆被他挥手驱散。看那模样，真与山下官差无异。宋游对他拱手施礼，也对围观的妖精鬼怪施礼，这才转过身来，看向这豹子摊主：“摊主此时可以卖给我了么？”摊主眼睛微眯，一下从摊位上拔起刀子，动作快如闪电。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “刷！”一片薄薄的火腿，几乎半透光，搭在刀刃上，递向宋游。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “尝尝！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “多谢。”宋游小心捻起。这位摊主刀功了得，切得好薄，拿起来有着纸一样的质感。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        上好的火腿生吃也很好吃，宋游不知道这火腿品质如何，只觉得放入嘴中咸味不浓，香而不腻，肉丝劲韧，越嚼越香，本已觉得是上品，可吞下去之后，那一股香味回涌上来，才更觉得回味无穷。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        妖怪竟有这手艺？
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “八文一两，百二一斤，买一整条，还能饶点。”豹子摊主看出宋游喜欢，眼睛一眯，也有几分得意。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “刚才还是百文一斤呢，为何我还是要贵些？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “人家讲了价。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “那也请给我一百一斤吧！”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “要多少？”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “两斤上下，削成薄片。”
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        “可！”摊主手中小刀异常锋利，手法也熟，只见他在火腿上一刀刀划过，每一刀下去，便是一片纸一样的火腿被片下来，落入桌上，那轻微的嘶嘶声音如手法一样干净利落，看来听来都是一种享受。
+                        
+                    </p>
+                    <br/>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="content_detail">
+                        宋游瞄了眼桌子，不太干净。也许他们并不在意这个。
+                        
+                    </p>
+                    <br/>
+                    
+                    
+                </div>
+            </div>
+            <div class="page_chapter">
+                    <ul>
+                    
+                    <li><a href="/book/33953/17771609.html" target="_top" class="pre">上一章</a></li>
+                    
+                    <li><a href="/book/33953/" target="_top" title="" class="back">章节列表</a></li>
+                    
+                    <li><a href="/book/33953/17781063.html" target="_top" class="next">下一章</a></li>
+                    
+                    <li><a href="javascript:;" onclick="addBookmark('17776855','第74章 万类不齐','33953');">加入书签</a></li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer" name="footer">
+    
+        <div id="firendlink">
+	友情连接： <a href="/sitemap.xml" target="_blank">网站地图</a> 
+</div> 
+    
+    <hr>
+   <p>本站所有小说为转载作品，所有章节均由网友上传，转载至本站只是为了宣传本书让更多读者欣赏。</p> 
+   <p>Copyright &copy; 2019 新笔趣阁 All Rights Reserved.</p> 
+  </div>
+    <div class="link">
+        <span>小说相关推荐：
+            
+                <a href="/book/37034/">诡异收容所，你收容我一个人类？</a>、
+            
+                <a href="/book/37025/">末世：让你屯物资，没让你屯女神</a>、
+            
+                <a href="/book/36746/">猩红领主：开局成为血族始祖</a>、
+            
+                <a href="/book/36739/">转职牧师，技能却伤害爆炸</a>、
+            
+                <a href="/book/36730/">人在斗罗写日记，霍挂竟是我自己</a>、
+            
+                <a href="/book/36445/">福缘太高怎么办</a>、
+            
+                <a href="/book/36390/">斗罗：人在绝世，悟性逆天</a>、
+            
+        </span>
+    </div>
+    <hr/>
+    <p>《<a href="/book/33953/">我本无意成仙</a>》是作者：金色茉莉花倾才力献的一部情节荡气回肠，扣人心弦的佳作</p>
+    <div id="tbox">
+        <a id="gotop" href="#top" style="display: inline;"></a>
+        <a id="gobottom" href="#footer"></a>
+    </div>
+</body>
+<script src="/dist/jquery.min.js"></script>
+<script src="/dist/md5.min.js"></script>
+<script src="/dist/common.js"></script>
+<script language="javascript">
+    $(document).ready(function() {
+        if (typeof addBookMarkByJs != 'undefined' && addBookMarkByJs instanceof Function)
+            addBookMarkByJs(17776855, 33953, '第74章 万类不齐');
+        setCookie("visitedId", 33953, 365);
+        
+            window.prevpage = "/book/33953/17771609.html";
+        
+        
+            window.nextpage = "/book/33953/17781063.html";
+        
+        window.index_page = "/book/33953/";
+        
+        
+        var doc = $(".content_detail");
+        for (var i = 0;  i < doc.length; i++) {
+            var pdoc = $(doc[i]);
+            var oldstr = pdoc.text();
+            var newstr = pdoc.text();
+            for (var j = 0; j < ruleList.length; j++) {
+                var rule = new RegExp(ruleList[j],"gi");
+                if ( rule.test( newstr ) ) {
+                    newstr = newstr.replace( rule , "" );
+                }
+            }
+            if ( oldstr != newstr ) {
+                pdoc.text(newstr);
+            }
+        }
+    });
+</script>
+<script>
+    (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        } else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<script></script>
+<script>goTo('http://m.xsbiquge.la/book/33953/17776855.html');</script>
+</html>

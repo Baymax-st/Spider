@@ -1,0 +1,645 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="北京科技大学新闻网" />
+    
+    <title>国家材料服役安全科学中心顺利通过CNAS复评审和扩大认可范围评审-北京科技大学新闻网</title><META Name="keywords" Content="北京科技大学新闻网,新闻导读,科学,审,复评,中心,CNAS,顺利,扩大,安全,服役,认可,国家材料服役安全科学中心顺利通过CNAS复评审和扩大认可范围评审,国家材料服役安全科学中心,CNAS复评审,扩大认可范围评审" />
+<META Name="description" Content="12月9日至10日，由中国合格评定国家认可委员会（CNAS）委派的马春红、毕廉、张智勇、韩秀卿组成的评审组对北京科技大学国家材料服役安全科学中心（简称“国家科学中心”）进行了复评审和扩大认可范围评审。学校副校长、国家科学中心主任张卫冬，国家科学中心党委书记夏秀芹，副主任金莹、陆永浩以及CNAS管理体系全体人员参加了此次评审。马春红宣读评审通知​12月9日上午召开首次会议。评审组长马春红宣读了评审通知，介绍了评..." />
+
+    <link rel="shortcut icon" href="../../images/favicon.ico" />
+  <link rel="stylesheet" href="../../css/style.css?v=1.1" />
+    <link rel="stylesheet" href="../../css/style2.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/index.css?v=2" />
+    <script src="../../js/jquery.min.js"></script>
+    <script src="../../js/share/babel.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="../../js/share/buttonLite.js"></script>
+    <script type="text/javascript" charset="utf-8" src="../../js/share/bshareC0.js"></script>
+ 
+ <script>
+            window.addEventListener("onorientationchange" in window ? "orientationchange" : "resize", hengshuping, false);
+            function hengshuping() {
+            
+                if (window.orientation == 90 || window.orientation == -90) {
+        
+                    $('.view').css("display", "flex")
+                } else {
+                    $('.view').css("display", "none")
+                }
+            }
+                jQuery(function () {
+            view();
+            jQuery(window).resize(function () { view(); });
+            
+            function view() { 
+                w = jQuery(window).width(); h = jQuery(window).height(); 
+                console.log(w,h)
+                if(w<768){
+                    if (w > h) { 
+                        jQuery('.view').show() 
+                    } else { 
+                        jQuery('.view').hide() 
+                    } }
+                }
+        });
+    </script><style>
+    .view {
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, .98);
+            color: #fff;
+            text-align: center;
+            position: fixed;
+            z-index: 60;
+            font-size: 20px;
+            display: none;
+            justify-content: center;
+            align-items: center;
+            padding: 0 50px;}
+    </style>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e784654535a5742000100054250 -->
+<link rel="stylesheet" type="text/css" href="../../bkzx_content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1087,'/bkzx_content.jsp',60800,1791272759)</script>
+</head>
+
+<body>
+   <div class="loader"></div>
+<div class="header ">
+ <div class="wps flex">
+   <div class="logo">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../../index.htm" title="新闻网"><img src="../../images/logo20231018.png" alt="" /></a></div>
+   <div class="hd-r flex-v-center">
+      <div class="flex">
+        
+         <script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><div class="hd-ico ">
+
+
+           <a href="https://www.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70368)">北科主页</a>
+         
+
+
+
+           <a href="https://newsold.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70292)">旧版新闻网</a>
+         
+
+
+
+           <a href="http://ustb.id.ustb.edu.cn/login" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 66646)">新闻投稿</a>
+         
+
+</div>
+          <div class="hd-serp"><script type="text/javascript">
+    function _nl_ys_check2(){
+        
+        var keyword = document.getElementById('showkeycode1020986').value;
+        if(keyword==null||keyword==""){
+            alert("Please enter the content you want to search!");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey1020986").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey1020986").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey1020986").value = base64.encode(document.getElementById("lucenenewssearchkey1020986").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode1020986"));
+        return true;
+    } 
+</script>
+<form class="hd-ser pore" action="../../ssjgy.jsp?wbtreeid=1087" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check2()">
+ <input type="hidden" id="lucenenewssearchkey1020986" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype1020986" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope1020986" name="searchScope" value="1">
+
+ 
+ <input type="text" placeholder="输入关键词搜索" class="inp" name="showkeycode" id="showkeycode1020986">
+             <input type="submit" value="" class="sub">
+ 
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+</div>
+         <div class="hd-nav-btn pore">
+          <button class="menu-btn1 navbtn">
+            <span class="line-1"></span><span class="line-2"></span><span class="line-3"></span>MENU
+          </button>
+         </div>
+      </div>
+   </div>
+ </div>
+
+ <div class="hd-nav">
+             <span class="hd-nav-close swiper-icons swi-close"></span>
+             <ul><li><a href="https://www.ustb.edu.cn/">北科主页</a></li>
+<li><a href="../../ttxw.htm">头条新闻</a></li>
+<li><a href="../../bkzx/xwdd.htm">北科资讯</a></li>
+<li><a href="../../stkj/tsbk/bksj.htm">视听空间</a></li>
+<li><a href="../../mtbk.htm">媒体北科</a></li>
+<li><a href="../../zhuantixinwen.htm">专题推荐</a></li>
+<li><a href="../../bkrw.htm">北科人物</a></li>
+<li><a href="../../szjy/szzx.htm">思政教育</a></li>
+<li><a href="../../bkrm1.htm">北科融媒</a></li>
+<li><a href="../../llxx.htm">理论学习</a></li>
+<li><a href="../../lianxiwomen.htm">联系我们</a></li>
+</ul>
+  </div>
+
+
+ 
+</div>
+
+<!-- 移动端头部s -->
+   <div class="headerm flex">
+      <div class="logo flex-v-center">    
+<a href="../../index.htm">
+        <img src="../../images/logo20231018.png" alt="">
+      </a>
+
+</div>
+      <div class="mobNavbtn flex">
+        <a href="javascript:;" class="trans searchbtn toSearch2 flex-v-center"><img src="../../images/serbtn.svg" height="20" /></a>
+        <div class="flex-v-center">
+          <button class="menu-btn navbtnm">
+            <span class="line-1"></span><span class="line-2"></span><span class="line-3"></span>MENU
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="sermob"><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode1020989').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey1020989").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey1020989").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey1020989").value = base64.encode(document.getElementById("lucenenewssearchkey1020989").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode1020989"));
+        return true;
+    } 
+</script>
+<form class="flex pore" action="../../ssjgy.jsp?wbtreeid=1087" method="post" id="au5a" name="au5a" onsubmit="return _nl_ys_check()">
+ <input type="hidden" id="lucenenewssearchkey1020989" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype1020989" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope1020989" name="searchScope" value="1">
+ 
+ 
+ <input type="text" placeholder="搜索..." class="inp" name="showkeycode" id="showkeycode1020989" />
+        <input type="submit" class="sub" value="" />
+ 
+
+</form>
+  <span class="swiper-icons swi-close close"></span>
+</div>
+
+    <div class="mobNav">
+      <div class="flex toplink">
+
+
+         <a href="https://www.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70293)">北科主页</a>
+      
+
+</div>
+      <ul class="flex"><li><div class="navp flex"><a href="https://www.ustb.edu.cn/">北科主页</a></div></li>
+<li><div class="navp flex"><a href="../../ttxw.htm">头条新闻</a></div></li>
+<li><div class="navp flex"><a href="../../bkzx/xwdd.htm">北科资讯</a></div></li>
+<li><div class="navp flex"><a href="../../stkj/tsbk/bksj.htm">视听空间</a></div></li>
+<li><div class="navp flex"><a href="../../mtbk.htm">媒体北科</a></div></li>
+<li><div class="navp flex"><a href="../../zhuantixinwen.htm">专题推荐</a></div></li>
+<li><div class="navp flex"><a href="../../bkrw.htm">北科人物</a></div></li>
+<li><div class="navp flex"><a href="../../szjy/szzx.htm">思政教育</a></div></li>
+<li><div class="navp flex"><a href="../../bkrm1.htm">北科融媒</a></div></li>
+<li><div class="navp flex"><a href="../../llxx.htm">理论学习</a></div></li>
+</ul>
+    </div>
+    <!-- 移动端头部e -->
+   
+    <div class="ban" style="background-image: url(../../images/bkzx.jpg);">
+        <!-- <div id="snow"></div> -->
+        <div id="parallax">
+            <div class="layer" data-depth="0">
+                <div id="particles-js"></div>
+            </div>
+        </div>
+        <div class="txt">
+            <div class="wp">
+                <div class="box">
+                   <h3 class="tit">
+
+
+
+北科资讯</h3>
+                    <div class="en">INFORMATION</div>
+                    <div class="cur">       <a href="https://www.ustb.edu.cn/">北科主页</a>   &gt; 
+        
+                <a href="../../index.htm">北科新闻</a>
+  
+               &gt; 
+
+                <a href="../../bkzx/xwdd.htm">北科资讯</a>
+  
+               &gt; 
+
+                <a href="../../bkzx/xwdd.htm">新闻导读</a>
+  
+               &gt; 
+
+                <a href="">正文</a>
+  
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 内容区域 -->
+    <div class="main ls" style="background-image: url(../../images/bgq1.jpg);">
+        <div class="wp fix">
+          <div class="cur cur-m">       <a href="https://www.ustb.edu.cn/">北科主页</a>   &gt; 
+        
+                <a href="../../index.htm">北科新闻</a>
+       
+               &gt; 
+
+                <a href="../../bkzx/xwdd.htm">北科资讯</a>
+       
+               &gt; 
+
+                <a href="../../bkzx/xwdd.htm">新闻导读</a>
+       
+               &gt; 
+
+                <a href="">正文</a>
+       
+</div>
+        </div>
+<div class="m-blackm l1"></div>
+        <div class="m-boxls1">
+            <div class="wp fix">
+
+                <div class="col-l wow fadeInUp">
+                    <div class="m-textq1">
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+
+<h1 class="nry_bt">国家材料服役安全科学中心顺利通过CNAS复评审和扩大认可范围评审</h1>
+
+
+                        <div class="info">
+                            <div class="item">
+                                <span class="date">2023-12-13</span>
+                            </div>
+                            <div class="item">
+                                <span>单位(作者)：国家科学中心</span>
+                               
+                               </div>
+                        </div>
+                        <div class="txt">
+                       
+
+    <div id="vsb_content"><div class="v_news_content">
+<p class="vsbcontent_start">12月9日至10日，由中国合格评定国家认可委员会（CNAS）委派的马春红、毕廉、张智勇、韩秀卿组成的评审组对北京科技大学国家材料服役安全科学中心（简称“国家科学中心”）进行了复评审和扩大认可范围评审。学校副校长、国家科学中心主任张卫冬，国家科学中心党委书记夏秀芹，副主任金莹、陆永浩以及CNAS管理体系全体人员参加了此次评审。</p> 
+<p class="vsbcontent_img"><img src="/__local/4/BF/53/E89A4118FFB010D7442AD1FBBFE_93A11106_67140.jpg" width="954" title="IMG_4599.JPG" word_img="" old_src="/storage/0D513E3D67E151E0B314C3EC7C2D2287/water/pic/765EE842AD18FB0A741814CF18822D62" vsbhref="vurl" vurl="/_vsl/4BF53E89A4118FFB010D7442AD1FBBFE/93A11106/67140" vheight="" vwidth="954" orisrc="/__local/4/BF/53/E89A4118FFB010D7442AD1FBBFE_93A11106_67140.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;"><span style="text-indent: 32px; text-wrap: wrap;">马春红宣读评审通知</span></p> 
+<p>12月9日上午召开首次会议。评审组长马春红宣读了评审通知，介绍了评审组成员，明确了评审的目的、依据、范围、部门、人员以及评审方法和日程安排。</p> 
+<p class="vsbcontent_img"><img src="/__local/4/86/67/08695C50C0A10941EACAD8774F1_53FC9DFA_826B0.jpg" width="954" title="IMG_4613.JPG" word_img="" old_src="/storage/463DE593459F838D4C6C3AAAC1AF9E77/water/pic/6C36CFEABC72F853060599D6D3833FE7" vsbhref="vurl" vurl="/_vsl/4866708695C50C0A10941EACAD8774F1/53FC9DFA/826B0" vheight="" vwidth="954" orisrc="/__local/4/86/67/08695C50C0A10941EACAD8774F1_53FC9DFA_826B0.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">张卫冬致辞</p> 
+<p>张卫冬代表学校和国家科学中心对评审组各位专家表示热烈的欢迎，并简要介绍了国家科学中心CNAS认可的发展历程，衷心希望各位专家能够对国家科学中心的CNAS体系运行情况提出宝贵的意见和建议。</p> 
+<p><img src="/__local/7/63/A7/5469387D608354C4A27D0B82067_4F195E70_65D55.jpg" width="954" title="IMG_5273.JPG" alt="IMG_5273.JPG" word_img="" old_src="/storage/4600FCB22BA6FC4C81C0C2C74F305372/water/pic/A7EDA73C509478FB2300A5FA712DE636" vsbhref="vurl" vurl="/_vsl/763A75469387D608354C4A27D0B82067/4F195E70/65D55" vheight="" vwidth="954" orisrc="/__local/7/63/A7/5469387D608354C4A27D0B82067_4F195E70_65D55.jpg" class="img_vsb_content" style="text-indent: 32px; text-wrap: wrap;"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">会议现场</p> 
+<p>金莹向评审组各位专家详细介绍了国家重大科技基础设施项目完成情况以及国家科学中心CNAS管理体系在2023年的运行情况。</p> 
+<p class="vsbcontent_img"><img src="/__local/9/8B/97/9C151CB02B2C70730A59C803199_4B55C81B_663A5.jpg" width="954" title="IMG_4665.JPG" word_img="" old_src="/storage/2C88F0A355FC0310AB2832AF863082B9/water/pic/D319DF84E64FCD3ACF9CE96DF0C5B5A1" vsbhref="vurl" vurl="/_vsl/98B979C151CB02B2C70730A59C803199/4B55C81B/663A5" vheight="" vwidth="954" orisrc="/__local/9/8B/97/9C151CB02B2C70730A59C803199_4B55C81B_663A5.jpg" class="img_vsb_content"></p> 
+<p class="vsbcontent_img"><img src="/__local/8/27/10/D2BF709D18870B69E880AB28D04_1D6BFA1F_6C78F.jpg" width="954" title="IMG_4727.JPG" word_img="" old_src="/storage/1B754FCA00F5400FE20A06AD5BB56721/water/pic/89A8EAA2A1050C8872F8ACD541D289C1" vsbhref="vurl" vurl="/_vsl/82710D2BF709D18870B69E880AB28D04/1D6BFA1F/6C78F" vheight="" vwidth="954" orisrc="/__local/8/27/10/D2BF709D18870B69E880AB28D04_1D6BFA1F_6C78F.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">现场考察</p> 
+<p>首次会议结束后，评审组现场考察了力学与结构工程实验站、自然环境腐蚀实验站、高温高压腐蚀实验站、极端多因素腐蚀实验站、高温长时蠕变实验站。专家组依据CNAS-CL01：2018《检测和校准实验室能力认可准则》及准则在金属材料和电气检测领域的应用说明等，通过现场试验、利用能力验证结果、现场提问、查阅记录和报告、核查仪器设备配置以及授权签字人考评等多种方式，对国家科学中心CNAS体系的各项管理要素和技术要素进行了认真细致的检查和评审。</p> 
+<p>在12月10日的末次会议中，马春红代表评审组向国家科学中心反馈了评审结果。实验室各种质量活动处于受控状态，经评审，所有已认可的能力及本次扩项的10项能力均满足要求，实验室能遵守认可准则、认可规则，无违规行为，本次复评审和扩大认可范围评审顺利通过。</p> 
+<p class="vsbcontent_img"><img src="/__local/8/27/83/F9CCCAEE4C695D288568CFC8C7D_BE58E919_30F33.jpg" width="954" title="IMG_5184.JPG" alt="IMG_5184.JPG" word_img="" old_src="/storage/3B64A2F9A6613D8F31CCD280F12E26F2/water/pic/7197D0CEF0378C8804B2961E0D364BA0" vsbhref="vurl" vurl="/_vsl/82783F9CCCAEE4C695D288568CFC8C7D/BE58E919/30F33" vheight="" vwidth="954" orisrc="/__local/8/27/83/F9CCCAEE4C695D288568CFC8C7D_BE58E919_30F33.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;"><span style="text-indent: 32px; text-wrap: wrap;">夏秀芹表态</span></p> 
+<p>评审组反馈意见结束后，夏秀芹代表国家科学中心对各位专家评审工作表示衷心的感谢，要求CNAS体系的各部门严格按照专家组反馈的问题和建议认真落实、尽快整改，并做到举一反三，改进工作思路和方法。金莹和陆永浩也在末次会议中进行了发言，表示将组织CNAS体系各部门认真做好相关问题整改，并落实专家组的各项建议。</p> 
+<p class="vsbcontent_img"><img src="/__local/3/1F/79/2F2E08537DB058BE11EC0C5B578_7CE2E103_70160.jpg" width="954" title="IMG_4647.JPG" word_img="" old_src="/storage/55467ADA97B2F85A1DC8583CEF828788/water/pic/B0E8125493682203872CDCD84F146688" vsbhref="vurl" vurl="/_vsl/31F792F2E08537DB058BE11EC0C5B578/7CE2E103/70160" vheight="" vwidth="954" orisrc="/__local/3/1F/79/2F2E08537DB058BE11EC0C5B578_7CE2E103_70160.jpg" class="img_vsb_content" style="text-indent: 32px; text-wrap: wrap;"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">合影留念</p> 
+<p class="vsbcontent_end">国家科学中心于2019年8月正式批准发布CNAS检测实验室管理体系并正式运行；2021年10月，接受CNAS专家组现场评审并顺利通过现场评审；2021年12月，正式获批CNAS认可资格；2023年1月，通过CNAS监督评审。此次扩大认可范围评审后，国家科学中心的7个实验站/室，配备疲劳试验机、自然大气环境结构材料试验装置、超临界水气环境结构材料试验装置、机械式蠕变持久试验机群等主要检测设备共137台（套），认可的检测能力范围涵盖了金属材料及制品、非金属材料及制品、电工电子产品和溅射薄膜材料等四大检测领域的36个检测标准（方法）。</p> 
+<p class="vsbcontent_end" style="text-align: right;"><span style="font-size: 14px;">（摄影：国家科学中心）</span></p> 
+<p class="vsbcontent_end" style="text-align: right;"><span style="font-size: 14px;">（责编：付云笛、薛浪）</span></p>
+</div></div><div id="div_vote_id"></div>
+        
+    
+    </div>
+                        <div class="bshare-custom">
+                            <span>分享到：</span>
+                            <a title="分享到新浪微博" onclick="shareTo('sina')" class="bshare-sinaminiblog" href="javascript:void(0);"></a>
+                            <a title="分享到微信" onclick="shareTo('wechat')" class="bshare-weixin" href="javascript:void(0);"></a>
+                            <a title="分享到QQ空间" onclick="shareTo('qzone')" class="bshare-qzone" href="javascript:void(0);"></a>
+                            <a title="分享到Facebook" class="bshare-facebook" href="javascript:void(0);"></a>
+                            <a title="分享到LinkedIn" class="bshare-linkedin" href="javascript:void(0);"></a>
+                            <a title="分享到Twitter" class="bshare-twitter" href="javascript:void(0);"></a>
+                        </div>
+                        
+                        <div class="m-pn">
+                            <a href="javascript:history.go(-1);" class="a-return">返回上一级</a>
+                            <div class="aa">
+                                <a href="60807.htm">上一条：核电安全技术与装备全国重点实验室揭牌并举行管理委员会2023年第一次会议</a>
+                                <a href="60803.htm">下一条：校妇联举办2023年妇女干部培训</a>
+                            </div>
+                        </div>
+    
+    
+    
+ 
+
+</form>
+</div>
+                </div>
+                <div class="col-r wow fadeInRight">
+                   <div class="m-newestls"><script language="javascript" src="/system/resource/js/centerCutImg.js"></script><div class="g-titls1">
+                            <h3 class="tit"><i style="background-image: url(../../images/iconls8.png);"></i>最新阅读</h3>
+                            <a href="../../bkzx/xwdd.htm" class="more">更多&gt;</a>
+                        </div>
+                        <ul class="ul-listl3">
+
+<li class="on">
+                                <a href="60807.htm" class="con">
+                                    <div class="date sptime">2023.12.13</div>
+                                    <h3 class="tit">核电安全技术与装备全国重点实验室揭牌并举行管理委员会2023...</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60800.htm" class="con">
+                                    <div class="date sptime">2023.12.13</div>
+                                    <h3 class="tit">国家材料服役安全科学中心顺利通过CNAS复评审和扩大认可范围...</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60803.htm" class="con">
+                                    <div class="date sptime">2023.12.13</div>
+                                    <h3 class="tit">校妇联举办2023年妇女干部培训</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60799.htm" class="con">
+                                    <div class="date sptime">2023.12.13</div>
+                                    <h3 class="tit">校长杨仁树一行赴江西赣州深化校际校企合作</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60787.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">我校受邀出席2023世界中文大会</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60788.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">科学技术与文明研究中心第四届理事会暨学术委员会第五次会议举行</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60789.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">学校举办“凝心铸魂强根基、团结奋进新征程”党外代表人士培训班</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60785.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">“材料-器件-装备-系统”基础研究创新联合体签约仪式举行</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60781.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">海淀区高等院校交通安全工作部门联席会赴我校开展年度交通安...</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60780.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">雄安校区、心向往之——2023级本科生辅导员年级组赴雄安新区...</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60777.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">2023年岗位聘任工作布置会召开</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60772.htm" class="con">
+                                    <div class="date sptime">2023.12.11</div>
+                                    <h3 class="tit">学校举办“实践绘就最美青春 上好行走的大思政课”2023年学生...</h3>
+                                </a>
+                            </li>
+
+</ul><script>_showDynClickBatch(['dynclicks_u13_60807','dynclicks_u13_60800','dynclicks_u13_60803','dynclicks_u13_60799','dynclicks_u13_60787','dynclicks_u13_60788','dynclicks_u13_60789','dynclicks_u13_60785','dynclicks_u13_60781','dynclicks_u13_60780','dynclicks_u13_60777','dynclicks_u13_60772'],[60807,60800,60803,60799,60787,60788,60789,60785,60781,60780,60777,60772],"wbnews", 1791272759)</script>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+ <div class="wp1 fta flex">
+  
+   <dl class="ft1 flex-v-center"><dt>快速链接</dt>
+    <dd class="flex-center">
+       <ul class="flex">
+         
+<li><a href="http://yx.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70298)"><span class="titline_w">迎新网</span></a></li>
+         
+<li><a href="http://gs.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70299)"><span class="titline_w">公派研究生</span></a></li>
+         
+<li><a href="http://xinli.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70300)"><span class="titline_w">心理咨询在线</span></a></li>
+         
+<li><a href="http://rsc.ustb.edu.cn/bsh/zzgd/index.htm" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70301)"><span class="titline_w">博士后流动站</span></a></li>
+         
+<li><a href="http://alumni.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70302)"><span class="titline_w">校友会</span></a></li>
+         
+<li><a href="http://www.kdtg.com.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70303)"><span class="titline_w">天工大厦</span></a></li>
+         
+<li><a href="http://pingan.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70304)"><span class="titline_w">平安校园</span></a></li>
+         
+<li><a href="https://www.ustb.edu.cn/kxyj/xzqk/index.htm" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70305)"><span class="titline_w">学术期刊</span></a></li>
+         
+</ul>
+    </dd></dl>
+    <div class="ftlogo">    
+<a href="../../index.htm"><img alt="" src="../../images/logoft20231018.png"></a>
+
+</div>
+    <dl class="ft1 ft2 flex-v-center"><dt>媒体链接</dt>
+    <dd class="flex-center">
+       <ul class="flex">
+         
+<li><a href="http://www.cyol.net/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70332)"><span class="titline_w">中国青年报</span></a></li>
+         
+<li><a href="https://www.gmw.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70333)"><span class="titline_w">光明网</span></a></li>
+         
+<li><a href="http://www.cctv.com/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70334)"><span class="titline_w">央视网</span></a></li>
+         
+<li><a href="http://paper.people.com.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70335)"><span class="titline_w">人民日报</span></a></li>
+         
+<li><a href="http://www.centv.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70336)"><span class="titline_w">中国教育电视台</span></a></li>
+         
+<li><a href="http://www.xinhuanet.com/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70337)"><span class="titline_w">新华网</span></a></li>
+         
+<li><a href="https://bjksb.bjeea.cn/html/ksb/index.html" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70338)"><span class="titline_w">北京考试报</span></a></li>
+         
+<li><a href="https://www.sciencenet.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70339)"><span class="titline_w">科学网</span></a></li>
+         
+</ul>
+    </dd></dl>
+  
+ </div>
+ <div class="wp ftb flex">
+    <div class="codes flex">    
+        <a href="https://weibo.com/USTB" onclick="_addDynClicks(&#34;wbimage&#34;, 1791272759, 60576)"><i class="swiper-icons swi-sina"></i>
+
+</a>
+
+
+        <a href="javascript:;"><i class="swiper-icons swi-weixin"></i>
+        <span><img alt="" src="../../images/2e23326e6fcd31c1c85b441d0cf5aa41.jpg"></span>
+      </a>
+     
+
+</div>
+    <div class="copyright"><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>版权所有©北京科技大学 京公网安备：110402430062京ICP备：1303011</p></div>
+    <div class="viewer">
+      <i class="swiper-icons swi-more1"></i><span><script language="javascript" src="../../_dwr/util.js"></script><script language="javascript" src="../../_dwr/interface/PageCounterDWR.js"></script><span id="a1020972" name="a1020972"></span>   
+
+<script>
+function getvisittimea1020972()
+{       
+    PageCounterDWR.getVisittime('1791272759','1087','TOTAL_COUNTER','0','10',callbackdataa1020972)
+}
+function callbackdataa1020972(data)
+{
+    document.getElementById("a1020972").innerHTML = data; 
+}
+getvisittimea1020972();
+</script></span>
+    </div>
+ </div>
+</div>
+   <script type="text/javascript" src="../../js/jquery.js"></script>
+    <script type="text/javascript" src="../../js/set.js"></script>
+    <script src="../../js/f.js"></script>
+    <script type="text/javascript" src="../../js/lib5.js"></script>
+    <script type="text/javascript" src="../../js/wow.min.js"></script>
+    <script type="text/javascript" src="../../js/public.js"></script>
+    <script src="../../js/lib.js"></script>
+    <link rel="stylesheet" href="../../css/animate.min.css">
+    <script type="text/javascript" src="../../js/wow.min.js"></script>
+    <script>
+
+        // 初始化wow.js
+        var wow = new WOW({
+            boxClass: 'wow',
+            animateClass: 'animated',
+            offset: 0,
+            mobile: true,
+            live: true
+        });
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            wow.init();
+        };
+ $('.bshare-weixin').click(function(){
+            $('.m-blackm').fadeIn(500);
+        })
+        $('body').on('click','.bsClose',function(){
+            $('.m-blackm').fadeOut(500);
+        })
+    </script>
+    <script>
+
+        console.log(document.location.href);//本页面地址，如localhost/html/index.html
+        function shareTo(stype) {
+            var ftit = '';
+            var flink = '';
+            var lk = '';
+            //获取文章标题
+            ftit = $('.nry_bt').text();//此处的class名应该根据自己本身页面的class来取
+            //获取网页中内容的第一张图片
+            flink = 'https://'+window.location.host+$('.content img').eq(0).attr('src');
+            if (typeof flink == 'undefined') {
+                flink = '';
+            }
+            //当内容中没有图片时，设置分享图片为网站logo
+            if (flink == '') {
+                /**
+                 * 此处根据自己页面的样式以及布局进行改变处理
+                 *
+                 */
+                lk = 'https://' + window.location.host + '../../new/image/logo308.png';
+            }
+            //如果是上传的图片则进行绝对路径拼接
+            if (flink.indexOf('/uploads/') != -1) {
+                lk = 'https://' + window.location.host + flink;
+            }
+            //百度编辑器自带图片获取
+            if (flink.indexOf('ueditor') != -1) {
+                lk = flink;
+            }
+            /**
+             * 进行QQ分享测试时，本地的页面会分享报错，需要用部署地址，可用'http://www.baidu.com'来代替document.location.href，进行测试查看效果
+             */
+            //qq空间接口的传参
+            if (stype == 'qzone') {
+                window.open('https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=' + document.location.href + '?sharesource=qzone&title=' + ftit + '&pics=' + lk + '&summary=' + document.querySelector('meta[name="description"]').getAttribute('content'));
+            }
+            //新浪微博接口的传参
+            if (stype == 'sina') {
+                window.open('https://service.weibo.com/share/share.php?url=' + document.location.href + '?sharesource=weibo&title=' + ftit + '&pic=' + lk + '&appkey=2706825840');
+            }
+            //生成二维码给微信扫描分享
+            if (stype == 'wechat') {
+
+                //https://zixuephp.net/inc/qrcode_img.php是生成微信二维码的网址，后面的url跟我们自己的网址，然后他会以二维码的形式输出
+                var qrstr=document.location.href;
+                if($('#qrid')[0].innerHTML==""){
+                    $('#qrid').qrcode(qrstr);
+                }
+                $('.qrid_zz')[0].style.display="flex";
+
+            }
+        }  
+
+    </script>
+</body>
+
+</html>

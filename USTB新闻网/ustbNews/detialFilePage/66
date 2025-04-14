@@ -1,0 +1,666 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="北京科技大学新闻网" />
+    
+    <title>学校举办“实践绘就最美青春 上好行走的大思政课”2023年学生暑期社会实践交流分享暨总结表彰大会-北京科技大学新闻网</title><META Name="keywords" Content="北京科技大学新闻网,新闻导读,实践,交流,美,社会,青春,暑期,思政,行走,学生,课,学校举办“实践绘就最美青春,上好行走的大思政课”2023年学生暑期社会实践交流分享暨总结表彰大会,实践绘就最美青春,上好行走的大思政课,2023年学生暑期社会实践交流分享,总结表彰,总结表彰大会,实践分享,暑期社会实践" />
+<META Name="description" Content="12月7日，“实践绘就最美青春上好行走的大思政课”北京科技大学2023年学生暑期社会实践交流分享暨总结表彰大会在教职工礼堂举行，学校党委书记武贵龙、党委副书记于成文，相关单位负责人、获奖师生代表及新生代表参加活动。大会由校团委副书记王亮主持。大会现场总结视频会议伊始，大家共同观看了2023年学生暑期社会实践总结视频。王鹂作2023年学生暑期社会实践工作汇报校团委书记王鹂作2023年学生暑期社会实践工作汇报。学校40..." />
+
+    <link rel="shortcut icon" href="../../images/favicon.ico" />
+  <link rel="stylesheet" href="../../css/style.css?v=1.1" />
+    <link rel="stylesheet" href="../../css/style2.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/index.css?v=2" />
+    <script src="../../js/jquery.min.js"></script>
+    <script src="../../js/share/babel.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="../../js/share/buttonLite.js"></script>
+    <script type="text/javascript" charset="utf-8" src="../../js/share/bshareC0.js"></script>
+ 
+ <script>
+            window.addEventListener("onorientationchange" in window ? "orientationchange" : "resize", hengshuping, false);
+            function hengshuping() {
+            
+                if (window.orientation == 90 || window.orientation == -90) {
+        
+                    $('.view').css("display", "flex")
+                } else {
+                    $('.view').css("display", "none")
+                }
+            }
+                jQuery(function () {
+            view();
+            jQuery(window).resize(function () { view(); });
+            
+            function view() { 
+                w = jQuery(window).width(); h = jQuery(window).height(); 
+                console.log(w,h)
+                if(w<768){
+                    if (w > h) { 
+                        jQuery('.view').show() 
+                    } else { 
+                        jQuery('.view').hide() 
+                    } }
+                }
+        });
+    </script><style>
+    .view {
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, .98);
+            color: #fff;
+            text-align: center;
+            position: fixed;
+            z-index: 60;
+            font-size: 20px;
+            display: none;
+            justify-content: center;
+            align-items: center;
+            padding: 0 50px;}
+    </style>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e784654535a5742000100054250 -->
+<link rel="stylesheet" type="text/css" href="../../bkzx_content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1087,'/bkzx_content.jsp',60772,1791272759)</script>
+</head>
+
+<body>
+   <div class="loader"></div>
+<div class="header ">
+ <div class="wps flex">
+   <div class="logo">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../../index.htm" title="新闻网"><img src="../../images/logo20231018.png" alt="" /></a></div>
+   <div class="hd-r flex-v-center">
+      <div class="flex">
+        
+         <script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><div class="hd-ico ">
+
+
+           <a href="https://www.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70368)">北科主页</a>
+         
+
+
+
+           <a href="https://newsold.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70292)">旧版新闻网</a>
+         
+
+
+
+           <a href="http://ustb.id.ustb.edu.cn/login" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 66646)">新闻投稿</a>
+         
+
+</div>
+          <div class="hd-serp"><script type="text/javascript">
+    function _nl_ys_check2(){
+        
+        var keyword = document.getElementById('showkeycode1020986').value;
+        if(keyword==null||keyword==""){
+            alert("Please enter the content you want to search!");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey1020986").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey1020986").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey1020986").value = base64.encode(document.getElementById("lucenenewssearchkey1020986").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode1020986"));
+        return true;
+    } 
+</script>
+<form class="hd-ser pore" action="../../ssjgy.jsp?wbtreeid=1087" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check2()">
+ <input type="hidden" id="lucenenewssearchkey1020986" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype1020986" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope1020986" name="searchScope" value="1">
+
+ 
+ <input type="text" placeholder="输入关键词搜索" class="inp" name="showkeycode" id="showkeycode1020986">
+             <input type="submit" value="" class="sub">
+ 
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+</div>
+         <div class="hd-nav-btn pore">
+          <button class="menu-btn1 navbtn">
+            <span class="line-1"></span><span class="line-2"></span><span class="line-3"></span>MENU
+          </button>
+         </div>
+      </div>
+   </div>
+ </div>
+
+ <div class="hd-nav">
+             <span class="hd-nav-close swiper-icons swi-close"></span>
+             <ul><li><a href="https://www.ustb.edu.cn/">北科主页</a></li>
+<li><a href="../../ttxw.htm">头条新闻</a></li>
+<li><a href="../../bkzx/xwdd.htm">北科资讯</a></li>
+<li><a href="../../stkj/tsbk/bksj.htm">视听空间</a></li>
+<li><a href="../../mtbk.htm">媒体北科</a></li>
+<li><a href="../../zhuantixinwen.htm">专题推荐</a></li>
+<li><a href="../../bkrw.htm">北科人物</a></li>
+<li><a href="../../szjy/szzx.htm">思政教育</a></li>
+<li><a href="../../bkrm1.htm">北科融媒</a></li>
+<li><a href="../../llxx.htm">理论学习</a></li>
+<li><a href="../../lianxiwomen.htm">联系我们</a></li>
+</ul>
+  </div>
+
+
+ 
+</div>
+
+<!-- 移动端头部s -->
+   <div class="headerm flex">
+      <div class="logo flex-v-center">    
+<a href="../../index.htm">
+        <img src="../../images/logo20231018.png" alt="">
+      </a>
+
+</div>
+      <div class="mobNavbtn flex">
+        <a href="javascript:;" class="trans searchbtn toSearch2 flex-v-center"><img src="../../images/serbtn.svg" height="20" /></a>
+        <div class="flex-v-center">
+          <button class="menu-btn navbtnm">
+            <span class="line-1"></span><span class="line-2"></span><span class="line-3"></span>MENU
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="sermob"><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode1020989').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey1020989").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey1020989").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey1020989").value = base64.encode(document.getElementById("lucenenewssearchkey1020989").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode1020989"));
+        return true;
+    } 
+</script>
+<form class="flex pore" action="../../ssjgy.jsp?wbtreeid=1087" method="post" id="au5a" name="au5a" onsubmit="return _nl_ys_check()">
+ <input type="hidden" id="lucenenewssearchkey1020989" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype1020989" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope1020989" name="searchScope" value="1">
+ 
+ 
+ <input type="text" placeholder="搜索..." class="inp" name="showkeycode" id="showkeycode1020989" />
+        <input type="submit" class="sub" value="" />
+ 
+
+</form>
+  <span class="swiper-icons swi-close close"></span>
+</div>
+
+    <div class="mobNav">
+      <div class="flex toplink">
+
+
+         <a href="https://www.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70293)">北科主页</a>
+      
+
+</div>
+      <ul class="flex"><li><div class="navp flex"><a href="https://www.ustb.edu.cn/">北科主页</a></div></li>
+<li><div class="navp flex"><a href="../../ttxw.htm">头条新闻</a></div></li>
+<li><div class="navp flex"><a href="../../bkzx/xwdd.htm">北科资讯</a></div></li>
+<li><div class="navp flex"><a href="../../stkj/tsbk/bksj.htm">视听空间</a></div></li>
+<li><div class="navp flex"><a href="../../mtbk.htm">媒体北科</a></div></li>
+<li><div class="navp flex"><a href="../../zhuantixinwen.htm">专题推荐</a></div></li>
+<li><div class="navp flex"><a href="../../bkrw.htm">北科人物</a></div></li>
+<li><div class="navp flex"><a href="../../szjy/szzx.htm">思政教育</a></div></li>
+<li><div class="navp flex"><a href="../../bkrm1.htm">北科融媒</a></div></li>
+<li><div class="navp flex"><a href="../../llxx.htm">理论学习</a></div></li>
+</ul>
+    </div>
+    <!-- 移动端头部e -->
+   
+    <div class="ban" style="background-image: url(../../images/bkzx.jpg);">
+        <!-- <div id="snow"></div> -->
+        <div id="parallax">
+            <div class="layer" data-depth="0">
+                <div id="particles-js"></div>
+            </div>
+        </div>
+        <div class="txt">
+            <div class="wp">
+                <div class="box">
+                   <h3 class="tit">
+
+
+
+北科资讯</h3>
+                    <div class="en">INFORMATION</div>
+                    <div class="cur">       <a href="https://www.ustb.edu.cn/">北科主页</a>   &gt; 
+        
+                <a href="../../index.htm">北科新闻</a>
+  
+               &gt; 
+
+                <a href="../../bkzx/xwdd.htm">北科资讯</a>
+  
+               &gt; 
+
+                <a href="../../bkzx/xwdd.htm">新闻导读</a>
+  
+               &gt; 
+
+                <a href="">正文</a>
+  
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 内容区域 -->
+    <div class="main ls" style="background-image: url(../../images/bgq1.jpg);">
+        <div class="wp fix">
+          <div class="cur cur-m">       <a href="https://www.ustb.edu.cn/">北科主页</a>   &gt; 
+        
+                <a href="../../index.htm">北科新闻</a>
+       
+               &gt; 
+
+                <a href="../../bkzx/xwdd.htm">北科资讯</a>
+       
+               &gt; 
+
+                <a href="../../bkzx/xwdd.htm">新闻导读</a>
+       
+               &gt; 
+
+                <a href="">正文</a>
+       
+</div>
+        </div>
+<div class="m-blackm l1"></div>
+        <div class="m-boxls1">
+            <div class="wp fix">
+
+                <div class="col-l wow fadeInUp">
+                    <div class="m-textq1">
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+
+<h1 class="nry_bt">学校举办“实践绘就最美青春 上好行走的大思政课”2023年学生暑期社会实践交流分享暨总结表彰大会</h1>
+
+
+                        <div class="info">
+                            <div class="item">
+                                <span class="date">2023-12-11</span>
+                            </div>
+                            <div class="item">
+                                <span>单位(作者)：校团委</span>
+                               
+                               </div>
+                        </div>
+                        <div class="txt">
+                       
+
+    <div id="vsb_content"><div class="v_news_content">
+<p class="vsbcontent_start">12月7日，“实践绘就最美青春 上好行走的大思政课”北京科技大学2023年学生暑期社会实践交流分享暨总结表彰大会在教职工礼堂举行，学校党委书记武贵龙、党委副书记于成文，相关单位负责人、获奖师生代表及新生代表参加活动。大会由校团委副书记王亮主持。</p> 
+<p class="vsbcontent_img"><img src="/__local/3/C0/0E/00E6C80CFACA5B7EFE51B77436B_E48C6F43_291E07.jpg" width="954" title="大会现场.JPG" alt="大会现场.JPG" vsbhref="vurl" vurl="/_vsl/3C00E00E6C80CFACA5B7EFE51B77436B/E48C6F43/291E07" vheight="" vwidth="954" orisrc="/__local/3/C0/0E/00E6C80CFACA5B7EFE51B77436B_E48C6F43_291E07.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">大会现场</p> 
+<p class="vsbcontent_img"><img src="/__local/5/64/82/E18B72B1AC69C165DA0059DE021_B25399D6_1D883.jpg" width="954" title="视频.jpg" alt="视频.jpg" vsbhref="vurl" vurl="/_vsl/56482E18B72B1AC69C165DA0059DE021/B25399D6/1D883" vheight="" vwidth="954" orisrc="/__local/5/64/82/E18B72B1AC69C165DA0059DE021_B25399D6_1D883.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">总结视频</p> 
+<p>会议伊始，大家共同观看了2023年学生暑期社会实践总结视频。</p> 
+<p class="vsbcontent_img"><img src="/__local/B/E5/19/C5ED74EA3F79D0C9CB9518DABB8_E2E9F4F6_2B001.jpg" width="954" title="王鹂书记.jpg" alt="王鹂书记.jpg" vsbhref="vurl" vurl="/_vsl/BE519C5ED74EA3F79D0C9CB9518DABB8/E2E9F4F6/2B001" vheight="" vwidth="954" orisrc="/__local/B/E5/19/C5ED74EA3F79D0C9CB9518DABB8_E2E9F4F6_2B001.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">王鹂作2023年学生暑期社会实践工作汇报</p> 
+<p>校团委书记王鹂作2023年学生暑期社会实践工作汇报。学校4000余名师生、400余支实践团奔赴全国各地，以“实践绘就最美青春——为国奉献筑新程，钢筋铁骨育新人”为主题，开展了“钢铁脊梁助力乡村振兴”“求实鼎新服务首都发展”“满井青年红色寻访与理论宣讲”“钢筋铁骨青年成长成才”四大专项行动和“学思践悟《习近平与大学生朋友们》，上好行走的‘大思政课’”特色活动。累计开展调研、访谈10万余次，寻访红色文化、传统文化1500余次，举办宣讲会1000余场，进行公益服务3000余次，支教时长20000余小时，形成科技发明168个、调研报告500余份，拍摄制作微电影（视频）750余个。</p> 
+<p class="vsbcontent_img"><img src="/__local/E/15/4D/3DAFDD10C95453F9F8750D98233_9A20B46A_B1D29.jpg" width="954" title="于成文老师宣读表彰公告.JPG" alt="于成文老师宣读表彰公告.JPG" vsbhref="vurl" vurl="/_vsl/E154D3DAFDD10C95453F9F8750D98233/9A20B46A/B1D29" vheight="" vwidth="954" orisrc="/__local/E/15/4D/3DAFDD10C95453F9F8750D98233_9A20B46A_B1D29.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">于成文宣布表彰决定</p> 
+<p>于成文宣读了“关于表彰2023年学生暑期社会实践优秀团队和个人的决定”，并向所有获奖团队和个人表示祝贺。2023年，经团队（个人）申报、学院推荐、材料审核及答辩评审等环节，授予“澧泉科技社会调查实践团”等15支实践团队“金奖团队”，“心路之禾安心桥志愿服务实践团”等25支实践团队“银奖团队”，“百年矿业调研实践团”等26支实践团队“铜奖团队”，王艺璇等10名学生“十佳标兵”，翟旺蕊等366名学生“先进个人”，“拾彩科技创新实践团”的《智能色盲眼镜》等57项成果“精品成果奖”，“红色筑梦寻访第十一实践团”等14支实践团“特色活动标兵（重点）团队”，翟学彬等10名学生“特色活动十佳标兵”，“宣扬红色宁风红韵返家乡实践团”的《红色圣地 悠悠宁夏》等22项成果“特色活动典型（优秀）成果”，崔晓丹等17名教师“优秀指导教师”，田欣然等15名教师“先进工作者”，肖哲懿等15名学生“领航人”<span style="text-indent: 32px; text-wrap: wrap;">称号</span>。</p> 
+<p class="vsbcontent_img"><img src="/__local/1/30/5F/DB1C1D365FFCA2C508865436C00_BDD7A252_264EEA.jpg" width="954" title="金奖团队.jpg" vsbhref="vurl" vurl="/_vsl/1305FDB1C1D365FFCA2C508865436C00/BDD7A252/264EEA" vheight="" vwidth="954" orisrc="/__local/1/30/5F/DB1C1D365FFCA2C508865436C00_BDD7A252_264EEA.jpg" class="img_vsb_content"></p> 
+<p class="vsbcontent_img"><img src="/__local/6/D4/16/DD12D0394AE172BC071B0729B81_1983BA83_228E1B.jpg" width="954" title="银奖.jpg" vsbhref="vurl" vurl="/_vsl/6D416DD12D0394AE172BC071B0729B81/1983BA83/228E1B" vheight="" vwidth="954" orisrc="/__local/6/D4/16/DD12D0394AE172BC071B0729B81_1983BA83_228E1B.jpg" class="img_vsb_content"></p> 
+<p class="vsbcontent_img"><img src="/__local/C/58/CE/BF1C76FEB0DCB7F94A509050492_1B625D2F_196FA6.jpg" width="954" title="铜奖侧.jpg" vsbhref="vurl" vurl="/_vsl/C58CEBF1C76FEB0DCB7F94A509050492/1B625D2F/196FA6" vheight="" vwidth="954" orisrc="/__local/C/58/CE/BF1C76FEB0DCB7F94A509050492_1B625D2F_196FA6.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">赵萌、史立伟为社会实践金奖、银奖、铜奖团队颁奖</p> 
+<p class="vsbcontent_img"><img src="/__local/2/57/79/9ADBAADCDA8DDBB41EFE77B589F_9CF9D271_2100F6.jpg" width="954" title="实践标兵.jpg" vsbhref="vurl" vurl="/_vsl/257799ADBAADCDA8DDBB41EFE77B589F/9CF9D271/2100F6" vheight="" vwidth="954" orisrc="/__local/2/57/79/9ADBAADCDA8DDBB41EFE77B589F_9CF9D271_2100F6.jpg" class="img_vsb_content"></p> 
+<p class="vsbcontent_img"><img src="/__local/2/B9/B1/20F0F9FC2303F72E0D5F68CA291_A9F2ABFD_1D7CBD.jpg" width="954" title="先进个人.jpg" vsbhref="vurl" vurl="/_vsl/2B9B120F0F9FC2303F72E0D5F68CA291/A9F2ABFD/1D7CBD" vheight="" vwidth="954" orisrc="/__local/2/B9/B1/20F0F9FC2303F72E0D5F68CA291_A9F2ABFD_1D7CBD.jpg" class="img_vsb_content"></p> 
+<p class="vsbcontent_img"><img src="/__local/C/B4/93/45A76A92B08A8E056D5FDB2A669_B1B6B548_2090CC.jpg" width="954" title="优秀成果奖.jpg" vsbhref="vurl" vurl="/_vsl/CB49345A76A92B08A8E056D5FDB2A669/B1B6B548/2090CC" vheight="" vwidth="954" orisrc="/__local/C/B4/93/45A76A92B08A8E056D5FDB2A669_B1B6B548_2090CC.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">罗熊、张静为实践十佳标兵、先进个人、优秀成果颁奖</p> 
+<p class="vsbcontent_img"><img src="/__local/6/1B/A6/53811AEBFBC9A2CF791882CB82F_C2F86B55_203AEC.jpg" width="954" title="优秀指导教师.jpg" word_img="" vsbhref="vurl" vurl="/_vsl/61BA653811AEBFBC9A2CF791882CB82F/C2F86B55/203AEC" vheight="" vwidth="954" orisrc="/__local/6/1B/A6/53811AEBFBC9A2CF791882CB82F_C2F86B55_203AEC.jpg" class="img_vsb_content"></p> 
+<p class="vsbcontent_img"><img src="/__local/3/C8/7B/EFC048F8105230EDFE39C882AD3_5713B9B0_23E848.jpg" width="954" title="先进工作者.jpg" word_img="" vsbhref="vurl" vurl="/_vsl/3C87BEFC048F8105230EDFE39C882AD3/5713B9B0/23E848" vheight="" vwidth="954" orisrc="/__local/3/C8/7B/EFC048F8105230EDFE39C882AD3_5713B9B0_23E848.jpg" class="img_vsb_content"></p> 
+<p class="vsbcontent_img"><img src="/__local/4/7A/DB/C12792C743F8917A54C9373711C_79E07263_217576.jpg" width="954" title="领航人.jpg" word_img="" vsbhref="vurl" vurl="/_vsl/47ADBC12792C743F8917A54C9373711C/79E07263/217576" vheight="" vwidth="954" orisrc="/__local/4/7A/DB/C12792C743F8917A54C9373711C_79E07263_217576.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">董春阳、薛浪为实践优秀指导教师、先进工作者、领航人颁奖</p> 
+<p class="vsbcontent_img"><img src="/__local/6/62/1A/CEBC30F8C107FFCB1E86DAF606C_AAFEC5C9_202014.jpg" width="954" title="特色活动优秀团队.jpg" alt="特色活动优秀团队.jpg" vsbhref="vurl" vurl="/_vsl/6621ACEBC30F8C107FFCB1E86DAF606C/AAFEC5C9/202014" vheight="" vwidth="954" orisrc="/__local/6/62/1A/CEBC30F8C107FFCB1E86DAF606C_AAFEC5C9_202014.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">耿倩男为“特色活动优秀团队”颁奖</p> 
+<p class="vsbcontent_img"><img src="/__local/6/1D/3C/6DE26B4991306079F0580E4F08D_C119A850_1B2A8C.jpg" width="954" title="特色活动十佳标兵.jpg" vsbhref="vurl" vurl="/_vsl/61D3C6DE26B4991306079F0580E4F08D/C119A850/1B2A8C" vheight="" vwidth="954" orisrc="/__local/6/1D/3C/6DE26B4991306079F0580E4F08D_C119A850_1B2A8C.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">武森为“特色活动十佳标兵”颁奖</p> 
+<p class="vsbcontent_img"><img src="/__local/5/BB/6D/63F93B1098051DF96DD541E2316_7E7ADEBB_149E47.jpg" width="954" title="特色活动优秀成果.jpg" word_img="" vsbhref="vurl" vurl="/_vsl/5BB6D63F93B1098051DF96DD541E2316/7E7ADEBB/149E47" vheight="" vwidth="954" orisrc="/__local/5/BB/6D/63F93B1098051DF96DD541E2316_7E7ADEBB_149E47.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">段晓芳为“特色活动优秀成果”颁奖</p> 
+<p>合作发展办公室主任兼党办、校办副主任赵萌，党委教师工作部部长董春阳，学生工作部部长史立伟，教务处处长罗熊，土木与资源工程学院党委书记耿倩男，经济管理学院党委书记武森，马克思主义学院教授段晓芳，党委宣传部副部长薛浪，创新创业中心副主任张静为2023年学生暑期社会实践获奖师生代表颁奖。</p> 
+<p class="vsbcontent_img"><img src="/__local/5/D8/80/52C27BB1F7B3579907475D4D34F_BD706420_129A86.jpg" width="954" title="节目展示1.jpg" vsbhref="vurl" vurl="/_vsl/5D88052C27BB1F7B3579907475D4D34F/BD706420/129A86" vheight="" vwidth="954" orisrc="/__local/5/D8/80/52C27BB1F7B3579907475D4D34F_BD706420_129A86.jpg" class="img_vsb_content"></p> 
+<p class="vsbcontent_img"><img src="/__local/0/92/12/75508AC1F08A9C2D2B73BA999FF_378AF811_1257F1.jpg" width="954" title="节目展示2.jpg" vsbhref="vurl" vurl="/_vsl/0921275508AC1F08A9C2D2B73BA999FF/378AF811/1257F1" vheight="" vwidth="954" orisrc="/__local/0/92/12/75508AC1F08A9C2D2B73BA999FF_378AF811_1257F1.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">风采展示</p> 
+<p>在学生暑期社会实践成果交流分享环节，心路、甘露、本硕同行、华夏拾遗、迹语、酉良、书彝等实践团队围绕文化传承、乡村教育等方面进行了助力乡村振兴汇报展示；鹿贝柯、孟子居、红色筑梦、黔守、灰雀等实践团队围绕产业发展、基层治理等方面进行了助力首都发展汇报展示；百年矿业、左肩有你、机源四方、拾彩、索行、井溯等实践团队围绕专业认知提升、科技成果转化等方面进行了汇报展示；澧泉、弦歌、SPQ、甘露、兴安等实践团队结合《习近平与大学生朋友》理论学习以及“沿着总书记的足迹实践”切身体悟，进行了主题宣讲和《中国精神》歌曲演唱。</p> 
+<p class="vsbcontent_img"><img src="/__local/5/47/B0/B570B17119B664DD506F7E9C252_4EB07B67_25DAF.jpg" width="954" title="武书记.jpg" alt="武书记.jpg" vsbhref="vurl" vurl="/_vsl/547B0B570B17119B664DD506F7E9C252/4EB07B67/25DAF" vheight="" vwidth="954" orisrc="/__local/5/47/B0/B570B17119B664DD506F7E9C252_4EB07B67_25DAF.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">武贵龙作总结讲话</p> 
+<p>武贵龙作总结讲话，充分肯定了社会实践工作，并向获奖的师生表示了祝贺，向社会实践课程组的教师、团学干部们表示了感谢。同时，针对进一步提升社会实践工作的科学性水平、更好地发挥社会实践对人才培养的积极作用，他指出，一是要进一步提升课程建设科学性，结合“大思政课”建设，加强理论研究，提升教学质量，更好地整合、盘活和调动资源；二是要进一步加强实践育人实效性，拓展实践领域，打通社会实践与思政教育、科技创新等育人环节，发掘优秀实践成果；三是要进一步扩大实践成果影响力，注重树立和挖掘典型事例，发挥网上网下协同优势，将实践成果及时有效地进行传播展示。</p> 
+<p class="vsbcontent_img"><img src="/__local/2/51/08/35962976F415CC11451B55B240A_39BAECF7_320BD8.jpg" width="954" title="合影.jpg" alt="合影.jpg" vsbhref="vurl" vurl="/_vsl/2510835962976F415CC11451B55B240A/39BAECF7/320BD8" vheight="" vwidth="954" orisrc="/__local/2/51/08/35962976F415CC11451B55B240A_39BAECF7_320BD8.jpg" class="img_vsb_content"></p> 
+<p label="图片说明" style="font-family: 楷体, 楷体_GB2312, SimKai; padding: 0.45em 0px; font-size: 16px; text-align: center !important; text-indent: 0px !important;">合影留念</p> 
+<p>2023年，学校获评“全国暑期实践大学TOP10—最佳实践大学”，全国“三下乡”社会实践活动优秀组织单位，全国“三下乡”社会实践“镜头中的三下乡”优秀组织单位，首都大学生暑期社会实践先进单位，“沿着总书记的足迹实践，上好行走的大思政课”实践项目获全国大学生暑期实践项目百强，澧泉科技社会调查实践团获全国大学生暑期实践团队十强，智能色盲眼镜获全国大学生暑期实践成果十强，《应急推演》获全国大学生暑期实践成果百强，实践团队累计入选省部级以上重点（优秀）团队120余次。1人获评全国“三下乡”社会实践活动先进个人，27人获评北京市社会实践先进工作者、先进个人。实践事迹被人民网、新华网、央视网、中国青年网、新京报等省级及以上媒体报道150余次，收到了100余家实践单位感谢信。</p> 
+<p class="vsbcontent_end">自建校以来，北京科技大学始终重视实践育人，学校社会实践工作受到了众多领导和社会各界的高度肯定，承接了不同时期党和国家的诸多重要任务，在学校发展和人才培养过程中发挥了积极作用，为社会发展贡献了青春力量。未来，北科大青年将持续面向实际、深入实践、知行合一，在祖国最需要的地方贡献青春力量，努力成为“听党话、跟党走、有理想、有本领、具有为国奉献钢筋铁骨的高素质人才”。</p> 
+<p class="vsbcontent_end" style="text-align: right;"><span style="font-size: 14px;">（摄影：校团委）</span></p> 
+<p class="vsbcontent_end" style="text-align: right;"><span style="font-size: 14px;">（责编：付云笛、薛浪）</span></p>
+</div></div><div id="div_vote_id"></div>
+        
+    
+    </div>
+                        <div class="bshare-custom">
+                            <span>分享到：</span>
+                            <a title="分享到新浪微博" onclick="shareTo('sina')" class="bshare-sinaminiblog" href="javascript:void(0);"></a>
+                            <a title="分享到微信" onclick="shareTo('wechat')" class="bshare-weixin" href="javascript:void(0);"></a>
+                            <a title="分享到QQ空间" onclick="shareTo('qzone')" class="bshare-qzone" href="javascript:void(0);"></a>
+                            <a title="分享到Facebook" class="bshare-facebook" href="javascript:void(0);"></a>
+                            <a title="分享到LinkedIn" class="bshare-linkedin" href="javascript:void(0);"></a>
+                            <a title="分享到Twitter" class="bshare-twitter" href="javascript:void(0);"></a>
+                        </div>
+                        
+                        <div class="m-pn">
+                            <a href="javascript:history.go(-1);" class="a-return">返回上一级</a>
+                            <div class="aa">
+                                <a href="60777.htm">上一条：2023年岗位聘任工作布置会召开</a>
+                                <a href="60766.htm">下一条：外国语学院教学团队斩获全国特等奖</a>
+                            </div>
+                        </div>
+    
+    
+    
+ 
+
+</form>
+</div>
+                </div>
+                <div class="col-r wow fadeInRight">
+                   <div class="m-newestls"><script language="javascript" src="/system/resource/js/centerCutImg.js"></script><div class="g-titls1">
+                            <h3 class="tit"><i style="background-image: url(../../images/iconls8.png);"></i>最新阅读</h3>
+                            <a href="../../bkzx/xwdd.htm" class="more">更多&gt;</a>
+                        </div>
+                        <ul class="ul-listl3">
+
+<li class="on">
+                                <a href="60807.htm" class="con">
+                                    <div class="date sptime">2023.12.13</div>
+                                    <h3 class="tit">核电安全技术与装备全国重点实验室揭牌并举行管理委员会2023...</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60800.htm" class="con">
+                                    <div class="date sptime">2023.12.13</div>
+                                    <h3 class="tit">国家材料服役安全科学中心顺利通过CNAS复评审和扩大认可范围...</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60799.htm" class="con">
+                                    <div class="date sptime">2023.12.13</div>
+                                    <h3 class="tit">校长杨仁树一行赴江西赣州深化校际校企合作</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60787.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">我校受邀出席2023世界中文大会</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60788.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">科学技术与文明研究中心第四届理事会暨学术委员会第五次会议举行</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60789.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">学校举办“凝心铸魂强根基、团结奋进新征程”党外代表人士培训班</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60785.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">“材料-器件-装备-系统”基础研究创新联合体签约仪式举行</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60781.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">海淀区高等院校交通安全工作部门联席会赴我校开展年度交通安...</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60780.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">雄安校区、心向往之——2023级本科生辅导员年级组赴雄安新区...</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60777.htm" class="con">
+                                    <div class="date sptime">2023.12.12</div>
+                                    <h3 class="tit">2023年岗位聘任工作布置会召开</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60772.htm" class="con">
+                                    <div class="date sptime">2023.12.11</div>
+                                    <h3 class="tit">学校举办“实践绘就最美青春 上好行走的大思政课”2023年学生...</h3>
+                                </a>
+                            </li>
+
+
+<li>
+                                <a href="60766.htm" class="con">
+                                    <div class="date sptime">2023.12.11</div>
+                                    <h3 class="tit">外国语学院教学团队斩获全国特等奖</h3>
+                                </a>
+                            </li>
+
+</ul><script>_showDynClickBatch(['dynclicks_u13_60807','dynclicks_u13_60800','dynclicks_u13_60799','dynclicks_u13_60787','dynclicks_u13_60788','dynclicks_u13_60789','dynclicks_u13_60785','dynclicks_u13_60781','dynclicks_u13_60780','dynclicks_u13_60777','dynclicks_u13_60772','dynclicks_u13_60766'],[60807,60800,60799,60787,60788,60789,60785,60781,60780,60777,60772,60766],"wbnews", 1791272759)</script>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+ <div class="wp1 fta flex">
+  
+   <dl class="ft1 flex-v-center"><dt>快速链接</dt>
+    <dd class="flex-center">
+       <ul class="flex">
+         
+<li><a href="http://yx.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70298)"><span class="titline_w">迎新网</span></a></li>
+         
+<li><a href="http://gs.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70299)"><span class="titline_w">公派研究生</span></a></li>
+         
+<li><a href="http://xinli.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70300)"><span class="titline_w">心理咨询在线</span></a></li>
+         
+<li><a href="http://rsc.ustb.edu.cn/bsh/zzgd/index.htm" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70301)"><span class="titline_w">博士后流动站</span></a></li>
+         
+<li><a href="http://alumni.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70302)"><span class="titline_w">校友会</span></a></li>
+         
+<li><a href="http://www.kdtg.com.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70303)"><span class="titline_w">天工大厦</span></a></li>
+         
+<li><a href="http://pingan.ustb.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70304)"><span class="titline_w">平安校园</span></a></li>
+         
+<li><a href="https://www.ustb.edu.cn/kxyj/xzqk/index.htm" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70305)"><span class="titline_w">学术期刊</span></a></li>
+         
+</ul>
+    </dd></dl>
+    <div class="ftlogo">    
+<a href="../../index.htm"><img alt="" src="../../images/logoft20231018.png"></a>
+
+</div>
+    <dl class="ft1 ft2 flex-v-center"><dt>媒体链接</dt>
+    <dd class="flex-center">
+       <ul class="flex">
+         
+<li><a href="http://www.cyol.net/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70332)"><span class="titline_w">中国青年报</span></a></li>
+         
+<li><a href="https://www.gmw.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70333)"><span class="titline_w">光明网</span></a></li>
+         
+<li><a href="http://www.cctv.com/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70334)"><span class="titline_w">央视网</span></a></li>
+         
+<li><a href="http://paper.people.com.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70335)"><span class="titline_w">人民日报</span></a></li>
+         
+<li><a href="http://www.centv.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70336)"><span class="titline_w">中国教育电视台</span></a></li>
+         
+<li><a href="http://www.xinhuanet.com/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70337)"><span class="titline_w">新华网</span></a></li>
+         
+<li><a href="https://bjksb.bjeea.cn/html/ksb/index.html" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70338)"><span class="titline_w">北京考试报</span></a></li>
+         
+<li><a href="https://www.sciencenet.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1791272759, 70339)"><span class="titline_w">科学网</span></a></li>
+         
+</ul>
+    </dd></dl>
+  
+ </div>
+ <div class="wp ftb flex">
+    <div class="codes flex">    
+        <a href="https://weibo.com/USTB" onclick="_addDynClicks(&#34;wbimage&#34;, 1791272759, 60576)"><i class="swiper-icons swi-sina"></i>
+
+</a>
+
+
+        <a href="javascript:;"><i class="swiper-icons swi-weixin"></i>
+        <span><img alt="" src="../../images/2e23326e6fcd31c1c85b441d0cf5aa41.jpg"></span>
+      </a>
+     
+
+</div>
+    <div class="copyright"><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>版权所有©北京科技大学 京公网安备：110402430062京ICP备：1303011</p></div>
+    <div class="viewer">
+      <i class="swiper-icons swi-more1"></i><span><script language="javascript" src="../../_dwr/util.js"></script><script language="javascript" src="../../_dwr/interface/PageCounterDWR.js"></script><span id="a1020972" name="a1020972"></span>   
+
+<script>
+function getvisittimea1020972()
+{       
+    PageCounterDWR.getVisittime('1791272759','1087','TOTAL_COUNTER','0','10',callbackdataa1020972)
+}
+function callbackdataa1020972(data)
+{
+    document.getElementById("a1020972").innerHTML = data; 
+}
+getvisittimea1020972();
+</script></span>
+    </div>
+ </div>
+</div>
+   <script type="text/javascript" src="../../js/jquery.js"></script>
+    <script type="text/javascript" src="../../js/set.js"></script>
+    <script src="../../js/f.js"></script>
+    <script type="text/javascript" src="../../js/lib5.js"></script>
+    <script type="text/javascript" src="../../js/wow.min.js"></script>
+    <script type="text/javascript" src="../../js/public.js"></script>
+    <script src="../../js/lib.js"></script>
+    <link rel="stylesheet" href="../../css/animate.min.css">
+    <script type="text/javascript" src="../../js/wow.min.js"></script>
+    <script>
+
+        // 初始化wow.js
+        var wow = new WOW({
+            boxClass: 'wow',
+            animateClass: 'animated',
+            offset: 0,
+            mobile: true,
+            live: true
+        });
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            wow.init();
+        };
+ $('.bshare-weixin').click(function(){
+            $('.m-blackm').fadeIn(500);
+        })
+        $('body').on('click','.bsClose',function(){
+            $('.m-blackm').fadeOut(500);
+        })
+    </script>
+    <script>
+
+        console.log(document.location.href);//本页面地址，如localhost/html/index.html
+        function shareTo(stype) {
+            var ftit = '';
+            var flink = '';
+            var lk = '';
+            //获取文章标题
+            ftit = $('.nry_bt').text();//此处的class名应该根据自己本身页面的class来取
+            //获取网页中内容的第一张图片
+            flink = 'https://'+window.location.host+$('.content img').eq(0).attr('src');
+            if (typeof flink == 'undefined') {
+                flink = '';
+            }
+            //当内容中没有图片时，设置分享图片为网站logo
+            if (flink == '') {
+                /**
+                 * 此处根据自己页面的样式以及布局进行改变处理
+                 *
+                 */
+                lk = 'https://' + window.location.host + '../../new/image/logo308.png';
+            }
+            //如果是上传的图片则进行绝对路径拼接
+            if (flink.indexOf('/uploads/') != -1) {
+                lk = 'https://' + window.location.host + flink;
+            }
+            //百度编辑器自带图片获取
+            if (flink.indexOf('ueditor') != -1) {
+                lk = flink;
+            }
+            /**
+             * 进行QQ分享测试时，本地的页面会分享报错，需要用部署地址，可用'http://www.baidu.com'来代替document.location.href，进行测试查看效果
+             */
+            //qq空间接口的传参
+            if (stype == 'qzone') {
+                window.open('https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=' + document.location.href + '?sharesource=qzone&title=' + ftit + '&pics=' + lk + '&summary=' + document.querySelector('meta[name="description"]').getAttribute('content'));
+            }
+            //新浪微博接口的传参
+            if (stype == 'sina') {
+                window.open('https://service.weibo.com/share/share.php?url=' + document.location.href + '?sharesource=weibo&title=' + ftit + '&pic=' + lk + '&appkey=2706825840');
+            }
+            //生成二维码给微信扫描分享
+            if (stype == 'wechat') {
+
+                //https://zixuephp.net/inc/qrcode_img.php是生成微信二维码的网址，后面的url跟我们自己的网址，然后他会以二维码的形式输出
+                var qrstr=document.location.href;
+                if($('#qrid')[0].innerHTML==""){
+                    $('#qrid').qrcode(qrstr);
+                }
+                $('.qrid_zz')[0].style.display="flex";
+
+            }
+        }  
+
+    </script>
+</body>
+
+</html>
