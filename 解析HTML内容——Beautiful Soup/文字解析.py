@@ -20,8 +20,16 @@ def getHTMLText(url, path, headers=None):
     except Exception as e:
         print(e)
 
+
 if __name__ == '__main__':
     url = 'http://python123.io/ws/demo.html'
     headers = {'User-Agent': 'Mozilla/5.0'}
-    root = 'D:/'
-    name = ''
+    root = r'F:\Spider\解析HTML内容——Beautiful Soup'
+    name = 'python123.html'
+    path = os.path.join(root,name)
+    # print(path)
+    getHTMLText(url, path, headers)
+    with open(path, 'r') as f:
+        html = f.read()
+        soup = BeautifulSoup(html, 'lxml')
+    print(soup.prettify())
