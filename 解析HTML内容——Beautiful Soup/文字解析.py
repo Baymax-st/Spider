@@ -24,7 +24,7 @@ def getHTMLText(url, path, headers=None):
 if __name__ == '__main__':
     url = 'http://python123.io/ws/demo.html'
     headers = {'User-Agent': 'Mozilla/5.0'}
-    root = r'F:\Spider\解析HTML内容——Beautiful Soup'
+    root = r'F:/Spider/解析HTML内容——Beautiful Soup'
     name = 'python123.html'
     path = os.path.join(root, name)
     # print(path)
@@ -38,7 +38,8 @@ if __name__ == '__main__':
     # 输出为：<a class="py1" href="http://www.icourse163.org/course/BIT-268001" id="link1">Basic Python</a>
     print(soup.a.name)  # 获取标签的名称
     print(soup.a.parent.name)  # 获取父标签的名称
-    print(soup.a.attrs)  # 获取标签的属性值
+    print(soup.a.attrs)
+    print(soup.a.attrs['href'])  # 获取标签的属性值
     print(soup.a['href'])  # 获取标签href的属性值
     for link in soup.find_all('a'):
         print(link.get('href'))
