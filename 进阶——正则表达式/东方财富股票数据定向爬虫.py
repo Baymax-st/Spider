@@ -5,81 +5,93 @@ from bs4 import BeautifulSoup
 import bs4
 
 
-def getHtmlText(url, headers=None, path=None):
+def getHtmlText(url, path=None):
     '''
-    :param url: ĞèÒªÅÀÈ¡µÄÍøÒ³µØÖ·
-    :param headers: ÇëÇóÍ·
-    :param path: ÎÄ¼ş±£´æÂ·¾¶
-    :return: ÍøÒ³htmlÎÄ±¾»ò¿Õ×Ö·û´®
+    :param url: éœ€è¦çˆ¬å–çš„ç½‘é¡µåœ°å€
+    :param headers: è¯·æ±‚å¤´
+    :param path: æ–‡ä»¶ä¿å­˜è·¯å¾„
+    :return: ç½‘é¡µhtmlæ–‡æœ¬æˆ–ç©ºå­—ç¬¦ä¸²
     '''
 
     try:
-        r = requests.get(url, timeout=30, headers=headers)
+        r = requests.get(url, timeout=30, headers={'headers':'Mozilla/5.0'})
         r.raise_for_status()
         r.encoding = r.apparent_encoding
-        print('ÅÀÈ¡³É¹¦')
+        print('çˆ¬å–æˆåŠŸ')
         if path is not None:
             root, filename = os.path.split(path)
             if not os.path.exists(root):
                 os.mkdir(root)
             if not os.path.exists(path):
                 with open(path, 'w', encoding=r.encoding) as f:
-                    f.write(f'encodingÎª{r.encoding}\n')
+                    f.write(f'encodingä¸º{r.encoding}\n')
                     f.write(r.text)
-                print('ÎÄ¼şĞ´Èë³É¹¦')
+                print('æ–‡ä»¶å†™å…¥æˆåŠŸ')
             else:
-                print('ÎÄ¼şÒÑ´æÔÚ')
+                print('æ–‡ä»¶å·²å­˜åœ¨')
         return r.text
     except Exception as e:
-        print(f'ÅÀÈ¡Ê§°Ü\n{e}')
+        print(f'çˆ¬å–å¤±è´¥\n{e}')
 
 
-def parsePage(html):
-    html = BeautifulSoup(html, 'lxml')
-    tbody = html.find('tbody')
-    stockList = {}
+def getStockCode(url, path=None):
+    htmlText = getHtmlText(url, path)  # å¾—åˆ°ä¸œæ–¹è´¢å¯Œç½‘çš„htmlæ–‡æœ¬
+    html = BeautifulSoup(htmlText, 'lxml')  # è§£ææ–‡æœ¬
+    tbody = html.find('tbody')  # æ£€æŸ¥htmlç»“æ„å‘ç°æ‰€æœ‰è‚¡ç¥¨ä¿¡æ¯åŒ…å«åœ¨tbodyæ ‡ç­¾ä¸­
+    stockList = {}  # è‚¡ç¥¨åç§°å’Œä»£ç çš„å­—å…¸
     for item in tbody.find_all('tr'):
         if isinstance(item, bs4.element.Tag):
             tds = item.find_all('td')
             if len(tds)==0:
                 continue
-            name = tds[1].string.strip()
-            link = tds[1].get('href')
+            name = tds[2].string.strip()
+            link = tds[2].get('href')
             code = re.search(r'\d{6}',link)
             stockList[name] = code
     return stockList
 
 
-def mergeLink(stockList):
-    stockLinks = {}
+def getStockInfo(stockList):
+    allStockInfo = []
     for name, code in stockList.items():
+        stockInfoList = {}
         url = f'https://gushitong.baidu.com/stock/ab-{code}'
-        stockLinks[name] = url
-    return stockLinks
+        stockInfoHtml = getHtmlText(url)
+        if stockInfoHtml is None:
+            print(f'è·å–{name}:{code}çš„è‚¡ç¥¨ä¿¡æ¯å¤±è´¥')
+            continue
+        else:
+            soup = BeautifulSoup(stockInfoHtml, 'lxml')
+            # è§£æè‚¡ç¥¨ä¿¡æ¯
+            stockInfoBox = soup.find('div', class_='pankou-fold-box')
+            stockInfo = stockInfoBox.find_all('div', class_='pankou-item')
+            if len(stockInfo) == 0:
+                print(f'è·å–{name}:{code}çš„è‚¡ç¥¨ä¿¡æ¯å¤±è´¥')
+                continue
+            else:
+                for item in stockInfo:
+                    if isinstance(item, bs4.element.Tag):
+                        divs = item.find_all('div')
+                        # æå–è‚¡ç¥¨ä¿¡æ¯
+                        factor = divs[0].string.strip()
+                        number = divs[1].string.strip()
+                        stockInfoList[factor] = number
+                allStockInfo.append(stockInfoList)
+    return allStockInfo
 
-def printStockInfo(infoList):
-    tpls = f''
-    name
-    print(tpls.format({},{}))
-    pass
 
 def main():
-    # ÅÀÈ¡¶«·½²Æ¸»ÉÏ½»ËùµÄËùÓĞ¹ÉÆ±´úÂë
-    root = r'F:/Spider/½ø½×¡ª¡ªÕıÔò±í´ïÊ½'
-    filename = '¶«·½²Æ¸»¹ÉÆ±htmlÔ´´úÂë.txt'
+    # çˆ¬å–ä¸œæ–¹è´¢å¯Œä¸Šäº¤æ‰€çš„æ‰€æœ‰è‚¡ç¥¨ä»£ç 
+    root = r'F:/Spider/è¿›é˜¶â€”â€”æ­£åˆ™è¡¨è¾¾å¼'
+    filename = 'ä¸œæ–¹è´¢å¯Œè‚¡ç¥¨htmlæºä»£ç .txt'
     path = os.path.join(root, filename)
-    headers = 'Mozilla/5.0'
     url = r'https://quote.eastmoney.com/center/gridlist.html#bj_a_board'
-    stockHtml = getHtmlText(url, path=path, headers=headers)
-    # ½âÎöÍøÒ³ĞÅÏ¢£¬µÃµ½¹ÉÆ±Ãû³Æ¼°´úÂë£¬ÒÔ×ÖµäĞÎÊ½·µ»Ø
-    stockList = parsePage(stockHtml)
-    # Éú³ÉÏêÏ¸ĞÅÏ¢Á´½Ó£¬ÒÔ±ãÔÚ°Ù¶ÈµÄ¹ÉÊĞÍ¨ÖĞ²éÕÒ¹ÉÆ±¼Û¸ñµÈĞÅÏ¢
-    infoLinks = mergeLink(stockList)
-    for name, link in infoLinks.items():
-        html = getHtmlText(link, headers=headers)
-    outputFile = '¹ÉÆ±ĞÅÏ¢.txt'
-    outputPath = os.path.join(root, outputFile)
-
+    # è§£æç½‘é¡µä¿¡æ¯ï¼Œå¾—åˆ°è‚¡ç¥¨åç§°åŠä»£ç ï¼Œä»¥å­—å…¸å½¢å¼è¿”å›
+    stockList = getStockCode(url, path)  # å¾—åˆ°è‚¡ç¥¨åç§°å’Œä»£ç çš„å­—å…¸
+    allStockInfo = getStockInfo(stockList)  # ç”Ÿæˆè¯¦ç»†ä¿¡æ¯é“¾æ¥ï¼Œä»¥ä¾¿åœ¨ç™¾åº¦çš„è‚¡å¸‚é€šä¸­æŸ¥æ‰¾è‚¡ç¥¨ä»·æ ¼ç­‰ä¿¡æ¯
+    # outputFile = 'è‚¡ç¥¨ä¿¡æ¯.txt'
+    # outputPath = os.path.join(root, outputFile)
+    print(allStockInfo)
 
 main()
 
