@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/gname/gname/spiders/name.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lottery/lottery/pipelines.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/解析HTML内容——Beautiful Soup/4399游戏.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/解析HTML内容——Beautiful Soup/中国大学排名.html" charset="UTF-16" />
     <file url="PROJECT" charset="GBK" />
